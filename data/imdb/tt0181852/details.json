@@ -1,0 +1,41 @@
+{
+  "Title": "Terminator 3: Rise of the Machines",
+  "Year": "2003",
+  "Rated": "R",
+  "Released": "02 Jul 2003",
+  "Runtime": "109 min",
+  "Genre": "Action, Sci-Fi",
+  "Director": "Jonathan Mostow",
+  "Writer": "John Brancato, Michael Ferris, Tedi Sarafian",
+  "Actors": "Arnold Schwarzenegger, Nick Stahl, Kristanna Loken",
+  "Plot": "John Connor must face a female Terminatrix with power over all the machines. But a new T-800 unit Terminator sent back through time will guide him through the coming battle.",
+  "Language": "English",
+  "Country": "United States, Germany, United Kingdom",
+  "Awards": "3 wins & 24 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "6.3",
+  "imdbVotes": "424,110",
+  "imdbID": "tt0181852",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$150,371,112",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "loftet_01"
+}

@@ -1,0 +1,41 @@
+{
+  "Title": "Mad Max 2: The Road Warrior",
+  "Year": "1981",
+  "Rated": "R",
+  "Released": "21 May 1982",
+  "Runtime": "96 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "George Miller",
+  "Writer": "Terry Hayes, George Miller, Brian Hannant",
+  "Actors": "Mel Gibson, Bruce Spence, Michael Preston",
+  "Plot": "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline-rich community get rid of a horde of bandits.",
+  "Language": "English",
+  "Country": "Australia",
+  "Awards": "8 wins & 12 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTAyNzBiZWUtMGY4YS00YzkzLWJhNGUtNTU5OThlZjZhZTYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "Metascore": "77",
+  "imdbRating": "7.6",
+  "imdbVotes": "204,575",
+  "imdbID": "tt0082694",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$23,667,907",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "loftet_01"
+}

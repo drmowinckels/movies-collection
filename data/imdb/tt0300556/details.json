@@ -1,0 +1,41 @@
+{
+  "Title": "Timeline",
+  "Year": "2003",
+  "Rated": "PG-13",
+  "Released": "26 Nov 2003",
+  "Runtime": "116 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Richard Donner",
+  "Writer": "Michael Crichton, Jeff Maguire, George Nolfi",
+  "Actors": "Paul Walker, Gerard Butler, Billy Connolly",
+  "Plot": "A group of archaeologists get embroiled in an adventure where they must travel back in time to 14th Century France, to save their professor before the French battle the English at Castlegard. If they fail, they won't be able to re...",
+  "Language": "English, French",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5OTAyNDE3NV5BMl5BanBnXkFtZTYwOTkzMzE3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "13%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "29/100"
+    }
+  ],
+  "Metascore": "29",
+  "imdbRating": "5.6",
+  "imdbVotes": "66,973",
+  "imdbID": "tt0300556",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$19,481,943",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "loftet_01"
+}

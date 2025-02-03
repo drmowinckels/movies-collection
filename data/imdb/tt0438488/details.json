@@ -1,0 +1,41 @@
+{
+  "Title": "Terminator Salvation",
+  "Year": "2009",
+  "Rated": "PG-13",
+  "Released": "21 May 2009",
+  "Runtime": "115 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "McG",
+  "Writer": "John Brancato, Michael Ferris",
+  "Actors": "Christian Bale, Sam Worthington, Anton Yelchin",
+  "Plot": "As the machines prepare for a final attack, John Connor and a mysterious stranger delve into the heart of Skynet and uncover a terrible secret involving the annihilation of mankind.",
+  "Language": "English, Italian",
+  "Country": "United States",
+  "Awards": "2 wins & 14 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWY1OWQ4ZWQtYzZkOS00ZTU0LWE3MDItOTg3YzdmODRkMDVjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "Metascore": "49",
+  "imdbRating": "6.5",
+  "imdbVotes": "382,860",
+  "imdbID": "tt0438488",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$125,322,469",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "loftet_01"
+}
