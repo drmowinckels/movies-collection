@@ -1,0 +1,37 @@
+{
+  "Title": "The Island",
+  "Year": "2005",
+  "Rated": "PG-13",
+  "Released": "22 Jul 2005",
+  "Runtime": "136 min",
+  "Genre": "Action, Sci-Fi, Thriller",
+  "Director": "Michael Bay",
+  "Writer": "Caspian Tredwell-Owen, Alex Kurtzman, Roberto Orci",
+  "Actors": "Scarlett Johansson, Ewan McGregor, Djimon Hounsou",
+  "Plot": "In 2019, a mercenary pursues a man and woman who escaped a research facility after learning their true fate.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 6 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwNjk0NjM1ODReQTJeQWpwZ15BbWU3MDc1NjIxMzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "Metascore": "50",
+  "imdbRating": "6.8",
+  "imdbVotes": "332,694",
+  "imdbID": "tt0399201",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$35,818,913",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

@@ -1,0 +1,34 @@
+{
+  "Title": "Oliver Twist",
+  "Year": "1999",
+  "Rated": "N/A",
+  "Released": "08 Oct 2000",
+  "Runtime": "386 min",
+  "Genre": "Crime, Drama",
+  "Director": "N/A",
+  "Writer": "N/A",
+  "Actors": "Sam Smith, David Ross, Julie Walters",
+  "Plot": "An orphan named Oliver Twist (Sam Smith) meets a pickpocket on the streets of London. From there, he joins a household of boys who are trained to steal for their master.",
+  "Language": "English",
+  "Country": "United Kingdom",
+  "Awards": "Nominated for 3 BAFTA 1 win & 5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3OTkwODMyNF5BMl5BanBnXkFtZTcwMTIwNDUyMQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "61%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "7.7",
+  "imdbVotes": "852",
+  "imdbID": "tt0222608",
+  "Type": "series",
+  "totalSeasons": "1",
+  "Response": "True",
+  "Source": "Loftet 05"
+}

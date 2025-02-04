@@ -1,0 +1,41 @@
+{
+  "Title": "Robin Hood",
+  "Year": "2010",
+  "Rated": "PG-13",
+  "Released": "14 May 2010",
+  "Runtime": "140 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "Ridley Scott",
+  "Writer": "Brian Helgeland, Ethan Reiff, Cyrus Voris",
+  "Actors": "Russell Crowe, Cate Blanchett, Matthew Macfadyen",
+  "Plot": "In twelfth-century England, Robin Longstride and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of world power.",
+  "Language": "English, French, Ukrainian",
+  "Country": "United States, United Kingdom",
+  "Awards": "1 win & 14 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5NzcwMzEwOF5BMl5BanBnXkFtZTcwNjg5MTgwMw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "6.6",
+  "imdbVotes": "289,051",
+  "imdbID": "tt0955308",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$105,269,730",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

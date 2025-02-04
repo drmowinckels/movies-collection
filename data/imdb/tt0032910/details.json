@@ -1,0 +1,41 @@
+{
+  "Title": "Pinocchio",
+  "Year": "1940",
+  "Rated": "Approved",
+  "Released": "23 Feb 1940",
+  "Runtime": "88 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Norman Ferguson, T. Hee, Wilfred Jackson",
+  "Writer": "Carlo Collodi, Ted Sears, Otto Englander",
+  "Actors": "Dickie Jones, Christian Rub, Mel Blanc",
+  "Plot": "A living puppet, with the help of a cricket as his conscience, must prove himself worthy to become a real boy.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Won 2 Oscars. 7 wins total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZGU3MTE3NjYtMGU1Zi00NjBmLTg4MzItZjg0OGZmNjZiYjQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "99/100"
+    }
+  ],
+  "Metascore": "99",
+  "imdbRating": "7.5",
+  "imdbVotes": "163,941",
+  "imdbID": "tt0032910",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$84,254,167",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

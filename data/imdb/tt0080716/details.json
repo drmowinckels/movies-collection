@@ -1,0 +1,41 @@
+{
+  "Title": "Fame",
+  "Year": "1980",
+  "Rated": "R",
+  "Released": "16 May 1980",
+  "Runtime": "134 min",
+  "Genre": "Drama, Music, Musical",
+  "Director": "Alan Parker",
+  "Writer": "Christopher Gore",
+  "Actors": "Eddie Barth, Irene Cara, Lee Curreri",
+  "Plot": "Four teenagers must prove their mettle as they begin their journey at the New York High School of Performing Arts. They must navigate through heartbreak, school work, adolescence and challenges.",
+  "Language": "English, Spanish, French, Russian",
+  "Country": "United States",
+  "Awards": "Won 2 Oscars. 8 wins & 16 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BY2UxMGYxZjAtMzFiOS00NTU5LWE2MjgtYjI1NWE3ODVmNjk5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "6.6",
+  "imdbVotes": "25,259",
+  "imdbID": "tt0080716",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$21,202,829",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

@@ -1,0 +1,41 @@
+{
+  "Title": "City of God",
+  "Year": "2002",
+  "Rated": "R",
+  "Released": "13 Feb 2004",
+  "Runtime": "130 min",
+  "Genre": "Crime, Drama",
+  "Director": "Fernando Meirelles, Kátia Lund",
+  "Writer": "Bráulio Mantovani, Paulo Lins",
+  "Actors": "Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",
+  "Plot": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+  "Language": "Portuguese",
+  "Country": "Brazil, France",
+  "Awards": "Nominated for 4 Oscars. 75 wins & 50 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjY4NGI5OTUtY2ZlZS00Zjk4LTk5N2MtN2JmYWVjNGNmMGRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "Metascore": "79",
+  "imdbRating": "8.6",
+  "imdbVotes": "821,444",
+  "imdbID": "tt0317248",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$7,564,459",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 05"
+}

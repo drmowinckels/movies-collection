@@ -1,0 +1,34 @@
+{
+  "Title": "Battlestar Galactica",
+  "Year": "2003",
+  "Rated": "TV-14",
+  "Released": "08 Dec 2003",
+  "Runtime": "2 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "N/A",
+  "Writer": "N/A",
+  "Actors": "Edward James Olmos, Mary McDonnell, Katee Sackhoff",
+  "Plot": "Following the destruction of the Twelve Colonies of Kobol by the Cylons, a rag-tag fugitive fleet of the last remnants of mankind flees the pursuing Cylons while simultaneously searching for their true home: Earth.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 3 Primetime Emmys. 5 wins & 7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjYwYTVjMWMtZDEwYS00ODUzLWIwN2UtYTRjODUxYzU4MWEzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "8.5",
+  "imdbVotes": "81,697",
+  "imdbID": "tt0314979",
+  "Type": "series",
+  "totalSeasons": "1",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

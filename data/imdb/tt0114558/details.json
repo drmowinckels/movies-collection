@@ -1,0 +1,41 @@
+{
+  "Title": "Strange Days",
+  "Year": "1995",
+  "Rated": "R",
+  "Released": "13 Oct 1995",
+  "Runtime": "145 min",
+  "Genre": "Crime, Drama, Sci-Fi",
+  "Director": "Kathryn Bigelow",
+  "Writer": "James Cameron, Jay Cocks",
+  "Actors": "Ralph Fiennes, Angela Bassett, Juliette Lewis",
+  "Plot": "A former cop turned street-hustler accidentally uncovers a conspiracy in Los Angeles in 1999.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzk1NGY4ZGUtYzllYy00ODM0LTljNmItYTY5NGI4YWQxNTQxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "7.2",
+  "imdbVotes": "80,098",
+  "imdbID": "tt0114558",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$7,959,291",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

@@ -1,0 +1,41 @@
+{
+  "Title": "Die Hard with a Vengeance",
+  "Year": "1995",
+  "Rated": "R",
+  "Released": "19 May 1995",
+  "Runtime": "128 min",
+  "Genre": "Action, Adventure, Thriller",
+  "Director": "John McTiernan",
+  "Writer": "Jonathan Hensleigh, Roderick Thorp",
+  "Actors": "Bruce Willis, Jeremy Irons, Samuel L. Jackson",
+  "Plot": "John McClane and a Harlem store owner are targeted by German terrorist Simon in New York City, where he plans to rob the Federal Reserve Building.",
+  "Language": "English, German, Romanian",
+  "Country": "United States",
+  "Awards": "2 wins & 3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjkzNzdkMTctNzMwMS00M2Q0LWIyOTMtNmM2NDY5NWZjNTJlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "7.6",
+  "imdbVotes": "416,962",
+  "imdbID": "tt0112864",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$100,012,499",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

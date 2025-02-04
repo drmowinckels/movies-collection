@@ -1,0 +1,41 @@
+{
+  "Title": "Star Trek IV: The Voyage Home",
+  "Year": "1986",
+  "Rated": "PG",
+  "Released": "26 Nov 1986",
+  "Runtime": "119 min",
+  "Genre": "Adventure, Comedy, Sci-Fi",
+  "Director": "Leonard Nimoy",
+  "Writer": "Gene Roddenberry, Leonard Nimoy, Harve Bennett",
+  "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+  "Plot": "To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales.",
+  "Language": "English, Finnish",
+  "Country": "United States",
+  "Awards": "Nominated for 4 Oscars. 4 wins & 19 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYmZlYWYwMzUtMjYzMy00MWI1LTg3MDctOTdjYjA2MDkwNGU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "Metascore": "71",
+  "imdbRating": "7.3",
+  "imdbVotes": "93,295",
+  "imdbID": "tt0092007",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$109,713,132",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

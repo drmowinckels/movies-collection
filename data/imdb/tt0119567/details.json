@@ -1,0 +1,41 @@
+{
+  "Title": "The Lost World: Jurassic Park",
+  "Year": "1997",
+  "Rated": "PG-13",
+  "Released": "22 May 1997",
+  "Runtime": "129 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Steven Spielberg",
+  "Writer": "Michael Crichton, David Koepp",
+  "Actors": "Jeff Goldblum, Julianne Moore, Pete Postlethwaite",
+  "Plot": "A research team is sent to the Jurassic Park Site B island to study the dinosaurs there, while an InGen team approaches with another agenda.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 4 wins & 28 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGI3NDg5N2ItZGIyZi00ZWNkLWFlODUtZDA1Y2Q1M2U4NGM2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "Metascore": "59",
+  "imdbRating": "6.6",
+  "imdbVotes": "453,410",
+  "imdbID": "tt0119567",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$229,086,679",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 05"
+}

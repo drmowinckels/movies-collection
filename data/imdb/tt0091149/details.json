@@ -1,0 +1,41 @@
+{
+  "Title": "The Great Mouse Detective",
+  "Year": "1986",
+  "Rated": "G",
+  "Released": "02 Jul 1986",
+  "Runtime": "74 min",
+  "Genre": "Animation, Adventure, Family",
+  "Director": "Ron Clements, Burny Mattinson, Dave Michener",
+  "Writer": "Peter Young, Vance Gerry, Steve Hulett",
+  "Actors": "Vincent Price, Barrie Ingham, Val Bettin",
+  "Plot": "Basil, the rodent Sherlock Holmes, investigates the kidnapping of a toy maker and uncovers its link to his archenemy, Professor Ratigan.",
+  "Language": "English, French, German, Italian",
+  "Country": "United States",
+  "Awards": "1 win & 3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGZmNDU5OTMtYmRkNC00NDgxLTllNDAtNzFmZDEzNWIzNTViXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "Metascore": "73",
+  "imdbRating": "7.1",
+  "imdbVotes": "55,985",
+  "imdbID": "tt0091149",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$38,625,550",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

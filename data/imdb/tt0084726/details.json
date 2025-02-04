@@ -1,0 +1,41 @@
+{
+  "Title": "Star Trek II: The Wrath of Khan",
+  "Year": "1982",
+  "Rated": "PG",
+  "Released": "04 Jun 1982",
+  "Runtime": "113 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Nicholas Meyer",
+  "Writer": "Gene Roddenberry, Jack B. Sowards, Harve Bennett",
+  "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+  "Plot": "With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 wins & 9 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTFkZDY5NWQtMjY4Yy00OThiLTk3YjQtMDdhYTllMTI4MTdiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "Metascore": "68",
+  "imdbRating": "7.7",
+  "imdbVotes": "131,232",
+  "imdbID": "tt0084726",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$79,707,906",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

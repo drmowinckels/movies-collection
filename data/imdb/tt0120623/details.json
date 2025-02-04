@@ -1,0 +1,41 @@
+{
+  "Title": "A Bug's Life",
+  "Year": "1998",
+  "Rated": "G",
+  "Released": "25 Nov 1998",
+  "Runtime": "95 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "John Lasseter, Andrew Stanton",
+  "Writer": "John Lasseter, Andrew Stanton, Joe Ranft",
+  "Actors": "Kevin Spacey, Dave Foley, Julia Louis-Dreyfus",
+  "Plot": "A misfit ant, looking for \"warriors\" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 14 wins & 21 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNGI3Mjc1ZjUtYTJhYS00NjBiLTgyYjctODU5NTNlMWJiYjYzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "7.2",
+  "imdbVotes": "323,577",
+  "imdbID": "tt0120623",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$162,798,565",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

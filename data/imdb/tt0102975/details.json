@@ -1,0 +1,41 @@
+{
+  "Title": "Star Trek VI: The Undiscovered Country",
+  "Year": "1991",
+  "Rated": "PG",
+  "Released": "06 Dec 1991",
+  "Runtime": "110 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Nicholas Meyer",
+  "Writer": "Gene Roddenberry, Leonard Nimoy, Lawrence Konner",
+  "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+  "Plot": "On the eve of retirement, Kirk and McCoy are charged with assassinating the Klingon High Chancellor and imprisoned. The Enterprise crew must help them escape to thwart a conspiracy aimed at sabotaging the last best hope for peace.",
+  "Language": "English, Klingon",
+  "Country": "United States",
+  "Awards": "Nominated for 2 Oscars. 2 wins & 9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDgzYjM5MWQtYTkzNy00OWZlLWEzMDctYjA5MDUyNmJhZjM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "Metascore": "65",
+  "imdbRating": "7.2",
+  "imdbVotes": "82,378",
+  "imdbID": "tt0102975",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$74,888,996",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

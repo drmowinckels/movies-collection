@@ -1,0 +1,41 @@
+{
+  "Title": "Gamer",
+  "Year": "2009",
+  "Rated": "R",
+  "Released": "04 Sep 2009",
+  "Runtime": "95 min",
+  "Genre": "Action, Sci-Fi, Thriller",
+  "Director": "Mark Neveldine, Brian Taylor",
+  "Writer": "Mark Neveldine, Brian Taylor",
+  "Actors": "Gerard Butler, Michael C. Hall, Ludacris",
+  "Plot": "In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzMDU0NTg3MF5BMl5BanBnXkFtZTcwNzU1MjU1Mg@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "30%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "27/100"
+    }
+  ],
+  "Metascore": "27",
+  "imdbRating": "5.7",
+  "imdbVotes": "141,255",
+  "imdbID": "tt1034032",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$20,534,907",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

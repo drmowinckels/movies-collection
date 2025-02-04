@@ -1,0 +1,41 @@
+{
+  "Title": "Star Trek III: The Search for Spock",
+  "Year": "1984",
+  "Rated": "PG",
+  "Released": "01 Jun 1984",
+  "Runtime": "105 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Leonard Nimoy",
+  "Writer": "Gene Roddenberry, Harve Bennett",
+  "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+  "Plot": "Admiral Kirk and his bridge crew risk their careers stealing the decommissioned U.S.S. Enterprise to return to the restricted Genesis Planet to recover Spock's body.",
+  "Language": "English, Klingon, Russian, French",
+  "Country": "United States",
+  "Awards": "1 win & 7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzNkOTZjMTMtOWYzZS00Yjg2LTgyMzQtMmNjODdkYzM0ZjhmXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "6.6",
+  "imdbVotes": "87,739",
+  "imdbID": "tt0088170",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$76,471,046",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

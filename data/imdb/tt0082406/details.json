@@ -1,0 +1,41 @@
+{
+  "Title": "The Fox and the Hound",
+  "Year": "1981",
+  "Rated": "G",
+  "Released": "10 Jul 1981",
+  "Runtime": "83 min",
+  "Genre": "Animation, Adventure, Drama",
+  "Director": "Ted Berman, Richard Rich, Art Stevens",
+  "Writer": "Daniel P. Mannix, Larry Clemmons, Ted Berman",
+  "Actors": "Mickey Rooney, Kurt Russell, Pearl Bailey",
+  "Plot": "A fox named Tod and a hound named Copper vow to be best friends forever. But as Copper grows into a hunting dog, their unlikely friendship faces the ultimate test.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BY2IxMDIxZTAtMjEyMS00MzY3LTkyM2EtNTVlNTZmMjI1OTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "Metascore": "65",
+  "imdbRating": "7.2",
+  "imdbVotes": "105,231",
+  "imdbID": "tt0082406",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$63,456,988",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

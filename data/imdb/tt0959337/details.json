@@ -1,0 +1,41 @@
+{
+  "Title": "Revolutionary Road",
+  "Year": "2008",
+  "Rated": "R",
+  "Released": "23 Jan 2009",
+  "Runtime": "119 min",
+  "Genre": "Drama, Romance",
+  "Director": "Sam Mendes",
+  "Writer": "Justin Haythe, Richard Yates",
+  "Actors": "Leonardo DiCaprio, Kate Winslet, Christopher Fitzgerald",
+  "Plot": "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children.",
+  "Language": "English",
+  "Country": "United Kingdom, United States",
+  "Awards": "Nominated for 3 Oscars. 20 wins & 73 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "Metascore": "69",
+  "imdbRating": "7.3",
+  "imdbVotes": "228,721",
+  "imdbID": "tt0959337",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$22,911,480",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

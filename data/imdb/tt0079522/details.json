@@ -1,0 +1,41 @@
+{
+  "Title": "Manhattan",
+  "Year": "1979",
+  "Rated": "R",
+  "Released": "25 Apr 1979",
+  "Runtime": "96 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Woody Allen",
+  "Writer": "Woody Allen, Marshall Brickman",
+  "Actors": "Woody Allen, Diane Keaton, Mariel Hemingway",
+  "Plot": "The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 2 Oscars. 16 wins & 24 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzhjMjEyOWItMWU2Ni00ZTE5LWFhODEtZGU1MTQyZjU4ODkzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.8",
+  "imdbVotes": "149,820",
+  "imdbID": "tt0079522",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$39,946,780",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

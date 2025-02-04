@@ -1,0 +1,41 @@
+{
+  "Title": "West Side Story",
+  "Year": "1961",
+  "Rated": "Approved",
+  "Released": "23 Dec 1961",
+  "Runtime": "153 min",
+  "Genre": "Crime, Drama, Musical",
+  "Director": "Jerome Robbins, Robert Wise",
+  "Writer": "Ernest Lehman, Arthur Laurents, Jerome Robbins",
+  "Actors": "Natalie Wood, George Chakiris, Richard Beymer",
+  "Plot": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "Won 10 Oscars. 31 wins & 11 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "Metascore": "86",
+  "imdbRating": "7.6",
+  "imdbVotes": "123,441",
+  "imdbID": "tt0055614",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$44,055,492",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

@@ -1,0 +1,41 @@
+{
+  "Title": "Interiors",
+  "Year": "1978",
+  "Rated": "PG",
+  "Released": "06 Oct 1978",
+  "Runtime": "92 min",
+  "Genre": "Drama",
+  "Director": "Woody Allen",
+  "Writer": "Woody Allen",
+  "Actors": "Diane Keaton, Geraldine Page, Kristin Griffith",
+  "Plot": "Three sisters find their lives spinning out of control in the wake of their parents' sudden, unexpected divorce.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 5 Oscars. 9 wins & 17 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYmQ1NTllMDItOWE4Ny00OWNiLTg1YTMtMmNhOWZhOWUwMDljXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "7.3",
+  "imdbVotes": "21,249",
+  "imdbID": "tt0077742",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$10,432,366",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

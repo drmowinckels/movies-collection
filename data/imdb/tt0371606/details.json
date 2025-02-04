@@ -1,0 +1,41 @@
+{
+  "Title": "Chicken Little",
+  "Year": "2005",
+  "Rated": "G",
+  "Released": "04 Nov 2005",
+  "Runtime": "81 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Mark Dindal",
+  "Writer": "Mark Dindal, Mark Kennedy, Steve Bencich",
+  "Actors": "Zach Braff, Joan Cusack, Garry Marshall",
+  "Plot": "After ruining his reputation with the town, a courageous chicken must come to the rescue of his fellow citizens when aliens start an invasion.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "4 wins & 15 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3MTIzMDQxMV5BMl5BanBnXkFtZTYwNTE0Mjg3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "37%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "Metascore": "48",
+  "imdbRating": "5.7",
+  "imdbVotes": "103,888",
+  "imdbID": "tt0371606",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$135,386,665",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

@@ -1,0 +1,41 @@
+{
+  "Title": "Australia",
+  "Year": "2008",
+  "Rated": "PG-13",
+  "Released": "26 Nov 2008",
+  "Runtime": "165 min",
+  "Genre": "Adventure, Drama, Romance",
+  "Director": "Baz Luhrmann",
+  "Writer": "Stuart Beattie, Baz Luhrmann, Ronald Harwood",
+  "Actors": "Nicole Kidman, Hugh Jackman, Shea Adams",
+  "Plot": "In 1939, an Englishwoman inherits a sprawling ranch in northern Australia and reluctantly makes a pact with a stockman to drive 2000 head of cattle over unforgiving landscape.",
+  "Language": "English, Aboriginal, Chinese, Japanese",
+  "Country": "United Kingdom, Australia, United States",
+  "Awards": "Nominated for 1 Oscar. 12 wins & 37 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q4NjBhMDUtZWJhNS00ZTM2LTk0ZDEtNDY2M2Y0NTAyOTBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "54%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "6.6",
+  "imdbVotes": "131,372",
+  "imdbID": "tt0455824",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$49,554,002",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

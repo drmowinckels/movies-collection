@@ -1,0 +1,41 @@
+{
+  "Title": "Logan's Run",
+  "Year": "1976",
+  "Rated": "PG",
+  "Released": "23 Jun 1976",
+  "Runtime": "119 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Michael Anderson",
+  "Writer": "David Zelag Goodman, William F. Nolan, George Clayton Johnson",
+  "Actors": "Michael York, Jenny Agutter, Richard Jordan",
+  "Plot": "A police officer in the future uncovers the deadly secret behind a society that worships youth.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 2 Oscars. 7 wins & 5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWFmOGQ3NmItY2QzZC00ODdlLWE2NjMtM2I5YTdjYjk4YjUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "6.8",
+  "imdbVotes": "62,373",
+  "imdbID": "tt0074812",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

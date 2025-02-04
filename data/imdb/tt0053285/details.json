@@ -1,0 +1,41 @@
+{
+  "Title": "Sleeping Beauty",
+  "Year": "1959",
+  "Rated": "G",
+  "Released": "29 Jan 1959",
+  "Runtime": "75 min",
+  "Genre": "Animation, Adventure, Family",
+  "Director": "Les Clark, Clyde Geronimi, Eric Larson",
+  "Writer": "Erdman Penner, Charles Perrault, Joe Rinaldi",
+  "Actors": "Mary Costa, Bill Shirley, Eleanor Audley",
+  "Plot": "After being snubbed by the royal family, a malevolent fairy places a curse on a princess which only a prince can break, along with the help of three good fairies.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 3 wins & 5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjVjNjZkNTQtOTRhZi00NTVhLThkMzktYzY4YjIwZWRhZjA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "Metascore": "85",
+  "imdbRating": "7.2",
+  "imdbVotes": "164,400",
+  "imdbID": "tt0053285",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$51,600,000",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

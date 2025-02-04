@@ -1,0 +1,41 @@
+{
+  "Title": "Alice",
+  "Year": "1990",
+  "Rated": "PG-13",
+  "Released": "10 Jan 1991",
+  "Runtime": "106 min",
+  "Genre": "Comedy, Romance",
+  "Director": "Woody Allen",
+  "Writer": "Woody Allen",
+  "Actors": "Mia Farrow, William Hurt, Joe Mantegna",
+  "Plot": "A spoiled Manhattan housewife re-evaluates her life after visiting a Chinatown healer.",
+  "Language": "English, Cantonese",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 1 win & 7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGJhOTU2MzEtYjM3OC00ZGM2LTg0ZDktOTRjYTA2Mjk0MTFlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "6.6",
+  "imdbVotes": "15,642",
+  "imdbID": "tt0099012",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$7,331,647",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

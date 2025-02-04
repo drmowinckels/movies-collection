@@ -1,0 +1,41 @@
+{
+  "Title": "Treasure Planet",
+  "Year": "2002",
+  "Rated": "PG",
+  "Released": "29 Nov 2002",
+  "Runtime": "95 min",
+  "Genre": "Animation, Adventure, Family",
+  "Director": "Ron Clements, John Musker",
+  "Writer": "Robert Louis Stevenson, Ron Clements, John Musker",
+  "Actors": "Joseph Gordon-Levitt, Emma Thompson, Martin Short",
+  "Plot": "Jim Hawkins is a teenager who finds the map of a great treasure hidden by a space pirate. Together with some friends, he sets off in a large spaceship, shaped like a caravel, on his quest.",
+  "Language": "English",
+  "Country": "United States, Japan",
+  "Awards": "Nominated for 1 Oscar. 1 win & 14 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BN2VjNjk5MTAtNDE3Ni00NjczLWFhN2EtNGQ1ZmZmOWRjZjIyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "Metascore": "60",
+  "imdbRating": "7.2",
+  "imdbVotes": "138,038",
+  "imdbID": "tt0133240",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$38,176,783",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

@@ -1,0 +1,41 @@
+{
+  "Title": "They Live",
+  "Year": "1988",
+  "Rated": "R",
+  "Released": "04 Nov 1988",
+  "Runtime": "94 min",
+  "Genre": "Action, Horror, Sci-Fi",
+  "Director": "John Carpenter",
+  "Writer": "Ray Nelson, John Carpenter",
+  "Actors": "Roddy Piper, Keith David, Meg Foster",
+  "Plot": "They influence our decisions without us knowing it. They numb our senses without us feeling it. They control our lives without us realizing it. They live.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjM3ODU1NV5BMl5BanBnXkFtZTgwMjU3NDU2MTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "Metascore": "55",
+  "imdbRating": "7.2",
+  "imdbVotes": "152,424",
+  "imdbID": "tt0096256",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$13,447,978",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

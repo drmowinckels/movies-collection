@@ -1,0 +1,41 @@
+{
+  "Title": "Serenity",
+  "Year": "2005",
+  "Rated": "PG-13",
+  "Released": "30 Sep 2005",
+  "Runtime": "119 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Joss Whedon",
+  "Writer": "Joss Whedon",
+  "Actors": "Nathan Fillion, Gina Torres, Chiwetel Ejiofor",
+  "Plot": "The crew of the ship Serenity try to evade an assassin sent to recapture telepath River.",
+  "Language": "English, Mandarin",
+  "Country": "United States",
+  "Awards": "9 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZWYwN2M1NWItMWI0YS00ZmJjLTk1Y2QtZjIxYmNhNGZkZDcwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "Metascore": "74",
+  "imdbRating": "7.8",
+  "imdbVotes": "309,034",
+  "imdbID": "tt0379786",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$25,514,517",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

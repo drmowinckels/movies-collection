@@ -1,0 +1,41 @@
+{
+  "Title": "Superhero Movie",
+  "Year": "2008",
+  "Rated": "PG-13",
+  "Released": "28 Mar 2008",
+  "Runtime": "75 min",
+  "Genre": "Action, Comedy, Sci-Fi",
+  "Director": "Craig Mazin",
+  "Writer": "Craig Mazin",
+  "Actors": "Drake Bell, Leslie Nielsen, Sara Paxton",
+  "Plot": "Orphaned high school student Rick Riker is bitten by a radioactive dragonfly, develops super powers (except for the ability to fly), and becomes a hero.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0Njc1MTU5Nl5BMl5BanBnXkFtZTcwMjA4NDE2MQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "16%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "33/100"
+    }
+  ],
+  "Metascore": "33",
+  "imdbRating": "4.7",
+  "imdbVotes": "78,458",
+  "imdbID": "tt0426592",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$25,881,068",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

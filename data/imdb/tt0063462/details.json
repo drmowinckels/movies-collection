@@ -1,0 +1,41 @@
+{
+  "Title": "The Producers",
+  "Year": "1967",
+  "Rated": "PG",
+  "Released": "10 Nov 1968",
+  "Runtime": "88 min",
+  "Genre": "Comedy, Music",
+  "Director": "Mel Brooks",
+  "Writer": "Mel Brooks",
+  "Actors": "Zero Mostel, Gene Wilder, Dick Shawn",
+  "Plot": "A stage-play producer devises a plan to make money by producing a sure-fire flop.",
+  "Language": "English, German",
+  "Country": "United States",
+  "Awards": "Won 1 Oscar. 4 wins & 5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZWMyNThmZDgtNDZlMy00N2RiLWJlM2QtZTAzNjUxZDM5YmM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "Metascore": "96",
+  "imdbRating": "7.5",
+  "imdbVotes": "61,682",
+  "imdbID": "tt0063462",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$328,673",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

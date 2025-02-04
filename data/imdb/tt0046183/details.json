@@ -1,0 +1,41 @@
+{
+  "Title": "Peter Pan",
+  "Year": "1953",
+  "Rated": "G",
+  "Released": "05 Feb 1953",
+  "Runtime": "77 min",
+  "Genre": "Animation, Adventure, Family",
+  "Director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+  "Writer": "J.M. Barrie, Ted Sears, Erdman Penner",
+  "Actors": "Bobby Driscoll, Kathryn Beaumont, Hans Conried",
+  "Plot": "Wendy and her brothers are whisked away to the magical world of Neverland with the hero of their stories, Peter Pan.",
+  "Language": "English, American Sign ",
+  "Country": "United States",
+  "Awards": "1 win & 2 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOGUwNjg5MWItNTc5OC00MTNkLWEwNzYtYzA1M2Y4MWU3NmQwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "Metascore": "76",
+  "imdbRating": "7.3",
+  "imdbVotes": "156,599",
+  "imdbID": "tt0046183",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$87,404,651",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

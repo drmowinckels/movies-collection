@@ -1,0 +1,41 @@
+{
+  "Title": "Finding Nemo",
+  "Year": "2003",
+  "Rated": "G",
+  "Released": "30 May 2003",
+  "Runtime": "100 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Andrew Stanton, Lee Unkrich",
+  "Writer": "Andrew Stanton, Bob Peterson, David Reynolds",
+  "Actors": "Albert Brooks, Ellen DeGeneres, Alexander Gould",
+  "Plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+  "Language": "English, Japanese, Russian",
+  "Country": "United States, Japan",
+  "Awards": "Won 1 Oscar. 49 wins & 63 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "Metascore": "90",
+  "imdbRating": "8.2",
+  "imdbVotes": "1,142,262",
+  "imdbID": "tt0266543",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$380,843,261",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

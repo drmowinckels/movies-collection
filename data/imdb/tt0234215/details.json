@@ -1,0 +1,41 @@
+{
+  "Title": "The Matrix Reloaded",
+  "Year": "2003",
+  "Rated": "R",
+  "Released": "15 May 2003",
+  "Runtime": "138 min",
+  "Genre": "Action, Sci-Fi",
+  "Director": "Lana Wachowski, Lilly Wachowski",
+  "Writer": "Lilly Wachowski, Lana Wachowski",
+  "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+  "Plot": "Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.",
+  "Language": "English, French, Italian",
+  "Country": "United States",
+  "Awards": "8 wins & 34 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "7.2",
+  "imdbVotes": "644,194",
+  "imdbID": "tt0234215",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$281,576,461",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

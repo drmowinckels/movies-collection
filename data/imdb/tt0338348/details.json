@@ -1,0 +1,41 @@
+{
+  "Title": "The Polar Express",
+  "Year": "2004",
+  "Rated": "G",
+  "Released": "10 Nov 2004",
+  "Runtime": "100 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Robert Zemeckis",
+  "Writer": "Chris Van Allsburg, Robert Zemeckis, William Broyles Jr.",
+  "Actors": "Tom Hanks, Chris Coppola, Michael Jeter",
+  "Plot": "On Christmas Eve, a young boy embarks on a magical adventure to the North Pole on the Polar Express, while learning about friendship, bravery, and the spirit of Christmas.",
+  "Language": "English",
+  "Country": "United States, Australia",
+  "Awards": "Nominated for 3 Oscars. 5 wins & 26 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "Metascore": "61",
+  "imdbRating": "6.6",
+  "imdbVotes": "255,070",
+  "imdbID": "tt0338348",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$189,528,738",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

@@ -1,0 +1,41 @@
+{
+  "Title": "The Road",
+  "Year": "2009",
+  "Rated": "R",
+  "Released": "25 Nov 2009",
+  "Runtime": "111 min",
+  "Genre": "Drama, Thriller",
+  "Director": "John Hillcoat",
+  "Writer": "Joe Penhall, Cormac McCarthy",
+  "Actors": "Viggo Mortensen, Charlize Theron, Kodi Smit-McPhee",
+  "Plot": "In a dangerous post-apocalyptic world, an ailing father defends his son as they slowly travel to the sea.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 BAFTA Award5 wins & 34 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "7.2",
+  "imdbVotes": "259,101",
+  "imdbID": "tt0898367",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$8,117,000",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

@@ -1,0 +1,41 @@
+{
+  "Title": "Fiddler on the Roof",
+  "Year": "1971",
+  "Rated": "G",
+  "Released": "03 Nov 1971",
+  "Runtime": "181 min",
+  "Genre": "Drama, Family, Musical",
+  "Director": "Norman Jewison",
+  "Writer": "Sholom Aleichem, Arnold Perl, Joseph Stein",
+  "Actors": "Topol, Norma Crane, Leonard Frey",
+  "Plot": "In pre-revolutionary Russia, a Jewish peasant with traditional values contends with marrying off three of his daughters with modern romantic ideals while growing anti-Semitic sentiment threatens his village.",
+  "Language": "English, Hebrew, Russian",
+  "Country": "United States",
+  "Awards": "Won 3 Oscars. 10 wins & 14 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyYjJmMjctNzk3Yi00NmRhLWE5ZmQtZTNlZjU3MDMxNTBhXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "8.0",
+  "imdbVotes": "48,809",
+  "imdbID": "tt0067093",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$10,404,330",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

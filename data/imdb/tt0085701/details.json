@@ -1,0 +1,41 @@
+{
+  "Title": "The Hunger",
+  "Year": "1983",
+  "Rated": "R",
+  "Released": "29 Apr 1983",
+  "Runtime": "97 min",
+  "Genre": "Drama, Horror",
+  "Director": "Tony Scott",
+  "Writer": "James Costigan, Michael Thomas, Whitley Strieber",
+  "Actors": "Catherine Deneuve, David Bowie, Susan Sarandon",
+  "Plot": "A love triangle develops between a vampire, her cellist companion, and a gerontologist.",
+  "Language": "English",
+  "Country": "United Kingdom",
+  "Awards": "3 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTAyNmQ3N2MtOWZlOS00Mjg1LWJhY2EtNmMzOTgyODg2NjM5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "Metascore": "52",
+  "imdbRating": "6.6",
+  "imdbVotes": "29,891",
+  "imdbID": "tt0085701",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$5,979,292",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 01"
+}

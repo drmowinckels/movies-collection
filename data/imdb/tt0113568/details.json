@@ -1,0 +1,41 @@
+{
+  "Title": "Ghost in the Shell",
+  "Year": "1995",
+  "Rated": "TV-MA",
+  "Released": "29 Mar 1996",
+  "Runtime": "83 min",
+  "Genre": "Animation, Action, Crime",
+  "Director": "Mamoru Oshii",
+  "Writer": "Shirow Masamune, Kazunori Itô",
+  "Actors": "Atsuko Tanaka, Iemasa Kayumi, Akio Ôtsuka",
+  "Plot": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
+  "Language": "Japanese",
+  "Country": "Japan, United Kingdom",
+  "Awards": "5 wins & 7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzljMjA3MTQtMjM1OS00OGJjLWJiYzctZDRiMTk1NWI5YzQ5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "Metascore": "76",
+  "imdbRating": "7.9",
+  "imdbVotes": "162,909",
+  "imdbID": "tt0113568",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$889,074",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

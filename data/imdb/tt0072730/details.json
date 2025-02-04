@@ -1,0 +1,41 @@
+{
+  "Title": "A Boy and His Dog",
+  "Year": "1975",
+  "Rated": "R",
+  "Released": "14 Nov 1975",
+  "Runtime": "91 min",
+  "Genre": "Comedy, Drama, Sci-Fi",
+  "Director": "L.Q. Jones",
+  "Writer": "L.Q. Jones, Harlan Ellison, Wayne Cruseturner",
+  "Actors": "Don Johnson, Jason Robards, Susanne Benton",
+  "Plot": "In a post-apocalyptic wasteland, a boy who can communicate with his dog telepathically is targeted by a mysterious committee.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 2 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BN2U4YTE4MDItMDc0My00ZTc5LWI0MzktM2NjMDExNjNhMDI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "78%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "Metascore": "68",
+  "imdbRating": "6.4",
+  "imdbVotes": "19,817",
+  "imdbID": "tt0072730",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

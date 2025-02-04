@@ -1,0 +1,41 @@
+{
+  "Title": "The Aristocats",
+  "Year": "1970",
+  "Rated": "G",
+  "Released": "24 Dec 1970",
+  "Runtime": "78 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Wolfgang Reitherman",
+  "Writer": "Larry Clemmons, Vance Gerry, Ken Anderson",
+  "Actors": "Phil Harris, Eva Gabor, Sterling Holloway",
+  "Plot": "With the help of a smooth talking tomcat, a family of Parisian felines set to inherit a fortune from their owner try to make it back home after a jealous butler kidnaps them and leaves them in the country.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 wins total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MzM0MjcxMF5BMl5BanBnXkFtZTgwODQ0MzcxMTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "7.1",
+  "imdbVotes": "118,469",
+  "imdbID": "tt0065421",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$59,000,000",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

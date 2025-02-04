@@ -1,0 +1,41 @@
+{
+  "Title": "Marmaduke",
+  "Year": "2010",
+  "Rated": "PG",
+  "Released": "04 Jun 2010",
+  "Runtime": "87 min",
+  "Genre": "Comedy, Family",
+  "Director": "Tom Dey",
+  "Writer": "Tim Rasmussen, Vince Di Meglio, Brad Anderson",
+  "Actors": "Owen Wilson, Judy Greer, Lee Pace",
+  "Plot": "A suburban family moves to a new neighborhood with their large, yet lovable Great Dane, who has a tendency to wreak havoc in his own oblivious way.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxMWZlZDctZDUwYi00ODFkLWIwMTItNmE1NDFmNDk3NjdkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "9%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "30/100"
+    }
+  ],
+  "Metascore": "30",
+  "imdbRating": "4.3",
+  "imdbVotes": "17,991",
+  "imdbID": "tt1392197",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$33,644,788",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

@@ -1,0 +1,41 @@
+{
+  "Title": "Silent Movie",
+  "Year": "1976",
+  "Rated": "PG",
+  "Released": "16 Jun 1976",
+  "Runtime": "87 min",
+  "Genre": "Comedy",
+  "Director": "Mel Brooks",
+  "Writer": "Mel Brooks, Ron Clark, Rudy De Luca",
+  "Actors": "Mel Brooks, Marty Feldman, Dom DeLuise",
+  "Plot": "A film director and his strange friends struggle to produce the first major silent feature film in forty years.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 6 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDMxMzcwOTYtOTA2MS00YTI2LTljMmUtMzU0MGM4MmNmZWUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "Metascore": "75",
+  "imdbRating": "6.7",
+  "imdbVotes": "18,821",
+  "imdbID": "tt0075222",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$36,145,695",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

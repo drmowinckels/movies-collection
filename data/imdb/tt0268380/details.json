@@ -1,0 +1,41 @@
+{
+  "Title": "Ice Age",
+  "Year": "2002",
+  "Rated": "PG",
+  "Released": "27 Mar 2002",
+  "Runtime": "81 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Chris Wedge, Carlos Saldanha",
+  "Writer": "Michael J. Wilson, Michael Berg, Peter Ackerman",
+  "Actors": "Denis Leary, John Leguizamo, Ray Romano",
+  "Plot": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 5 wins & 30 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODhmZTRjZWYtNGI5MC00YjgyLWFhODEtN2E4NTc2Zjg2ZmNmXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "Metascore": "61",
+  "imdbRating": "7.5",
+  "imdbVotes": "535,201",
+  "imdbID": "tt0268380",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$176,387,405",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

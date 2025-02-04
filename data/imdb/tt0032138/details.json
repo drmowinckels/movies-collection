@@ -1,0 +1,41 @@
+{
+  "Title": "The Wizard of Oz",
+  "Year": "1939",
+  "Rated": "G",
+  "Released": "25 Aug 1939",
+  "Runtime": "102 min",
+  "Genre": "Adventure, Family, Fantasy",
+  "Director": "Victor Fleming, King Vidor",
+  "Writer": "Noel Langley, Florence Ryerson, Edgar Allan Woolf",
+  "Actors": "Judy Garland, Frank Morgan, Ray Bolger",
+  "Plot": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others...",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Won 2 Oscars. 13 wins & 14 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "Metascore": "92",
+  "imdbRating": "8.1",
+  "imdbVotes": "445,339",
+  "imdbID": "tt0032138",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$24,668,669",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

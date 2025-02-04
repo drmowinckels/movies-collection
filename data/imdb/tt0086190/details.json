@@ -1,0 +1,41 @@
+{
+  "Title": "Star Wars: Episode VI - Return of the Jedi",
+  "Year": "1983",
+  "Rated": "PG",
+  "Released": "25 May 1983",
+  "Runtime": "131 min",
+  "Genre": "Action, Adventure, Fantasy",
+  "Director": "Richard Marquand",
+  "Writer": "Lawrence Kasdan, George Lucas",
+  "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+  "Plot": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side.",
+  "Language": "English, Kikuyu, Tagalog, Kalmyk-Oirat, Quechua, Polish",
+  "Country": "United States",
+  "Awards": "Nominated for 4 Oscars. 25 wins & 23 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "8.3",
+  "imdbVotes": "1,149,726",
+  "imdbID": "tt0086190",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$316,566,101",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

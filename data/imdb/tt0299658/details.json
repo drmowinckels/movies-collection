@@ -1,0 +1,41 @@
+{
+  "Title": "Chicago",
+  "Year": "2002",
+  "Rated": "PG-13",
+  "Released": "24 Jan 2003",
+  "Runtime": "113 min",
+  "Genre": "Comedy, Crime, Musical",
+  "Director": "Rob Marshall",
+  "Writer": "Bill Condon, Bob Fosse, Fred Ebb",
+  "Actors": "Renée Zellweger, Catherine Zeta-Jones, Richard Gere",
+  "Plot": "Two death-row murderesses develop a fierce rivalry while competing for publicity, celebrity, and a sleazy lawyer's attention.",
+  "Language": "English, Hungarian",
+  "Country": "United States, Germany",
+  "Awards": "Won 6 Oscars. 59 wins & 129 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "7.2",
+  "imdbVotes": "247,886",
+  "imdbID": "tt0299658",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$170,687,518",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

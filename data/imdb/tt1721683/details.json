@@ -1,0 +1,41 @@
+{
+  "Title": "The Sleeping Beauty",
+  "Year": "2010",
+  "Rated": "Unrated",
+  "Released": "08 Jul 2011",
+  "Runtime": "82 min",
+  "Genre": "Adventure, Drama, Fantasy",
+  "Director": "Catherine Breillat",
+  "Writer": "Catherine Breillat, Hans Christian Andersen, Charles Perrault",
+  "Actors": "Carla Besnaïnou, Julia Artamonov, Kerian Mayan",
+  "Plot": "A young princess is the subject of a tug-of-war among witches, as each struggles to find the suitable antidote to a death sentence inculcated by an evil sister.",
+  "Language": "French",
+  "Country": "France",
+  "Awards": "1 win & 2 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2MjA0NDMxMjZeQTJeQWpwZ15BbWU3MDkxMTAxNzU@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "Metascore": "69",
+  "imdbRating": "5.7",
+  "imdbVotes": "837",
+  "imdbID": "tt1721683",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$29,066",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

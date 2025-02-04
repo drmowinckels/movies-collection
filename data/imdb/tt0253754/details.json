@@ -1,0 +1,41 @@
+{
+  "Title": "Star Trek: Nemesis",
+  "Year": "2002",
+  "Rated": "PG-13",
+  "Released": "13 Dec 2002",
+  "Runtime": "116 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Stuart Baird",
+  "Writer": "Gene Roddenberry, John Logan, Rick Berman",
+  "Actors": "Patrick Stewart, Jonathan Frakes, Brent Spiner",
+  "Plot": "The Enterprise is diverted to the Romulan homeworld Romulus, supposedly because they want to negotiate a peace treaty. Captain Picard and his crew discover a serious threat to the Federation once Praetor Shinzon plans to attack Ea...",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxNjY2NDY3NF5BMl5BanBnXkFtZTcwMjA0MTEzMw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "38%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "51/100"
+    }
+  ],
+  "Metascore": "51",
+  "imdbRating": "6.4",
+  "imdbVotes": "85,213",
+  "imdbID": "tt0253754",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$43,254,409",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

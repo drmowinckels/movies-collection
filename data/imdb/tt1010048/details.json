@@ -1,0 +1,41 @@
+{
+  "Title": "Slumdog Millionaire",
+  "Year": "2008",
+  "Rated": "R",
+  "Released": "25 Dec 2008",
+  "Runtime": "120 min",
+  "Genre": "Crime, Drama, Romance",
+  "Director": "Danny Boyle, Loveleen Tandan",
+  "Writer": "Simon Beaufoy, Vikas Swarup",
+  "Actors": "Dev Patel, Freida Pinto, Saurabh Shukla",
+  "Plot": "A teenager from the slums of Mumbai becomes a contestant on the show 'Kaun Banega Crorepati?' When interrogated under suspicion of cheating, he revisits his past, revealing how he had all the answers.",
+  "Language": "English, Hindi",
+  "Country": "United Kingdom, France, United States, India",
+  "Awards": "Won 8 Oscars. 153 wins & 133 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTE5ZTRkYWEtZmU5MC00NDJjLTk3NmUtZGJlYTM2MmQ3NTJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "Metascore": "84",
+  "imdbRating": "8.0",
+  "imdbVotes": "890,142",
+  "imdbID": "tt1010048",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$141,319,928",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 05"
+}

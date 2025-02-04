@@ -1,0 +1,41 @@
+{
+  "Title": "The Postman",
+  "Year": "1997",
+  "Rated": "R",
+  "Released": "25 Dec 1997",
+  "Runtime": "177 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "Kevin Costner",
+  "Writer": "David Brin, Eric Roth, Brian Helgeland",
+  "Actors": "Kevin Costner, Will Patton, Larenz Tate",
+  "Plot": "A nameless drifter dons a postman's uniform and bag of mail as he begins a quest to inspire hope to the survivors living in post-apocalyptic America.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "7 wins & 7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGNiZjA3ODMtYmExMS00MzRiLWI3N2QtNDQxYzRlYzAwNjBhXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "14%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "29/100"
+    }
+  ],
+  "Metascore": "29",
+  "imdbRating": "6.1",
+  "imdbVotes": "80,700",
+  "imdbID": "tt0119925",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$17,626,234",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

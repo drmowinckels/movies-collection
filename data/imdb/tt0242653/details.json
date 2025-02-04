@@ -1,0 +1,41 @@
+{
+  "Title": "The Matrix Revolutions",
+  "Year": "2003",
+  "Rated": "R",
+  "Released": "05 Nov 2003",
+  "Runtime": "129 min",
+  "Genre": "Action, Sci-Fi",
+  "Director": "Lana Wachowski, Lilly Wachowski",
+  "Writer": "Lilly Wachowski, Lana Wachowski",
+  "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+  "Plot": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+  "Language": "English, French",
+  "Country": "United States, Australia",
+  "Awards": "5 wins & 36 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "Metascore": "47",
+  "imdbRating": "6.7",
+  "imdbVotes": "556,490",
+  "imdbID": "tt0242653",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$139,313,948",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

@@ -1,0 +1,41 @@
+{
+  "Title": "Contact",
+  "Year": "1997",
+  "Rated": "PG",
+  "Released": "11 Jul 1997",
+  "Runtime": "150 min",
+  "Genre": "Drama, Mystery, Sci-Fi",
+  "Director": "Robert Zemeckis",
+  "Writer": "James V. Hart, Michael Goldenberg, Carl Sagan",
+  "Actors": "Jodie Foster, Matthew McConaughey, Tom Skerritt",
+  "Plot": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
+  "Language": "English, Spanish, German, Russian",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 14 wins & 32 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BM2JiYmE1Y2UtNDQ3YS00YTZhLTk5MzAtYzEzMzIyNTM4OTRlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "7.5",
+  "imdbVotes": "300,007",
+  "imdbID": "tt0118884",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$100,920,329",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

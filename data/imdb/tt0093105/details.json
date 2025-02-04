@@ -1,0 +1,41 @@
+{
+  "Title": "Good Morning, Vietnam",
+  "Year": "1987",
+  "Rated": "R",
+  "Released": "15 Jan 1988",
+  "Runtime": "121 min",
+  "Genre": "Biography, Comedy, Drama",
+  "Director": "Barry Levinson",
+  "Writer": "Mitch Markowitz, Adrian Cronauer",
+  "Actors": "Robin Williams, Forest Whitaker, Tom T. Tran",
+  "Plot": "In 1965, an unorthodox and irreverent DJ named Adrian Cronauer begins to shake up things when he is assigned to the U.S. Armed Services radio station in Vietnam.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 7 wins & 4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYThiZTU4N2UtYWU2Mi00ZGUyLWI2ZmEtM2U1ZmJmOGY1ZTc3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "7.3",
+  "imdbVotes": "158,540",
+  "imdbID": "tt0093105",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$123,922,370",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

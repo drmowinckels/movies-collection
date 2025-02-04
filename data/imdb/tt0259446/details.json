@@ -1,0 +1,41 @@
+{
+  "Title": "My Big Fat Greek Wedding",
+  "Year": "2002",
+  "Rated": "PG",
+  "Released": "02 Aug 2002",
+  "Runtime": "95 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Joel Zwick",
+  "Writer": "Nia Vardalos",
+  "Actors": "Nia Vardalos, John Corbett, Michael Constantine",
+  "Plot": "A young Greek woman falls in love with a non-Greek and struggles to get her family to accept him while she comes to terms with her heritage and cultural identity.",
+  "Language": "English, Greek",
+  "Country": "Canada, United States",
+  "Awards": "Nominated for 1 Oscar. 20 wins & 29 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWVmZmM3ZmUtNTU5ZS00ZmUxLTk0NDYtNWIxZjY4Zjk0MjQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "6.6",
+  "imdbVotes": "146,874",
+  "imdbID": "tt0259446",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$241,438,208",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 05"
+}

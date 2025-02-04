@@ -1,0 +1,41 @@
+{
+  "Title": "Flash Gordon",
+  "Year": "1980",
+  "Rated": "PG",
+  "Released": "05 Dec 1980",
+  "Runtime": "111 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Mike Hodges",
+  "Writer": "Lorenzo Semple Jr., Michael Allin, Alex Raymond",
+  "Actors": "Sam J. Jones, Melody Anderson, Max von Sydow",
+  "Plot": "A football player and his friends travel to the planet Mongo and find themselves fighting the tyranny of Ming the Merciless to save Earth.",
+  "Language": "English",
+  "Country": "United Kingdom, United States, Netherlands, Italy",
+  "Awards": "Nominated for 3 BAFTA 2 wins & 14 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ1NGE2MTItY2Q0ZS00ZmYyLWEzZjgtYWIwNGU2NWFkZGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "6.5",
+  "imdbVotes": "63,039",
+  "imdbID": "tt0080745",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$27,107,960",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

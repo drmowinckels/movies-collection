@@ -1,0 +1,41 @@
+{
+  "Title": "The Producers",
+  "Year": "2005",
+  "Rated": "PG-13",
+  "Released": "25 Dec 2005",
+  "Runtime": "134 min",
+  "Genre": "Comedy, Crime, Musical",
+  "Director": "Susan Stroman",
+  "Writer": "Mel Brooks, Thomas Meehan",
+  "Actors": "Nathan Lane, Matthew Broderick, Uma Thurman",
+  "Plot": "After putting together another Broadway flop, down-on-his-luck producer Max Bialystock teams up with timid accountant Leo Bloom in a get-rich-quick scheme to put on the world's worst show.",
+  "Language": "English, German, Swedish, Yiddish",
+  "Country": "United States",
+  "Awards": "1 win & 17 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGVhNmRlMGYtYWM1ZC00ZWU1LWFhOTAtZGY2ZWVkYWIyN2I4XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "51%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "Metascore": "52",
+  "imdbRating": "6.3",
+  "imdbVotes": "45,365",
+  "imdbID": "tt0395251",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$19,398,532",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

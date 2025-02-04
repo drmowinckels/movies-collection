@@ -1,0 +1,41 @@
+{
+  "Title": "Beauty and the Beast",
+  "Year": "1991",
+  "Rated": "G",
+  "Released": "22 Nov 1991",
+  "Runtime": "84 min",
+  "Genre": "Animation, Family, Fantasy",
+  "Director": "Gary Trousdale, Kirk Wise",
+  "Writer": "Linda Woolverton, Brenda Chapman, Chris Sanders",
+  "Actors": "Paige O'Hara, Robby Benson, Jesse Corti",
+  "Plot": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+  "Language": "English, French",
+  "Country": "United States, Japan",
+  "Awards": "Won 2 Oscars. 33 wins & 32 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "95/100"
+    }
+  ],
+  "Metascore": "95",
+  "imdbRating": "8.0",
+  "imdbVotes": "489,413",
+  "imdbID": "tt0101414",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$218,967,620",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

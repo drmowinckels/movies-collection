@@ -1,0 +1,41 @@
+{
+  "Title": "My Life as a Dog",
+  "Year": "1985",
+  "Rated": "Unrated",
+  "Released": "01 May 1987",
+  "Runtime": "101 min",
+  "Genre": "Drama, Comedy",
+  "Director": "Lasse Hallström",
+  "Writer": "Reidar Jönsson, Lasse Hallström, Brasse Brännström",
+  "Actors": "Anton Glanzelius, Tomas von Brömssen, Anki Lidén",
+  "Plot": "In the late '50s, young Ingemar learns a lot about life and himself when he is sent away from his sick mother to live with his aunt and uncle in a town full of eccentrics.",
+  "Language": "Swedish",
+  "Country": "Sweden",
+  "Awards": "Nominated for 2 Oscars. 15 wins & 5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjhlY2Q0ZTEtOTAxNS00YTY2LWFkOWYtZTU5NTI1YmFkZmY0XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "Metascore": "82",
+  "imdbRating": "7.6",
+  "imdbVotes": "22,969",
+  "imdbID": "tt0089606",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$8,345,266",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 05"
+}

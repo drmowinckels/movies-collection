@@ -1,0 +1,41 @@
+{
+  "Title": "Star Trek: The Motion Picture",
+  "Year": "1979",
+  "Rated": "G",
+  "Released": "08 Dec 1979",
+  "Runtime": "143 min",
+  "Genre": "Adventure, Mystery, Sci-Fi",
+  "Director": "Robert Wise",
+  "Writer": "Gene Roddenberry, Harold Livingston, Alan Dean Foster",
+  "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+  "Plot": "When an alien spacecraft of enormous power is spotted approaching Earth, Admiral James T. Kirk resumes command of the overhauled USS Enterprise in order to intercept it.",
+  "Language": "English, Klingon",
+  "Country": "United States",
+  "Awards": "Nominated for 3 Oscars. 4 wins & 21 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjcyMmVmMTItNTA3Yy00NGJjLTlmYjQtZWQ3ZjcyNmU5NDQ2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "Metascore": "50",
+  "imdbRating": "6.4",
+  "imdbVotes": "98,689",
+  "imdbID": "tt0079945",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$82,604,699",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 02"
+}

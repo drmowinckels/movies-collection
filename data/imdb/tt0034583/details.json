@@ -1,0 +1,41 @@
+{
+  "Title": "Casablanca",
+  "Year": "1942",
+  "Rated": "PG",
+  "Released": "23 Jan 1943",
+  "Runtime": "102 min",
+  "Genre": "Drama, Romance, War",
+  "Director": "Michael Curtiz",
+  "Writer": "Julius J. Epstein, Howard Koch, Murray Burnett",
+  "Actors": "Humphrey Bogart, Ingrid Bergman, Paul Henreid",
+  "Plot": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+  "Language": "English, French, German, Italian, Russian",
+  "Country": "United States",
+  "Awards": "Won 3 Oscars. 14 wins & 11 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "Metascore": "100",
+  "imdbRating": "8.5",
+  "imdbVotes": "625,036",
+  "imdbID": "tt0034583",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$4,219,709",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

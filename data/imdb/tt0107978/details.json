@@ -1,0 +1,41 @@
+{
+  "Title": "RoboCop 3",
+  "Year": "1993",
+  "Rated": "PG-13",
+  "Released": "05 Nov 1993",
+  "Runtime": "104 min",
+  "Genre": "Action, Crime, Sci-Fi",
+  "Director": "Fred Dekker",
+  "Writer": "Edward Neumeier, Michael Miner, Frank Miller",
+  "Actors": "Robert John Burke, Nancy Allen, Mario Machado",
+  "Plot": "Robocop saves the day once more. This time the half man/half robot takes on ruthless developers who want to evict some people on \"their\" land.",
+  "Language": "English, Japanese",
+  "Country": "United States",
+  "Awards": "3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODc0YjFmZDgtNWY4Zi00MjQ3LThiZWYtNmVlNjZjNTE5OTEwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "9%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "Metascore": "40",
+  "imdbRating": "4.2",
+  "imdbVotes": "55,847",
+  "imdbID": "tt0107978",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$10,696,210",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

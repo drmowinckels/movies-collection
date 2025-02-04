@@ -1,0 +1,41 @@
+{
+  "Title": "Blazing Saddles",
+  "Year": "1974",
+  "Rated": "R",
+  "Released": "07 Feb 1974",
+  "Runtime": "93 min",
+  "Genre": "Comedy, Western",
+  "Director": "Mel Brooks",
+  "Writer": "Mel Brooks, Norman Steinberg, Andrew Bergman",
+  "Actors": "Cleavon Little, Gene Wilder, Slim Pickens",
+  "Plot": "In order to ruin a western town and steal their land, a corrupt politician appoints a black sheriff, who promptly becomes his most formidable adversary.",
+  "Language": "English, Yiddish, German",
+  "Country": "United States",
+  "Awards": "Nominated for 3 Oscars. 3 wins & 6 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTI3Y2Y4NDgtY2I1NS00M2JmLWI5NzEtYTQwYTUwZGQxYzZlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "Metascore": "73",
+  "imdbRating": "7.7",
+  "imdbVotes": "156,964",
+  "imdbID": "tt0071230",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$119,616,663",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

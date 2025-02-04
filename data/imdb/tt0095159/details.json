@@ -1,0 +1,41 @@
+{
+  "Title": "A Fish Called Wanda",
+  "Year": "1988",
+  "Rated": "R",
+  "Released": "29 Jul 1988",
+  "Runtime": "108 min",
+  "Genre": "Comedy, Crime",
+  "Director": "Charles Crichton, John Cleese",
+  "Writer": "John Cleese, Charles Crichton",
+  "Actors": "John Cleese, Jamie Lee Curtis, Kevin Kline",
+  "Plot": "In London, four very different people team up on a jewel heist, then try to double-cross one another for the loot, complicated by their efforts to fool the very proper barrister Archibald Leach.",
+  "Language": "English, Italian, Russian, French",
+  "Country": "United Kingdom, United States",
+  "Awards": "Won 1 Oscar. 9 wins & 22 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjFhZDg1ZmEtYmI0Ny00MjM3LWIxNzItMzU1MzczZTljMTkxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "Metascore": "80",
+  "imdbRating": "7.5",
+  "imdbVotes": "157,133",
+  "imdbID": "tt0095159",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$62,493,712",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

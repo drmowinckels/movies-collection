@@ -1,0 +1,41 @@
+{
+  "Title": "Robin Hood",
+  "Year": "1973",
+  "Rated": "G",
+  "Released": "08 Nov 1973",
+  "Runtime": "83 min",
+  "Genre": "Animation, Adventure, Comedy",
+  "Director": "Wolfgang Reitherman, David Hand",
+  "Writer": "Larry Clemmons, Ken Anderson, Vance Gerry",
+  "Actors": "Brian Bedford, Phil Harris, Roger Miller",
+  "Plot": "The story of the legendary British outlaw portrayed with the characters as anthropomorphic animals.",
+  "Language": "English, Portuguese",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 1 win & 2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDk2NTEzNjktZDg0MS00MWEwLTkzMWItNTU4ZjcxODM5ODdhXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "Metascore": "57",
+  "imdbRating": "7.5",
+  "imdbVotes": "142,688",
+  "imdbID": "tt0070608",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

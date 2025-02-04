@@ -1,0 +1,41 @@
+{
+  "Title": "Doctor Zhivago",
+  "Year": "1965",
+  "Rated": "Approved",
+  "Released": "31 Dec 1965",
+  "Runtime": "197 min",
+  "Genre": "Drama, Romance, War",
+  "Director": "David Lean",
+  "Writer": "Boris Pasternak, Robert Bolt",
+  "Actors": "Omar Sharif, Julie Christie, Geraldine Chaplin",
+  "Plot": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+  "Language": "English, Russian, French",
+  "Country": "Italy, United Kingdom, United States",
+  "Awards": "Won 5 Oscars. 21 wins & 13 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWQyZGNmZWItNjc0OS00M2YyLWJkZmYtZWNlNDE2MzMwYzUzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "Metascore": "69",
+  "imdbRating": "7.9",
+  "imdbVotes": "83,731",
+  "imdbID": "tt0059113",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$111,721,910",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 04"
+}

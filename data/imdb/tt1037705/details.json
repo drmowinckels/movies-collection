@@ -1,0 +1,41 @@
+{
+  "Title": "The Book of Eli",
+  "Year": "2010",
+  "Rated": "R",
+  "Released": "15 Jan 2010",
+  "Runtime": "118 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "Albert Hughes, Allen Hughes",
+  "Writer": "Gary Whitta",
+  "Actors": "Denzel Washington, Mila Kunis, Ray Stevenson",
+  "Plot": "A drifter fights his way across a ravaged, post-apocalyptic America while protecting a sacred book that holds the secrets to humanity's salvation.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 wins & 16 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjk4N2U2YTAtNWEzZC00N2VmLTlkNDctMjg5YjI4OTExZTFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "6.8",
+  "imdbVotes": "348,102",
+  "imdbID": "tt1037705",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$94,835,059",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

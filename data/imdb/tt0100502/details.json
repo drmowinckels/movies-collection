@@ -1,0 +1,41 @@
+{
+  "Title": "RoboCop 2",
+  "Year": "1990",
+  "Rated": "R",
+  "Released": "22 Jun 1990",
+  "Runtime": "117 min",
+  "Genre": "Action, Crime, Sci-Fi",
+  "Director": "Irvin Kershner",
+  "Writer": "Edward Neumeier, Michael Miner, Frank Miller",
+  "Actors": "Peter Weller, Nancy Allen, Belinda Bauer",
+  "Plot": "RoboCop returns to protect the citizens of old Detroit but faces a deadly challenge when a rogue OCP member secretly creates a new, evil RoboCop 2.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3OTEyOTAxMl5BMl5BanBnXkFtZTcwMTA0NzE1NA@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "28%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "Metascore": "42",
+  "imdbRating": "5.8",
+  "imdbVotes": "95,435",
+  "imdbID": "tt0100502",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$45,681,173",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

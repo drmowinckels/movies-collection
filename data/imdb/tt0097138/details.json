@@ -1,0 +1,41 @@
+{
+  "Title": "Cyborg",
+  "Year": "1989",
+  "Rated": "R",
+  "Released": "07 Apr 1989",
+  "Runtime": "86 min",
+  "Genre": "Action, Sci-Fi, Thriller",
+  "Director": "Albert Pyun",
+  "Writer": "Albert Pyun",
+  "Actors": "Jean-Claude Van Damme, Deborah Richter, Vincent Klyn",
+  "Plot": "A martial artist hunts a killer in a plague-infested urban dump of the future.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGY0OGYwNzUtMWYxOS00ZjE1LWEyNDktZTZhYTA1OTZjYzYyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "22%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "24/100"
+    }
+  ],
+  "Metascore": "24",
+  "imdbRating": "5.0",
+  "imdbVotes": "35,162",
+  "imdbID": "tt0097138",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$10,166,459",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}
