@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "04 Jun 2010",
   "Runtime": "104 min",
-  "Genre": "Horror, Sci-Fi",
+  "Genre": ["Horror", "Sci-Fi"],
   "Director": "Vincenzo Natali",
   "Writer": "Vincenzo Natali, Antoinette Terry Bryant, Doug Taylor",
   "Actors": "Adrien Brody, Sarah Polley, Delphine Chanéac",

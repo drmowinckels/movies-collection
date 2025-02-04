@@ -4,7 +4,7 @@
   "Rated": "Unrated",
   "Released": "08 Jul 2011",
   "Runtime": "82 min",
-  "Genre": "Adventure, Drama, Fantasy",
+  "Genre": ["Adventure", "Drama", "Fantasy"],
   "Director": "Catherine Breillat",
   "Writer": "Catherine Breillat, Hans Christian Andersen, Charles Perrault",
   "Actors": "Carla Besnaïnou, Julia Artamonov, Kerian Mayan",

@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "21 Jun 2002",
   "Runtime": "85 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Dean DeBlois, Chris Sanders",
   "Writer": "Chris Sanders, Dean DeBlois",
   "Actors": "Daveigh Chase, Chris Sanders, Tia Carrere",

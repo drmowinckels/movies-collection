@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "25 Dec 1977",
   "Runtime": "94 min",
-  "Genre": "Comedy, Mystery, Thriller",
+  "Genre": ["Comedy", "Mystery", "Thriller"],
   "Director": "Mel Brooks",
   "Writer": "Mel Brooks, Ron Clark, Rudy De Luca",
   "Actors": "Mel Brooks, Madeline Kahn, Cloris Leachman",

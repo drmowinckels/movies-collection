@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "09 Aug 1989",
   "Runtime": "140 min",
-  "Genre": "Adventure, Drama, Mystery",
+  "Genre": ["Adventure", "Drama", "Mystery"],
   "Director": "James Cameron",
   "Writer": "James Cameron",
   "Actors": "Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn",

@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "18 Oct 1985",
   "Runtime": "91 min",
-  "Genre": "Drama, Mystery, Sci-Fi",
+  "Genre": ["Drama", "Mystery", "Sci-Fi"],
   "Director": "Geoff Murphy",
   "Writer": "Craig Harrison, Bill Baer, Bruno Lawrence",
   "Actors": "Bruno Lawrence, Alison Routledge, Pete Smith",

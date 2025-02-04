@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "14 Dec 1977",
   "Runtime": "138 min",
-  "Genre": "Drama, Sci-Fi",
+  "Genre": ["Drama", "Sci-Fi"],
   "Director": "Steven Spielberg",
   "Writer": "Steven Spielberg, Hal Barwood, Jerry Belson",
   "Actors": "Richard Dreyfuss, François Truffaut, Teri Garr",

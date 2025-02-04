@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "30 Mar 2007",
   "Runtime": "95 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Stephen J. Anderson",
   "Writer": "Jon Bernstein, Michelle Bochner Spitz, Don Hall",
   "Actors": "Daniel Hansen, Wesley Singerman, Angela Bassett",

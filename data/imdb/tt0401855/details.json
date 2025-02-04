@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "20 Jan 2006",
   "Runtime": "106 min",
-  "Genre": "Action, Fantasy, Thriller",
+  "Genre": ["Action", "Fantasy", "Thriller"],
   "Director": "Len Wiseman",
   "Writer": "Danny McBride, Len Wiseman, Kevin Grevioux",
   "Actors": "Kate Beckinsale, Scott Speedman, Bill Nighy",

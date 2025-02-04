@@ -4,7 +4,7 @@
   "Rated": "Unrated",
   "Released": "04 Jan 1998",
   "Runtime": "94 min",
-  "Genre": "Action, Adventure, Drama",
+  "Genre": ["Action", "Adventure", "Drama"],
   "Director": "Michael Vejar",
   "Writer": "J. Michael Straczynski",
   "Actors": "Bruce Boxleitner, Mira Furlan, Richard Biggs",

@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "13 Nov 1987",
   "Runtime": "101 min",
-  "Genre": "Action, Sci-Fi, Thriller",
+  "Genre": ["Action", "Sci-Fi", "Thriller"],
   "Director": "Paul Michael Glaser",
   "Writer": "Stephen King, Steven E. de Souza",
   "Actors": "Arnold Schwarzenegger, Maria Conchita Alonso, Yaphet Kotto",

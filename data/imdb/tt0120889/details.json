@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "02 Oct 1998",
   "Runtime": "113 min",
-  "Genre": "Drama, Fantasy, Romance",
+  "Genre": ["Drama", "Fantasy", "Romance"],
   "Director": "Vincent Ward",
   "Writer": "Richard Matheson, Ron Bass",
   "Actors": "Robin Williams, Cuba Gooding Jr., Annabella Sciorra",

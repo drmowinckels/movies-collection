@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "17 May 1950",
   "Runtime": "107 min",
-  "Genre": "Comedy, Musical, Romance",
+  "Genre": ["Comedy", "Musical", "Romance"],
   "Director": "George Sidney, Busby Berkeley",
   "Writer": "Sidney Sheldon, Herbert Fields, Dorothy Fields",
   "Actors": "Betty Hutton, Howard Keel, Louis Calhern",

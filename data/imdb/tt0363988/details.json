@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "12 Mar 2004",
   "Runtime": "96 min",
-  "Genre": "Drama, Mystery, Thriller",
+  "Genre": ["Drama", "Mystery", "Thriller"],
   "Director": "David Koepp",
   "Writer": "Stephen King, David Koepp",
   "Actors": "Johnny Depp, Maria Bello, John Turturro",

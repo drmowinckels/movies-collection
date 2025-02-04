@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "19 Apr 1985",
   "Runtime": "82 min",
-  "Genre": "Comedy, Fantasy, Romance",
+  "Genre": ["Comedy", "Fantasy", "Romance"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen",
   "Actors": "Mia Farrow, Jeff Daniels, Danny Aiello",

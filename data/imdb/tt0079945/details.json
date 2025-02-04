@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "08 Dec 1979",
   "Runtime": "143 min",
-  "Genre": "Adventure, Mystery, Sci-Fi",
+  "Genre": ["Adventure", "Mystery", "Sci-Fi"],
   "Director": "Robert Wise",
   "Writer": "Gene Roddenberry, Harold Livingston, Alan Dean Foster",
   "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",

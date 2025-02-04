@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "15 Jan 1988",
   "Runtime": "121 min",
-  "Genre": "Biography, Comedy, Drama",
+  "Genre": ["Biography", "Comedy", "Drama"],
   "Director": "Barry Levinson",
   "Writer": "Mitch Markowitz, Adrian Cronauer",
   "Actors": "Robin Williams, Forest Whitaker, Tom T. Tran",

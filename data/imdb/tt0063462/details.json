@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "10 Nov 1968",
   "Runtime": "88 min",
-  "Genre": "Comedy, Music",
+  "Genre": ["Comedy", "Music"],
   "Director": "Mel Brooks",
   "Writer": "Mel Brooks",
   "Actors": "Zero Mostel, Gene Wilder, Dick Shawn",

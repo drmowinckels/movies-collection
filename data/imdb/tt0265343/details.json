@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "26 Apr 2002",
   "Runtime": "114 min",
-  "Genre": "Comedy, Drama, Romance",
+  "Genre": ["Comedy", "Drama", "Romance"],
   "Director": "Mira Nair",
   "Writer": "Sabrina Dhawan",
   "Actors": "Naseeruddin Shah, Lillete Dubey, Shefali Shah",

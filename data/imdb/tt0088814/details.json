@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "24 Jul 1985",
   "Runtime": "80 min",
-  "Genre": "Animation, Action, Adventure",
+  "Genre": ["Animation", "Action", "Adventure"],
   "Director": "Ted Berman, Richard Rich",
   "Writer": "Lloyd Alexander, David Jonas, Vance Gerry",
   "Actors": "Grant Bardsley, Freddie Jones, Susan Sheridan",

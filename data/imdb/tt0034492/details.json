@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "21 Aug 1942",
   "Runtime": "69 min",
-  "Genre": "Animation, Adventure, Drama",
+  "Genre": ["Animation", "Adventure", "Drama"],
   "Director": "James Algar, Samuel Armstrong, David Hand",
   "Writer": "Felix Salten, Perce Pearce, Larry Morey",
   "Actors": "Hardie Albright, Stan Alexander, Bobette Audrey",

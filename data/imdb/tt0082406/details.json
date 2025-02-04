@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "10 Jul 1981",
   "Runtime": "83 min",
-  "Genre": "Animation, Adventure, Drama",
+  "Genre": ["Animation", "Adventure", "Drama"],
   "Director": "Ted Berman, Richard Rich, Art Stevens",
   "Writer": "Daniel P. Mannix, Larry Clemmons, Ted Berman",
   "Actors": "Mickey Rooney, Kurt Russell, Pearl Bailey",

@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "15 Jun 2001",
   "Runtime": "95 min",
-  "Genre": "Animation, Action, Adventure",
+  "Genre": ["Animation", "Action", "Adventure"],
   "Director": "Gary Trousdale, Kirk Wise",
   "Writer": "Tab Murphy, Kirk Wise, Gary Trousdale",
   "Actors": "Michael J. Fox, Jim Varney, Corey Burton",

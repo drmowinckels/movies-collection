@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "27 Jun 2008",
   "Runtime": "98 min",
-  "Genre": "Animation, Adventure, Family",
+  "Genre": ["Animation", "Adventure", "Family"],
   "Director": "Andrew Stanton",
   "Writer": "Andrew Stanton, Pete Docter, Jim Reardon",
   "Actors": "Ben Burtt, Elissa Knight, Jeff Garlin",

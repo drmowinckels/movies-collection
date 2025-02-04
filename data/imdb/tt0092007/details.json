@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "26 Nov 1986",
   "Runtime": "119 min",
-  "Genre": "Adventure, Comedy, Sci-Fi",
+  "Genre": ["Adventure", "Comedy", "Sci-Fi"],
   "Director": "Leonard Nimoy",
   "Writer": "Gene Roddenberry, Leonard Nimoy, Harve Bennett",
   "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",

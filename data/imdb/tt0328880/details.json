@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "01 Nov 2003",
   "Runtime": "85 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Aaron Blaise, Robert Walker",
   "Writer": "Tab Murphy, Lorne Cameron, David Hoselton",
   "Actors": "Joaquin Phoenix, Jeremy Suarez, Rick Moranis",

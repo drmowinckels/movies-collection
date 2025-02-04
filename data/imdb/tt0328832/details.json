@@ -4,7 +4,7 @@
   "Rated": "Unrated",
   "Released": "21 Mar 2003",
   "Runtime": "100 min",
-  "Genre": "Animation, Action, Sci-Fi",
+  "Genre": ["Animation", "Action", "Sci-Fi"],
   "Director": "Peter Chung, Andrew R. Jones, Yoshiaki Kawajiri, Takeshi Koike, Mahiro Maeda, Kôji Morimoto, Shin'ichirô Watanabe",
   "Writer": "Lilly Wachowski (screenplay \"The Matrix\"), Lana Wachowski (screenplay \"The Matrix\"), Lilly Wachowski, Lana Wachowski, Yoshiaki Kawajiri, Kôji Morimoto, Shin'ichirô Watanabe, Peter Chung",
   "Actors": "James Arnold Taylor, Julia Fletcher, Dwight Schultz",

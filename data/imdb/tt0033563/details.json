@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "31 Oct 1941",
   "Runtime": "64 min",
-  "Genre": "Animation, Adventure, Drama",
+  "Genre": ["Animation", "Adventure", "Drama"],
   "Director": "Samuel Armstrong, Norman Ferguson, Wilfred Jackson",
   "Writer": "Joe Grant, Dick Huemer, Otto Englander",
   "Actors": "Sterling Holloway, Edward Brophy, Herman Bing",

@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "22 Dec 1995",
   "Runtime": "88 min",
-  "Genre": "Comedy, Fantasy, Horror",
+  "Genre": ["Comedy", "Fantasy", "Horror"],
   "Director": "Mel Brooks",
   "Writer": "Mel Brooks, Rudy De Luca, Steve Haberman",
   "Actors": "Leslie Nielsen, Mel Brooks, Peter MacNicol",

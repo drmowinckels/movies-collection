@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "25 Nov 2009",
   "Runtime": "111 min",
-  "Genre": "Drama, Thriller",
+  "Genre": ["Drama", "Thriller"],
   "Director": "John Hillcoat",
   "Writer": "Joe Penhall, Cormac McCarthy",
   "Actors": "Viggo Mortensen, Charlize Theron, Kodi Smit-McPhee",

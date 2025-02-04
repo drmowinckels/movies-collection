@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "10 Jul 2009",
   "Runtime": "97 min",
-  "Genre": "Drama, Mystery, Sci-Fi",
+  "Genre": ["Drama", "Mystery", "Sci-Fi"],
   "Director": "Duncan Jones",
   "Writer": "Duncan Jones, Nathan Parker",
   "Actors": "Sam Rockwell, Kevin Spacey, Dominique McElligott",

@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "06 Oct 2017",
   "Runtime": "164 min",
-  "Genre": "Action, Drama, Mystery",
+  "Genre": ["Action", "Drama", "Mystery"],
   "Director": "Denis Villeneuve",
   "Writer": "Hampton Fancher, Michael Green, Philip K. Dick",
   "Actors": "Harrison Ford, Ryan Gosling, Ana de Armas",

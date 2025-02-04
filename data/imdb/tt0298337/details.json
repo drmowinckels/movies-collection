@@ -4,7 +4,7 @@
   "Rated": "Not Rated",
   "Released": "21 Apr 2006",
   "Runtime": "86 min",
-  "Genre": "Animation, Comedy",
+  "Genre": ["Animation", "Comedy"],
   "Director": "Christopher Nielsen",
   "Writer": "Christopher Nielsen, Simon Pegg",
   "Actors": "Woody Harrelson, Simon Pegg, Phil Daniels",

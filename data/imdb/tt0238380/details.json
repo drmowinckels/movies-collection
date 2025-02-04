@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "06 Dec 2002",
   "Runtime": "107 min",
-  "Genre": "Action, Drama, Sci-Fi",
+  "Genre": ["Action", "Drama", "Sci-Fi"],
   "Director": "Kurt Wimmer",
   "Writer": "Kurt Wimmer",
   "Actors": "Christian Bale, Sean Bean, Emily Watson",

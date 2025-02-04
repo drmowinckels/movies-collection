@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "23 Feb 1940",
   "Runtime": "88 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Norman Ferguson, T. Hee, Wilfred Jackson",
   "Writer": "Carlo Collodi, Ted Sears, Otto Englander",
   "Actors": "Dickie Jones, Christian Rub, Mel Blanc",

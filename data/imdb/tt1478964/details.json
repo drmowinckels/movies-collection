@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "13 May 2011",
   "Runtime": "88 min",
-  "Genre": "Action, Adventure, Comedy",
+  "Genre": ["Action", "Adventure", "Comedy"],
   "Director": "Joe Cornish",
   "Writer": "Joe Cornish",
   "Actors": "John Boyega, Jodie Whittaker, Alex Esmail",

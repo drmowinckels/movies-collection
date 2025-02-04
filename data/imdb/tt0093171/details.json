@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "01 Jan 1988",
   "Runtime": "86 min",
-  "Genre": "Action, Comedy, Sci-Fi",
+  "Genre": ["Action", "Comedy", "Sci-Fi"],
   "Director": "Donald G. Jackson, R.J. Kizer",
   "Writer": "Donald G. Jackson, Randall Frakes",
   "Actors": "Julius LeFlore, RCB, Roddy Piper",

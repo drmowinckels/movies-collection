@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "09 Jun 1989",
   "Runtime": "107 min",
-  "Genre": "Action, Adventure, Fantasy",
+  "Genre": ["Action", "Adventure", "Fantasy"],
   "Director": "William Shatner",
   "Writer": "Gene Roddenberry, William Shatner, Harve Bennett",
   "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",

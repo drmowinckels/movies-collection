@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "14 Mar 1986",
   "Runtime": "107 min",
-  "Genre": "Comedy, Drama",
+  "Genre": ["Comedy", "Drama"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen",
   "Actors": "Mia Farrow, Dianne Wiest, Michael Caine",

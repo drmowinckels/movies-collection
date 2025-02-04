@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "18 Mar 2011",
   "Runtime": "105 min",
-  "Genre": "Sci-Fi, Thriller",
+  "Genre": ["Sci-Fi", "Thriller"],
   "Director": "Neil Burger",
   "Writer": "Leslie Dixon, Alan Glynn",
   "Actors": "Bradley Cooper, Anna Friel, Abbie Cornish",

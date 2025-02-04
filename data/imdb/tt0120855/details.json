@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "18 Jun 1999",
   "Runtime": "88 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Chris Buck, Kevin Lima",
   "Writer": "Edgar Rice Burroughs, Tab Murphy, Bob Tzudiker",
   "Actors": "Tony Goldwyn, Minnie Driver, Brian Blessed",

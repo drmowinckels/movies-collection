@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "28 Oct 1970",
   "Runtime": "94 min",
-  "Genre": "Comedy, Drama",
+  "Genre": ["Comedy", "Drama"],
   "Director": "Mel Brooks",
   "Writer": "Ilya Ilf, Yevgeni Petrov, Elizabeth Hill",
   "Actors": "Mel Brooks, Ron Moody, Frank Langella",

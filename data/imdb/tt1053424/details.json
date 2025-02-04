@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "19 Mar 2010",
   "Runtime": "111 min",
-  "Genre": "Action, Sci-Fi, Thriller",
+  "Genre": ["Action", "Sci-Fi", "Thriller"],
   "Director": "Miguel Sapochnik",
   "Writer": "Eric Garcia, Garrett Lerner",
   "Actors": "Jude Law, Forest Whitaker, Alice Braga",

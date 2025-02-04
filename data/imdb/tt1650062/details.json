@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "10 Jun 2011",
   "Runtime": "112 min",
-  "Genre": "Action, Sci-Fi, Thriller",
+  "Genre": ["Action", "Sci-Fi", "Thriller"],
   "Director": "J.J. Abrams",
   "Writer": "J.J. Abrams",
   "Actors": "Elle Fanning, AJ Michalka, Kyle Chandler",

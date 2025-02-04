@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "02 Aug 2002",
   "Runtime": "95 min",
-  "Genre": "Comedy, Drama, Romance",
+  "Genre": ["Comedy", "Drama", "Romance"],
   "Director": "Joel Zwick",
   "Writer": "Nia Vardalos",
   "Actors": "Nia Vardalos, John Corbett, Michael Constantine",

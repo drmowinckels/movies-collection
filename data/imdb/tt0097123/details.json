@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "03 Nov 1989",
   "Runtime": "104 min",
-  "Genre": "Comedy, Drama",
+  "Genre": ["Comedy", "Drama"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen",
   "Actors": "Martin Landau, Woody Allen, Bill Bernstein",

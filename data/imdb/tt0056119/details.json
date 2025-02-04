@@ -4,7 +4,7 @@
   "Rated": "Not Rated",
   "Released": "16 Feb 1962",
   "Runtime": "28 min",
-  "Genre": "Short, Drama, Romance",
+  "Genre": ["Short", "Drama", "Romance"],
   "Director": "Chris Marker",
   "Writer": "Chris Marker",
   "Actors": "Étienne Becker, Jean Négroni, Hélène Chatelain",

@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "16 Nov 1990",
   "Runtime": "103 min",
-  "Genre": "Comedy, Family",
+  "Genre": ["Comedy", "Family"],
   "Director": "Chris Columbus",
   "Writer": "John Hughes",
   "Actors": "Macaulay Culkin, Joe Pesci, Daniel Stern",

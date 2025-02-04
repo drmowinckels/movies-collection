@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "13 Dec 2002",
   "Runtime": "116 min",
-  "Genre": "Action, Adventure, Sci-Fi",
+  "Genre": ["Action", "Adventure", "Sci-Fi"],
   "Director": "Stuart Baird",
   "Writer": "Gene Roddenberry, John Logan, Rick Berman",
   "Actors": "Patrick Stewart, Jonathan Frakes, Brent Spiner",

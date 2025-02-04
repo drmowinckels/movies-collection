@@ -4,7 +4,7 @@
   "Rated": "TV-MA",
   "Released": "19 Feb 2007",
   "Runtime": "77 min",
-  "Genre": "Comedy, Drama, Romance",
+  "Genre": ["Comedy", "Drama", "Romance"],
   "Director": "Eric Amadio",
   "Writer": "Eric Amadio",
   "Actors": "Marc Blucas, Jose Pablo Cantillo, Emmanuelle Chriqui",

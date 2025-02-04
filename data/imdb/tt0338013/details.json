@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "19 Mar 2004",
   "Runtime": "108 min",
-  "Genre": "Drama, Romance, Sci-Fi",
+  "Genre": ["Drama", "Romance", "Sci-Fi"],
   "Director": "Michel Gondry",
   "Writer": "Charlie Kaufman, Michel Gondry, Pierre Bismuth",
   "Actors": "Jim Carrey, Kate Winslet, Tom Wilkinson",

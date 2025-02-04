@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "22 May 1997",
   "Runtime": "129 min",
-  "Genre": "Action, Adventure, Sci-Fi",
+  "Genre": ["Action", "Adventure", "Sci-Fi"],
   "Director": "Steven Spielberg",
   "Writer": "Michael Crichton, David Koepp",
   "Actors": "Jeff Goldblum, Julianne Moore, Pete Postlethwaite",

@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "02 Aug 1996",
   "Runtime": "98 min",
-  "Genre": "Comedy, Family, Fantasy",
+  "Genre": ["Comedy", "Family", "Fantasy"],
   "Director": "Danny DeVito",
   "Writer": "Roald Dahl, Nicholas Kazan, Robin Swicord",
   "Actors": "Danny DeVito, Rhea Perlman, Mara Wilson",

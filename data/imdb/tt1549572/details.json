@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "12 Oct 2011",
   "Runtime": "92 min",
-  "Genre": "Drama, Mystery, Romance",
+  "Genre": ["Drama", "Mystery", "Romance"],
   "Director": "Mike Cahill",
   "Writer": "Mike Cahill, Brit Marling",
   "Actors": "Brit Marling, William Mapother, Matthew-Lee Erlbach",

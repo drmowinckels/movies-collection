@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "07 Apr 1989",
   "Runtime": "86 min",
-  "Genre": "Action, Sci-Fi, Thriller",
+  "Genre": ["Action", "Sci-Fi", "Thriller"],
   "Director": "Albert Pyun",
   "Writer": "Albert Pyun",
   "Actors": "Jean-Claude Van Damme, Deborah Richter, Vincent Klyn",

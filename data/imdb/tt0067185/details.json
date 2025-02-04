@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "20 Dec 1971",
   "Runtime": "91 min",
-  "Genre": "Comedy, Drama, Romance",
+  "Genre": ["Comedy", "Drama", "Romance"],
   "Director": "Hal Ashby",
   "Writer": "Colin Higgins",
   "Actors": "Ruth Gordon, Bud Cort, Vivian Pickles",

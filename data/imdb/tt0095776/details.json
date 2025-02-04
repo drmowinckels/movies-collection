@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "18 Nov 1988",
   "Runtime": "74 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "George Scribner",
   "Writer": "Jim Cox, Tim Disney, James Mangold",
   "Actors": "Joey Lawrence, Billy Joel, Cheech Marin",

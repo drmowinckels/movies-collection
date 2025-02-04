@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "27 Aug 2010",
   "Runtime": "129 min",
-  "Genre": "Action, Crime, Drama",
+  "Genre": ["Action", "Crime", "Drama"],
   "Director": "Daniel Alfredson",
   "Writer": "Jonas Frykberg, Stieg Larsson",
   "Actors": "Noomi Rapace, Michael Nyqvist, Lena Endre",

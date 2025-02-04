@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "18 Sep 1998",
   "Runtime": "91 min",
-  "Genre": "Action, Adventure, Comedy",
+  "Genre": ["Action", "Adventure", "Comedy"],
   "Director": "Lance Mungia",
   "Writer": "Jeffrey Falcon, Lance Mungia",
   "Actors": "Jeffrey Falcon, Justin McGuire, Kim De Angelo",

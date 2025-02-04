@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "25 Aug 1939",
   "Runtime": "102 min",
-  "Genre": "Adventure, Family, Fantasy",
+  "Genre": ["Adventure", "Family", "Fantasy"],
   "Director": "Victor Fleming, King Vidor",
   "Writer": "Noel Langley, Florence Ryerson, Edgar Allan Woolf",
   "Actors": "Judy Garland, Frank Morgan, Ray Bolger",

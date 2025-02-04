@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "04 Nov 2005",
   "Runtime": "81 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Mark Dindal",
   "Writer": "Mark Dindal, Mark Kennedy, Steve Bencich",
   "Actors": "Zach Braff, Joan Cusack, Garry Marshall",

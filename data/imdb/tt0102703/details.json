@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "21 Mar 1991",
   "Runtime": "95 min",
-  "Genre": "Action, Crime, Drama",
+  "Genre": ["Action", "Crime", "Drama"],
   "Director": "Rick King",
   "Writer": "W. Peter Iliff",
   "Actors": "Corey Haim, Patricia Arquette, Christopher Collet",

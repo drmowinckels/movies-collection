@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "25 May 1983",
   "Runtime": "131 min",
-  "Genre": "Action, Adventure, Fantasy",
+  "Genre": ["Action", "Adventure", "Fantasy"],
   "Director": "Richard Marquand",
   "Writer": "Lawrence Kasdan, George Lucas",
   "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",

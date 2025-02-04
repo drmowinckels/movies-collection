@@ -4,7 +4,7 @@
   "Rated": "Not Rated",
   "Released": "29 May 2009",
   "Runtime": "25 min",
-  "Genre": "Short, Action, Sci-Fi",
+  "Genre": ["Short", "Action", "Sci-Fi"],
   "Director": "Chandler Tuttle",
   "Writer": "Chandler Tuttle, Kurt Vonnegut Jr.",
   "Actors": "James Cosmo, Julie Hagerty, Armie Hammer",

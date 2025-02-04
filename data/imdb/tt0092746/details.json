@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "05 Feb 1988",
   "Runtime": "99 min",
-  "Genre": "Action, Adventure, Comedy",
+  "Genre": ["Action", "Adventure", "Comedy"],
   "Director": "Steve De Jarnatt",
   "Writer": "Lloyd Fonvielle, Michael Almereyda",
   "Actors": "Melanie Griffith, David Andrews, Pamela Gidley",

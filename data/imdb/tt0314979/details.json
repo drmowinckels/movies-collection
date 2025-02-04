@@ -4,7 +4,7 @@
   "Rated": "TV-14",
   "Released": "08 Dec 2003",
   "Runtime": "2 min",
-  "Genre": "Action, Adventure, Drama",
+  "Genre": ["Action", "Adventure", "Drama"],
   "Director": "N/A",
   "Writer": "N/A",
   "Actors": "Edward James Olmos, Mary McDonnell, Katee Sackhoff",

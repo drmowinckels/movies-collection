@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "25 Dec 1957",
   "Runtime": "88 min",
-  "Genre": "Drama, War",
+  "Genre": ["Drama", "War"],
   "Director": "Stanley Kubrick",
   "Writer": "Stanley Kubrick, Calder Willingham, Jim Thompson",
   "Actors": "Kirk Douglas, Ralph Meeker, Adolphe Menjou",

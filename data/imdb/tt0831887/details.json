@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "25 Dec 2008",
   "Runtime": "103 min",
-  "Genre": "Action, Crime, Fantasy",
+  "Genre": ["Action", "Crime", "Fantasy"],
   "Director": "Frank Miller",
   "Writer": "Frank Miller, Will Eisner",
   "Actors": "Gabriel Macht, Samuel L. Jackson, Scarlett Johansson",
@@ -37,5 +37,5 @@
   "Production": "N/A",
   "Website": "N/A",
   "Response": "True",
-  "Source": "loftet_01"
+  "Source": "Loftet 01"
 }

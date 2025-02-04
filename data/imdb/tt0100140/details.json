@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "14 Dec 1990",
   "Runtime": "110 min",
-  "Genre": "Comedy, Drama, Romance",
+  "Genre": ["Comedy", "Drama", "Romance"],
   "Director": "Richard Benjamin",
   "Writer": "Patty Dann, June Roberts",
   "Actors": "Cher, Bob Hoskins, Winona Ryder",

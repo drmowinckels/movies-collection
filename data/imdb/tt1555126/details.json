@@ -4,7 +4,7 @@
   "Rated": "TV-14",
   "Released": "31 May 2010",
   "Runtime": "92 min",
-  "Genre": "Biography, Drama, Romance",
+  "Genre": ["Biography", "Drama", "Romance"],
   "Director": "James Kent",
   "Writer": "Jane English, Anne Lister",
   "Actors": "Maxine Peake, Anna Madeley, Susan Lynch",

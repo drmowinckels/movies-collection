@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "11 Jun 1993",
   "Runtime": "127 min",
-  "Genre": "Action, Adventure, Sci-Fi",
+  "Genre": ["Action", "Adventure", "Sci-Fi"],
   "Director": "Steven Spielberg",
   "Writer": "Michael Crichton, David Koepp",
   "Actors": "Sam Neill, Laura Dern, Jeff Goldblum",

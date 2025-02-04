@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "17 Nov 2006",
   "Runtime": "108 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "George Miller, Warren Coleman, Judy Morris",
   "Writer": "George Miller, John Collee, Judy Morris",
   "Actors": "Elijah Wood, Brittany Murphy, Hugh Jackman",

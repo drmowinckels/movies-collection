@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "04 Feb 1938",
   "Runtime": "83 min",
-  "Genre": "Animation, Adventure, Family",
+  "Genre": ["Animation", "Adventure", "Family"],
   "Director": "William Cottrell, David Hand, Wilfred Jackson",
   "Writer": "Jacob Grimm, Wilhelm Grimm, Ted Sears",
   "Actors": "Adriana Caselotti, Harry Stockwell, Lucille La Verne",

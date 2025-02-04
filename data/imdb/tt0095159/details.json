@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "29 Jul 1988",
   "Runtime": "108 min",
-  "Genre": "Comedy, Crime",
+  "Genre": ["Comedy", "Crime"],
   "Director": "Charles Crichton, John Cleese",
   "Writer": "John Cleese, Charles Crichton",
   "Actors": "John Cleese, Jamie Lee Curtis, Kevin Kline",

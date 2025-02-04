@@ -4,7 +4,7 @@
   "Rated": "TV-MA",
   "Released": "03 Jan 2006",
   "Runtime": "90 min",
-  "Genre": "Crime, Drama, Horror",
+  "Genre": ["Crime", "Drama", "Horror"],
   "Director": "David Moore",
   "Writer": "Joshua St Johnston",
   "Actors": "Ray Winstone, Essie Davis, David Warner",

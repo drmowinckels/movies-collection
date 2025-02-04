@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "11 Jul 2008",
   "Runtime": "120 min",
-  "Genre": "Action, Adventure, Fantasy",
+  "Genre": ["Action", "Adventure", "Fantasy"],
   "Director": "Guillermo del Toro",
   "Writer": "Guillermo del Toro, Mike Mignola",
   "Actors": "Ron Perlman, Selma Blair, Doug Jones",
@@ -29,7 +29,7 @@
   ],
   "Metascore": "78",
   "imdbRating": "7.0",
-  "imdbVotes": "291,185",
+  "imdbVotes": "291,756",
   "imdbID": "tt0411477",
   "Type": "movie",
   "DVD": "N/A",
@@ -37,5 +37,5 @@
   "Production": "N/A",
   "Website": "N/A",
   "Response": "True",
-  "Source": "loftet_01"
+  "Source": "Loftet 01"
 }

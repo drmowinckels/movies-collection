@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "29 Oct 1993",
   "Runtime": "76 min",
-  "Genre": "Animation, Family, Fantasy",
+  "Genre": ["Animation", "Family", "Fantasy"],
   "Director": "Henry Selick",
   "Writer": "Tim Burton, Michael McDowell, Caroline Thompson",
   "Actors": "Danny Elfman, Chris Sarandon, Catherine O'Hara",

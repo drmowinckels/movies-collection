@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "04 Feb 1983",
   "Runtime": "87 min",
-  "Genre": "Drama, Horror, Sci-Fi",
+  "Genre": ["Drama", "Horror", "Sci-Fi"],
   "Director": "David Cronenberg",
   "Writer": "David Cronenberg",
   "Actors": "James Woods, Debbie Harry, Sonja Smits",

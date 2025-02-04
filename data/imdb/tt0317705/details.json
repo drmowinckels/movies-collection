@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "05 Nov 2004",
   "Runtime": "115 min",
-  "Genre": "Animation, Action, Adventure",
+  "Genre": ["Animation", "Action", "Adventure"],
   "Director": "Brad Bird",
   "Writer": "Brad Bird",
   "Actors": "Craig T. Nelson, Samuel L. Jackson, Holly Hunter",

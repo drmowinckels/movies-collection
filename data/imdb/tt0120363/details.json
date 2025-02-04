@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "24 Nov 1999",
   "Runtime": "92 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "John Lasseter, Ash Brannon, Lee Unkrich",
   "Writer": "John Lasseter, Pete Docter, Ash Brannon",
   "Actors": "Tom Hanks, Tim Allen, Joan Cusack",

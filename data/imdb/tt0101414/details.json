@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "22 Nov 1991",
   "Runtime": "84 min",
-  "Genre": "Animation, Family, Fantasy",
+  "Genre": ["Animation", "Family", "Fantasy"],
   "Director": "Gary Trousdale, Kirk Wise",
   "Writer": "Linda Woolverton, Brenda Chapman, Chris Sanders",
   "Actors": "Paige O'Hara, Robby Benson, Jesse Corti",

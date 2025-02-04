@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "31 Dec 1965",
   "Runtime": "197 min",
-  "Genre": "Drama, Romance, War",
+  "Genre": ["Drama", "Romance", "War"],
   "Director": "David Lean",
   "Writer": "Boris Pasternak, Robert Bolt",
   "Actors": "Omar Sharif, Julie Christie, Geraldine Chaplin",

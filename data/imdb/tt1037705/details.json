@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "15 Jan 2010",
   "Runtime": "118 min",
-  "Genre": "Action, Adventure, Drama",
+  "Genre": ["Action", "Adventure", "Drama"],
   "Director": "Albert Hughes, Allen Hughes",
   "Writer": "Gary Whitta",
   "Actors": "Denzel Washington, Mila Kunis, Ray Stevenson",

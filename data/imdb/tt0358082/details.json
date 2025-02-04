@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "27 Mar 2005",
   "Runtime": "91 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Chris Wedge, Carlos Saldanha",
   "Writer": "David Lindsay-Abaire, Lowell Ganz, Babaloo Mandel",
   "Actors": "Ewan McGregor, Halle Berry, Mel Brooks",

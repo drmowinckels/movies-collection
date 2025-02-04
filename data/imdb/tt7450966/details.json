@@ -4,7 +4,7 @@
   "Rated": "N/A",
   "Released": "01 Nov 2007",
   "Runtime": "46 min",
-  "Genre": "Documentary, Comedy",
+  "Genre": ["Documentary", "Comedy"],
   "Director": "Øystein Karlsen",
   "Writer": "Øystein Karlsen, Morten Ståle Nilsen, Kristopher Schau",
   "Actors": "Kristopher Schau, Øystein Karlsen, Morten Ståle Nilsen",

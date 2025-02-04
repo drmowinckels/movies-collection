@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "13 Feb 2004",
   "Runtime": "130 min",
-  "Genre": "Crime, Drama",
+  "Genre": ["Crime", "Drama"],
   "Director": "Fernando Meirelles, Kátia Lund",
   "Writer": "Bráulio Mantovani, Paulo Lins",
   "Actors": "Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",

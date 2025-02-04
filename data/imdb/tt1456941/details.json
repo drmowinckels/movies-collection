@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "24 Feb 2012",
   "Runtime": "104 min",
-  "Genre": "Action, Adventure, Drama",
+  "Genre": ["Action", "Adventure", "Drama"],
   "Director": "Stuart Beattie",
   "Writer": "John Marsden, Stuart Beattie",
   "Actors": "Caitlin Stasey, Rachel Hurd-Wood, Lincoln Lewis",

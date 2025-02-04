@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "13 Feb 1972",
   "Runtime": "124 min",
-  "Genre": "Drama, Music, Musical",
+  "Genre": ["Drama", "Music", "Musical"],
   "Director": "Bob Fosse",
   "Writer": "Joe Masteroff, John Van Druten, Christopher Isherwood",
   "Actors": "Liza Minnelli, Michael York, Helmut Griem",

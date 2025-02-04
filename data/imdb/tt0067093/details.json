@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "03 Nov 1971",
   "Runtime": "181 min",
-  "Genre": "Drama, Family, Musical",
+  "Genre": ["Drama", "Family", "Musical"],
   "Director": "Norman Jewison",
   "Writer": "Sholom Aleichem, Arnold Perl, Joseph Stein",
   "Actors": "Topol, Norma Crane, Leonard Frey",

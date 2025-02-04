@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "22 Aug 2008",
   "Runtime": "105 min",
-  "Genre": "Action, Sci-Fi, Thriller",
+  "Genre": ["Action", "Sci-Fi", "Thriller"],
   "Director": "Paul W.S. Anderson",
   "Writer": "Paul W.S. Anderson, Robert Thom, Charles B. Griffith",
   "Actors": "Jason Statham, Joan Allen, Tyrese Gibson",

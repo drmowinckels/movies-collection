@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "19 Jun 1998",
   "Runtime": "87 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Tony Bancroft, Barry Cook",
   "Writer": "Robert D. San Souci, Rita Hsiao, Chris Sanders",
   "Actors": "Ming-Na Wen, Eddie Murphy, BD Wong",

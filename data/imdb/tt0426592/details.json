@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "28 Mar 2008",
   "Runtime": "75 min",
-  "Genre": "Action, Comedy, Sci-Fi",
+  "Genre": ["Action", "Comedy", "Sci-Fi"],
   "Director": "Craig Mazin",
   "Writer": "Craig Mazin",
   "Actors": "Drake Bell, Leslie Nielsen, Sara Paxton",

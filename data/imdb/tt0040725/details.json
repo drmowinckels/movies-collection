@@ -4,7 +4,7 @@
   "Rated": "Not Rated",
   "Released": "22 Oct 1948",
   "Runtime": "135 min",
-  "Genre": "Drama, Music, Romance",
+  "Genre": ["Drama", "Music", "Romance"],
   "Director": "Michael Powell, Emeric Pressburger",
   "Writer": "Hans Christian Andersen, Emeric Pressburger, Keith Winter",
   "Actors": "Anton Walbrook, Marius Goring, Moira Shearer",

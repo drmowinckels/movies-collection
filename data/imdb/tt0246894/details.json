@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "08 Feb 2002",
   "Runtime": "98 min",
-  "Genre": "Action, Sci-Fi, Sport",
+  "Genre": ["Action", "Sci-Fi", "Sport"],
   "Director": "John McTiernan",
   "Writer": "William Harrison, Larry Ferguson, John Pogue",
   "Actors": "Chris Klein, Jean Reno, LL Cool J",

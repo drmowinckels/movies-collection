@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "24 Aug 1990",
   "Runtime": "91 min",
-  "Genre": "Adventure, Comedy, Family",
+  "Genre": ["Adventure", "Comedy", "Family"],
   "Director": "Nicolas Roeg",
   "Writer": "Roald Dahl, Allan Scott",
   "Actors": "Anjelica Huston, Mai Zetterling, Jasen Fisher",

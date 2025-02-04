@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "01 Aug 1971",
   "Runtime": "98 min",
-  "Genre": "Action, Drama, Sci-Fi",
+  "Genre": ["Action", "Drama", "Sci-Fi"],
   "Director": "Boris Sagal",
   "Writer": "John William Corrington, Joyce Hooper Corrington, Richard Matheson",
   "Actors": "Charlton Heston, Anthony Zerbe, Rosalind Cash",

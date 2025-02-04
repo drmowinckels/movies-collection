@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "17 Dec 1973",
   "Runtime": "89 min",
-  "Genre": "Comedy, Sci-Fi",
+  "Genre": ["Comedy", "Sci-Fi"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen, Marshall Brickman",
   "Actors": "Woody Allen, Diane Keaton, John Beck",

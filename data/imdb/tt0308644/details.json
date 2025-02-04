@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "17 Dec 2004",
   "Runtime": "106 min",
-  "Genre": "Biography, Drama, Family",
+  "Genre": ["Biography", "Drama", "Family"],
   "Director": "Marc Forster",
   "Writer": "Allan Knee, David Magee",
   "Actors": "Johnny Depp, Kate Winslet, Julie Christie",

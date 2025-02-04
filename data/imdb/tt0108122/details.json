@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "01 Oct 1993",
   "Runtime": "188 min",
-  "Genre": "Comedy, Drama",
+  "Genre": ["Comedy", "Drama"],
   "Director": "Robert Altman",
   "Writer": "Raymond Carver, Robert Altman, Frank Barhydt",
   "Actors": "Andie MacDowell, Julianne Moore, Tim Robbins",

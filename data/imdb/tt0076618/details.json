@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "22 Jun 1977",
   "Runtime": "77 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "John Lounsbery, Wolfgang Reitherman, Art Stevens",
   "Writer": "Margery Sharp, Larry Clemmons, Ken Anderson",
   "Actors": "Bob Newhart, Eva Gabor, Geraldine Page",

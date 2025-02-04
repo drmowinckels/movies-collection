@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "18 Dec 1975",
   "Runtime": "100 min",
-  "Genre": "Comedy, Horror, Musical",
+  "Genre": ["Comedy", "Horror", "Musical"],
   "Director": "Jim Sharman",
   "Writer": "Richard O'Brien, Jim Sharman",
   "Actors": "Tim Curry, Susan Sarandon, Barry Bostwick",

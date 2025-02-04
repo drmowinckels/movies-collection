@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "11 Jul 1997",
   "Runtime": "150 min",
-  "Genre": "Drama, Mystery, Sci-Fi",
+  "Genre": ["Drama", "Mystery", "Sci-Fi"],
   "Director": "Robert Zemeckis",
   "Writer": "James V. Hart, Michael Goldenberg, Carl Sagan",
   "Actors": "Jodie Foster, Matthew McConaughey, Tom Skerritt",

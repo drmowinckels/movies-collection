@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "25 Jun 1982",
   "Runtime": "117 min",
-  "Genre": "Action, Drama, Sci-Fi",
+  "Genre": ["Action", "Drama", "Sci-Fi"],
   "Director": "Ridley Scott",
   "Writer": "Hampton Fancher, David Webb Peoples, Philip K. Dick",
   "Actors": "Harrison Ford, Rutger Hauer, Sean Young",

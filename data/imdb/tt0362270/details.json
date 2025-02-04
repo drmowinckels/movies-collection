@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "25 Dec 2004",
   "Runtime": "119 min",
-  "Genre": "Action, Adventure, Comedy",
+  "Genre": ["Action", "Adventure", "Comedy"],
   "Director": "Wes Anderson",
   "Writer": "Wes Anderson, Noah Baumbach",
   "Actors": "Bill Murray, Owen Wilson, Anjelica Huston",

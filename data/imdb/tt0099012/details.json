@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "10 Jan 1991",
   "Runtime": "106 min",
-  "Genre": "Comedy, Romance",
+  "Genre": ["Comedy", "Romance"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen",
   "Actors": "Mia Farrow, William Hurt, Joe Mantegna",

@@ -4,7 +4,7 @@
   "Rated": "N/A",
   "Released": "09 Sep 2009",
   "Runtime": "100 min",
-  "Genre": "Comedy, Sport",
+  "Genre": ["Comedy", "Sport"],
   "Director": "Drew Ann Rosenberg",
   "Writer": "Mike Terrell, Mark Maine",
   "Actors": "Steve Talley, David Ellison, Dean Cameron",

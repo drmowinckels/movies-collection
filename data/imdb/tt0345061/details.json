@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "17 Sep 2004",
   "Runtime": "93 min",
-  "Genre": "Drama, Romance, Sci-Fi",
+  "Genre": ["Drama", "Romance", "Sci-Fi"],
   "Director": "Michael Winterbottom",
   "Writer": "Frank Cottrell Boyce",
   "Actors": "Tim Robbins, Samantha Morton, Om Puri",

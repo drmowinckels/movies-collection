@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "20 Oct 2006",
   "Runtime": "123 min",
-  "Genre": "Biography, Drama, History",
+  "Genre": ["Biography", "Drama", "History"],
   "Director": "Sofia Coppola",
   "Writer": "Sofia Coppola",
   "Actors": "Kirsten Dunst, Jason Schwartzman, Rip Torn",

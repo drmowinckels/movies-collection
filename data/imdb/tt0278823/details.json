@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "03 May 2002",
   "Runtime": "112 min",
-  "Genre": "Comedy, Romance",
+  "Genre": ["Comedy", "Romance"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen",
   "Actors": "Woody Allen, Téa Leoni, Bob Dorian",

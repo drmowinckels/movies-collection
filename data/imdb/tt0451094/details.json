@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "29 Jul 2005",
   "Runtime": "115 min",
-  "Genre": "Crime, Drama, Thriller",
+  "Genre": ["Crime", "Drama", "Thriller"],
   "Director": "Park Chan-wook",
   "Writer": "Chung Seo-kyung, Park Chan-wook, Park Myeong-chan",
   "Actors": "Nam-mi Kang, Jeong-nam Choi, Hye-Sook Go",

@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "05 Sep 2003",
   "Runtime": "114 min",
-  "Genre": "Action, Drama, Sci-Fi",
+  "Genre": ["Action", "Drama", "Sci-Fi"],
   "Director": "Byung-chun Min",
   "Writer": "Philip K. Dick, Han Jae-rim, Byung-chun Min",
   "Actors": "Yoo Ji-tae, Lee Jae-un, Rin Seo",

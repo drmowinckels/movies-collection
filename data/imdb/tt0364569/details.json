@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "21 Nov 2003",
   "Runtime": "120 min",
-  "Genre": "Action, Drama, Mystery",
+  "Genre": ["Action", "Drama", "Mystery"],
   "Director": "Park Chan-wook",
   "Writer": "Garon Tsuchiya, Nobuaki Minegishi, Park Chan-wook",
   "Actors": "Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",

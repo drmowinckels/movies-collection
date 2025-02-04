@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "10 Mar 2000",
   "Runtime": "95 min",
-  "Genre": "Comedy, Drama, Music",
+  "Genre": ["Comedy", "Drama", "Music"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen",
   "Actors": "Sean Penn, Samantha Morton, Woody Allen",

@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "06 Aug 1993",
   "Runtime": "127 min",
-  "Genre": "Comedy, Drama",
+  "Genre": ["Comedy", "Drama"],
   "Director": "Colin Nutley",
   "Writer": "Colin Nutley",
   "Actors": "Helena Bergström, Rikard Wolff, Sven Wollter",

@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "05 Nov 1993",
   "Runtime": "104 min",
-  "Genre": "Action, Crime, Sci-Fi",
+  "Genre": ["Action", "Crime", "Sci-Fi"],
   "Director": "Fred Dekker",
   "Writer": "Edward Neumeier, Michael Miner, Frank Miller",
   "Actors": "Robert John Burke, Nancy Allen, Mario Machado",

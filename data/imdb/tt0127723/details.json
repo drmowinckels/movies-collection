@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "12 Jun 1998",
   "Runtime": "100 min",
-  "Genre": "Comedy, Romance",
+  "Genre": ["Comedy", "Romance"],
   "Director": "Harry Elfont, Deborah Kaplan",
   "Writer": "Deborah Kaplan, Harry Elfont",
   "Actors": "Jennifer Love Hewitt, Ethan Embry, Charlie Korsmo",

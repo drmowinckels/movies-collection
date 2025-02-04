@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "25 Dec 2008",
   "Runtime": "120 min",
-  "Genre": "Crime, Drama, Romance",
+  "Genre": ["Crime", "Drama", "Romance"],
   "Director": "Danny Boyle, Loveleen Tandan",
   "Writer": "Simon Beaufoy, Vikas Swarup",
   "Actors": "Dev Patel, Freida Pinto, Saurabh Shukla",

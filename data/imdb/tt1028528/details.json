@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "31 May 2007",
   "Runtime": "127 min",
-  "Genre": "Drama, Thriller",
+  "Genre": ["Drama", "Thriller"],
   "Director": "Quentin Tarantino",
   "Writer": "Quentin Tarantino",
   "Actors": "Kurt Russell, Zoë Bell, Rosario Dawson",

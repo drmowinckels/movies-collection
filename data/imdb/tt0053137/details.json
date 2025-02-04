@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "17 Dec 1959",
   "Runtime": "134 min",
-  "Genre": "Drama, Romance, Sci-Fi",
+  "Genre": ["Drama", "Romance", "Sci-Fi"],
   "Director": "Stanley Kramer",
   "Writer": "John Paxton, Nevil Shute",
   "Actors": "Gregory Peck, Ava Gardner, Fred Astaire",

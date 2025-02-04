@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "26 Sep 1980",
   "Runtime": "89 min",
-  "Genre": "Comedy, Drama",
+  "Genre": ["Comedy", "Drama"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen",
   "Actors": "Woody Allen, Charlotte Rampling, Jessica Harper",

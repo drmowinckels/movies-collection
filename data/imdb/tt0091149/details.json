@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "02 Jul 1986",
   "Runtime": "74 min",
-  "Genre": "Animation, Adventure, Family",
+  "Genre": ["Animation", "Adventure", "Family"],
   "Director": "Ron Clements, Burny Mattinson, Dave Michener",
   "Writer": "Peter Young, Vance Gerry, Steve Hulett",
   "Actors": "Vincent Price, Barrie Ingham, Val Bettin",

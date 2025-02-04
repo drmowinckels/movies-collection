@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "09 Mar 2007",
   "Runtime": "117 min",
-  "Genre": "Action, Drama",
+  "Genre": ["Action", "Drama"],
   "Director": "Zack Snyder",
   "Writer": "Zack Snyder, Kurt Johnstad, Michael B. Gordon",
   "Actors": "Gerard Butler, Lena Headey, David Wenham",

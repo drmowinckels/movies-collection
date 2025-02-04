@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "30 May 2003",
   "Runtime": "100 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Andrew Stanton, Lee Unkrich",
   "Writer": "Andrew Stanton, Bob Peterson, David Reynolds",
   "Actors": "Albert Brooks, Ellen DeGeneres, Alexander Gould",

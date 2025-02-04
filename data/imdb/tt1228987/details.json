@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "01 Oct 2010",
   "Runtime": "116 min",
-  "Genre": "Drama, Fantasy, Horror",
+  "Genre": ["Drama", "Fantasy", "Horror"],
   "Director": "Matt Reeves",
   "Writer": "Matt Reeves, John Ajvide Lindqvist",
   "Actors": "Kodi Smit-McPhee, Chloë Grace Moretz, Richard Jenkins",

@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "08 Aug 2006",
   "Runtime": "99 min",
-  "Genre": "Comedy, Sport",
+  "Genre": ["Comedy", "Sport"],
   "Director": "Steve Rash",
   "Writer": "Alyson Fouse",
   "Actors": "Hayden Panettiere, Jake McDorman, JoJo Wright, Emme Rylan",

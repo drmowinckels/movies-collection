@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "25 Nov 1992",
   "Runtime": "90 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Ron Clements, John Musker",
   "Writer": "Ron Clements, John Musker, Ted Elliott",
   "Actors": "Scott Weinger, Robin Williams, Linda Larkin",

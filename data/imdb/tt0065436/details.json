@@ -4,7 +4,7 @@
   "Rated": "Not Rated",
   "Released": "02 Feb 1971",
   "Runtime": "96 min",
-  "Genre": "Comedy, Drama",
+  "Genre": ["Comedy", "Drama"],
   "Director": "Werner Herzog",
   "Writer": "Werner Herzog",
   "Actors": "Helmut Döring, Paul Glauer, Gisela Hertwig",

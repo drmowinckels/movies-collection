@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "13 Aug 1982",
   "Runtime": "90 min",
-  "Genre": "Comedy, Drama",
+  "Genre": ["Comedy", "Drama"],
   "Director": "Amy Heckerling",
   "Writer": "Cameron Crowe",
   "Actors": "Sean Penn, Jennifer Jason Leigh, Judge Reinhold",

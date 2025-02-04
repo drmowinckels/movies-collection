@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "04 Mar 1950",
   "Runtime": "74 min",
-  "Genre": "Animation, Family, Fantasy",
+  "Genre": ["Animation", "Family", "Fantasy"],
   "Director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
   "Writer": "Charles Perrault, Bill Peet, Erdman Penner",
   "Actors": "Ilene Woods, James MacDonald, Eleanor Audley",

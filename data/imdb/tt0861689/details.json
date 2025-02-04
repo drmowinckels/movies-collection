@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "03 Oct 2008",
   "Runtime": "121 min",
-  "Genre": "Drama, Mystery, Thriller",
+  "Genre": ["Drama", "Mystery", "Thriller"],
   "Director": "Fernando Meirelles",
   "Writer": "José Saramago, Don McKellar",
   "Actors": "Julianne Moore, Mark Ruffalo, Gael García Bernal",

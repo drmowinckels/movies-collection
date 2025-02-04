@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "29 Apr 1983",
   "Runtime": "97 min",
-  "Genre": "Drama, Horror",
+  "Genre": ["Drama", "Horror"],
   "Director": "Tony Scott",
   "Writer": "James Costigan, Michael Thomas, Whitley Strieber",
   "Actors": "Catherine Deneuve, David Bowie, Susan Sarandon",

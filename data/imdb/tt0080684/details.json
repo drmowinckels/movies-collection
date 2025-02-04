@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "18 Jun 1980",
   "Runtime": "124 min",
-  "Genre": "Action, Adventure, Fantasy",
+  "Genre": ["Action", "Adventure", "Fantasy"],
   "Director": "Irvin Kershner",
   "Writer": "Leigh Brackett, Lawrence Kasdan, George Lucas",
   "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",

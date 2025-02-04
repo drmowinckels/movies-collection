@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "09 Jun 2006",
   "Runtime": "104 min",
-  "Genre": "Crime, Drama, Western",
+  "Genre": ["Crime", "Drama", "Western"],
   "Director": "John Hillcoat",
   "Writer": "Nick Cave",
   "Actors": "Ray Winstone, Guy Pearce, Emily Watson",

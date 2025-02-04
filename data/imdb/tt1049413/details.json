@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "23 Jul 2009",
   "Runtime": "96 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Pete Docter, Bob Peterson",
   "Writer": "Pete Docter, Bob Peterson, Tom McCarthy",
   "Actors": "Edward Asner, Jordan Nagai, John Ratzenberger",

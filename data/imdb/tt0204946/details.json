@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "25 Aug 2000",
   "Runtime": "98 min",
-  "Genre": "Comedy, Romance, Sport",
+  "Genre": ["Comedy", "Romance", "Sport"],
   "Director": "Peyton Reed",
   "Writer": "Jessica Bendinger",
   "Actors": "Kirsten Dunst, Eliza Dushku, Jesse Bradford",

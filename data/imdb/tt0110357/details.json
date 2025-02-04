@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "24 Jun 1994",
   "Runtime": "88 min",
-  "Genre": "Animation, Adventure, Drama",
+  "Genre": ["Animation", "Adventure", "Drama"],
   "Director": "Roger Allers, Rob Minkoff",
   "Writer": "Irene Mecchi, Jonathan Roberts, Linda Woolverton",
   "Actors": "Matthew Broderick, Jeremy Irons, James Earl Jones",

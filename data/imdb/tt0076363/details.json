@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "24 Apr 1977",
   "Runtime": "74 min",
-  "Genre": "Animation, Comedy, Family",
+  "Genre": ["Animation", "Comedy", "Family"],
   "Director": "John Lounsbery, Wolfgang Reitherman, Ben Sharpsteen",
   "Writer": "A.A. Milne, Larry Clemmons, Ralph Wright",
   "Actors": "Sebastian Cabot, Junius Matthews, Barbara Luddy",

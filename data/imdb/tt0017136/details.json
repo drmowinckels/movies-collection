@@ -4,7 +4,7 @@
   "Rated": "Not Rated",
   "Released": "13 Mar 1927",
   "Runtime": "153 min",
-  "Genre": "Drama, Sci-Fi",
+  "Genre": ["Drama", "Sci-Fi"],
   "Director": "Fritz Lang",
   "Writer": "Thea von Harbou, Fritz Lang",
   "Actors": "Brigitte Helm, Alfred Abel, Gustav Fröhlich",

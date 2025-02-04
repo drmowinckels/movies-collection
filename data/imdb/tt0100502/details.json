@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "22 Jun 1990",
   "Runtime": "117 min",
-  "Genre": "Action, Crime, Sci-Fi",
+  "Genre": ["Action", "Crime", "Sci-Fi"],
   "Director": "Irvin Kershner",
   "Writer": "Edward Neumeier, Michael Miner, Frank Miller",
   "Actors": "Peter Weller, Nancy Allen, Belinda Bauer",

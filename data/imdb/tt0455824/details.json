@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "26 Nov 2008",
   "Runtime": "165 min",
-  "Genre": "Adventure, Drama, Romance",
+  "Genre": ["Adventure", "Drama", "Romance"],
   "Director": "Baz Luhrmann",
   "Writer": "Stuart Beattie, Baz Luhrmann, Ronald Harwood",
   "Actors": "Nicole Kidman, Hugh Jackman, Shea Adams",

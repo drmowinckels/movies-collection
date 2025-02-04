@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "23 Dec 1961",
   "Runtime": "153 min",
-  "Genre": "Crime, Drama, Musical",
+  "Genre": ["Crime", "Drama", "Musical"],
   "Director": "Jerome Robbins, Robert Wise",
   "Writer": "Ernest Lehman, Arthur Laurents, Jerome Robbins",
   "Actors": "Natalie Wood, George Chakiris, Richard Beymer",

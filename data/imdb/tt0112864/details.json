@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "19 May 1995",
   "Runtime": "128 min",
-  "Genre": "Action, Adventure, Thriller",
+  "Genre": ["Action", "Adventure", "Thriller"],
   "Director": "John McTiernan",
   "Writer": "Jonathan Hensleigh, Roderick Thorp",
   "Actors": "Bruce Willis, Jeremy Irons, Samuel L. Jackson",

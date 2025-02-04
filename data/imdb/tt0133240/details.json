@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "29 Nov 2002",
   "Runtime": "95 min",
-  "Genre": "Animation, Adventure, Family",
+  "Genre": ["Animation", "Adventure", "Family"],
   "Director": "Ron Clements, John Musker",
   "Writer": "Robert Louis Stevenson, Ron Clements, John Musker",
   "Actors": "Joseph Gordon-Levitt, Emma Thompson, Martin Short",

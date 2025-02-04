@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "17 Nov 1989",
   "Runtime": "83 min",
-  "Genre": "Animation, Adventure, Family",
+  "Genre": ["Animation", "Adventure", "Family"],
   "Director": "Ron Clements, John Musker",
   "Writer": "John Musker, Ron Clements, Hans Christian Andersen",
   "Actors": "Jodi Benson, Samuel E. Wright, Rene Auberjonois",

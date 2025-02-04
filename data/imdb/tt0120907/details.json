@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "23 Apr 1999",
   "Runtime": "97 min",
-  "Genre": "Horror, Mystery, Sci-Fi",
+  "Genre": ["Horror", "Mystery", "Sci-Fi"],
   "Director": "David Cronenberg",
   "Writer": "David Cronenberg",
   "Actors": "Jude Law, Jennifer Jason Leigh, Ian Holm",

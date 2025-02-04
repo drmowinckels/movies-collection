@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "25 Mar 2011",
   "Runtime": "110 min",
-  "Genre": "Action, Adventure, Fantasy",
+  "Genre": ["Action", "Adventure", "Fantasy"],
   "Director": "Zack Snyder",
   "Writer": "Zack Snyder, Steve Shibuya",
   "Actors": "Emily Browning, Vanessa Hudgens, Abbie Cornish",

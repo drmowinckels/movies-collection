@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "05 Nov 2003",
   "Runtime": "129 min",
-  "Genre": "Action, Sci-Fi",
+  "Genre": ["Action", "Sci-Fi"],
   "Director": "Lana Wachowski, Lilly Wachowski",
   "Writer": "Lilly Wachowski, Lana Wachowski",
   "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",

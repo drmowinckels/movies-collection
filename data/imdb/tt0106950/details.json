@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "03 Sep 1993",
   "Runtime": "95 min",
-  "Genre": "Action, Crime, Sci-Fi",
+  "Genre": ["Action", "Crime", "Sci-Fi"],
   "Director": "Stuart Gordon",
   "Writer": "Troy Neighbors, Steven Feinberg, David Venable",
   "Actors": "Christopher Lambert, Loryn Locklin, Kurtwood Smith",

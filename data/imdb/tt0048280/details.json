@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "22 Jun 1955",
   "Runtime": "76 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
   "Writer": "Ward Greene, Erdman Penner, Joe Rinaldi",
   "Actors": "Barbara Luddy, Larry Roberts, Peggy Lee",

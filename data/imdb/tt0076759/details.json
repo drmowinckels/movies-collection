@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "25 May 1977",
   "Runtime": "121 min",
-  "Genre": "Action, Adventure, Fantasy",
+  "Genre": ["Action", "Adventure", "Fantasy"],
   "Director": "George Lucas",
   "Writer": "George Lucas",
   "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",

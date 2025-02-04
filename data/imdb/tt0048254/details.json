@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "01 Oct 1955",
   "Runtime": "67 min",
-  "Genre": "Crime, Drama, Film-Noir",
+  "Genre": ["Crime", "Drama", "Film-Noir"],
   "Director": "Stanley Kubrick",
   "Writer": "Stanley Kubrick, Howard Sackler",
   "Actors": "Frank Silvera, Irene Kane, Jamie Smith",

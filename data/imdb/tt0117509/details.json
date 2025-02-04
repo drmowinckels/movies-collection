@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "01 Nov 1996",
   "Runtime": "120 min",
-  "Genre": "Drama, Romance",
+  "Genre": ["Drama", "Romance"],
   "Director": "Baz Luhrmann",
   "Writer": "William Shakespeare, Craig Pearce, Baz Luhrmann",
   "Actors": "Leonardo DiCaprio, Claire Danes, John Leguizamo",

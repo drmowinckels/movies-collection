@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "04 Nov 1988",
   "Runtime": "94 min",
-  "Genre": "Action, Horror, Sci-Fi",
+  "Genre": ["Action", "Horror", "Sci-Fi"],
   "Director": "John Carpenter",
   "Writer": "Ray Nelson, John Carpenter",
   "Actors": "Roddy Piper, Keith David, Meg Foster",

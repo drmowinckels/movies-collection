@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "24 Dec 1970",
   "Runtime": "78 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Wolfgang Reitherman",
   "Writer": "Larry Clemmons, Vance Gerry, Ken Anderson",
   "Actors": "Phil Harris, Eva Gabor, Sterling Holloway",

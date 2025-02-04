@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "26 May 2006",
   "Runtime": "104 min",
-  "Genre": "Action, Adventure, Sci-Fi",
+  "Genre": ["Action", "Adventure", "Sci-Fi"],
   "Director": "Brett Ratner",
   "Writer": "Simon Kinberg, Zak Penn",
   "Actors": "Patrick Stewart, Hugh Jackman, Halle Berry",

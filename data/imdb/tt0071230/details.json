@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "07 Feb 1974",
   "Runtime": "93 min",
-  "Genre": "Comedy, Western",
+  "Genre": ["Comedy", "Western"],
   "Director": "Mel Brooks",
   "Writer": "Mel Brooks, Norman Steinberg, Andrew Bergman",
   "Actors": "Cleavon Little, Gene Wilder, Slim Pickens",

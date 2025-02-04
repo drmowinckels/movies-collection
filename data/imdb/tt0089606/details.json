@@ -4,7 +4,7 @@
   "Rated": "Unrated",
   "Released": "01 May 1987",
   "Runtime": "101 min",
-  "Genre": "Drama, Comedy",
+  "Genre": ["Drama", "Comedy"],
   "Director": "Lasse Hallström",
   "Writer": "Reidar Jönsson, Lasse Hallström, Brasse Brännström",
   "Actors": "Anton Glanzelius, Tomas von Brömssen, Anki Lidén",

@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "20 Jul 1988",
   "Runtime": "132 min",
-  "Genre": "Action, Thriller",
+  "Genre": ["Action", "Thriller"],
   "Director": "John McTiernan",
   "Writer": "Roderick Thorp, Jeb Stuart, Steven E. de Souza",
   "Actors": "Bruce Willis, Alan Rickman, Bonnie Bedelia",

@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "10 Mar 1972",
   "Runtime": "89 min",
-  "Genre": "Drama, Sci-Fi",
+  "Genre": ["Drama", "Sci-Fi"],
   "Director": "Douglas Trumbull",
   "Writer": "Deric Washburn, Michael Cimino, Steven Bochco",
   "Actors": "Bruce Dern, Cliff Potts, Ron Rifkin",

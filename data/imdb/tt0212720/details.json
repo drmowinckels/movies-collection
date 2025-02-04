@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "29 Jun 2001",
   "Runtime": "146 min",
-  "Genre": "Adventure, Drama, Sci-Fi",
+  "Genre": ["Adventure", "Drama", "Sci-Fi"],
   "Director": "Steven Spielberg",
   "Writer": "Brian Aldiss, Ian Watson, Steven Spielberg",
   "Actors": "Haley Joel Osment, Jude Law, Frances O'Connor",

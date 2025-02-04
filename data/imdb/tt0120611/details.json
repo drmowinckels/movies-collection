@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "21 Aug 1998",
   "Runtime": "120 min",
-  "Genre": "Action, Horror, Sci-Fi",
+  "Genre": ["Action", "Horror", "Sci-Fi"],
   "Director": "Stephen Norrington",
   "Writer": "David S. Goyer",
   "Actors": "Wesley Snipes, Stephen Dorff, Kris Kristofferson",

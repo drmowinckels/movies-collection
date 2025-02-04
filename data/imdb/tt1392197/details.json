@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "04 Jun 2010",
   "Runtime": "87 min",
-  "Genre": "Comedy, Family",
+  "Genre": ["Comedy", "Family"],
   "Director": "Tom Dey",
   "Writer": "Tim Rasmussen, Vince Di Meglio, Brad Anderson",
   "Actors": "Owen Wilson, Judy Greer, Lee Pace",

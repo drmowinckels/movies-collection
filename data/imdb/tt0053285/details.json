@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "29 Jan 1959",
   "Runtime": "75 min",
-  "Genre": "Animation, Adventure, Family",
+  "Genre": ["Animation", "Adventure", "Family"],
   "Director": "Les Clark, Clyde Geronimi, Eric Larson",
   "Writer": "Erdman Penner, Charles Perrault, Joe Rinaldi",
   "Actors": "Mary Costa, Bill Shirley, Eleanor Audley",

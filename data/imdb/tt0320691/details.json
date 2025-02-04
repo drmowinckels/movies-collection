@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "19 Sep 2003",
   "Runtime": "121 min",
-  "Genre": "Action, Fantasy, Thriller",
+  "Genre": ["Action", "Fantasy", "Thriller"],
   "Director": "Len Wiseman",
   "Writer": "Kevin Grevioux, Len Wiseman, Danny McBride",
   "Actors": "Kate Beckinsale, Scott Speedman, Shane Brolly",

@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "05 Aug 2011",
   "Runtime": "105 min",
-  "Genre": "Action, Drama, Sci-Fi",
+  "Genre": ["Action", "Drama", "Sci-Fi"],
   "Director": "Rupert Wyatt",
   "Writer": "Rick Jaffa, Amanda Silver, Pierre Boulle",
   "Actors": "James Franco, Andy Serkis, Freida Pinto",

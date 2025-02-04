@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "22 Nov 1996",
   "Runtime": "111 min",
-  "Genre": "Action, Adventure, Drama",
+  "Genre": ["Action", "Adventure", "Drama"],
   "Director": "Jonathan Frakes",
   "Writer": "Gene Roddenberry, Rick Berman, Brannon Braga",
   "Actors": "Patrick Stewart, Jonathan Frakes, Brent Spiner",

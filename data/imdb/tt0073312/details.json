@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "18 Jul 1975",
   "Runtime": "85 min",
-  "Genre": "Comedy, War",
+  "Genre": ["Comedy", "War"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen",
   "Actors": "Woody Allen, Diane Keaton, Georges Adet",

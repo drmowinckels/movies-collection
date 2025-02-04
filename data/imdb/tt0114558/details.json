@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "13 Oct 1995",
   "Runtime": "145 min",
-  "Genre": "Crime, Drama, Sci-Fi",
+  "Genre": ["Crime", "Drama", "Sci-Fi"],
   "Director": "Kathryn Bigelow",
   "Writer": "James Cameron, Jay Cocks",
   "Actors": "Ralph Fiennes, Angela Bassett, Juliette Lewis",

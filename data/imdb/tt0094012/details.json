@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "24 Jun 1987",
   "Runtime": "96 min",
-  "Genre": "Adventure, Comedy, Sci-Fi",
+  "Genre": ["Adventure", "Comedy", "Sci-Fi"],
   "Director": "Mel Brooks",
   "Writer": "Mel Brooks, Thomas Meehan, Ronny Graham",
   "Actors": "Mel Brooks, John Candy, Rick Moranis",

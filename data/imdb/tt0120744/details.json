@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "13 Mar 1998",
   "Runtime": "132 min",
-  "Genre": "Action, Adventure, Drama",
+  "Genre": ["Action", "Adventure", "Drama"],
   "Director": "Randall Wallace",
   "Writer": "Alexandre Dumas, Randall Wallace",
   "Actors": "Leonardo DiCaprio, Jeremy Irons, John Malkovich",

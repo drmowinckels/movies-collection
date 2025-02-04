@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "20 Jan 2001",
   "Runtime": "107 min",
-  "Genre": "Action, Drama, Fantasy",
+  "Genre": ["Action", "Drama", "Fantasy"],
   "Director": "Mamoru Oshii",
   "Writer": "Kazunori Itô",
   "Actors": "Malgorzata Foremniak, Wladyslaw Kowalski, Jerzy Gudejko",

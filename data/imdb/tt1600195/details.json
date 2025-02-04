@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "23 Sep 2011",
   "Runtime": "106 min",
-  "Genre": "Action, Drama, Mystery",
+  "Genre": ["Action", "Drama", "Mystery"],
   "Director": "John Singleton",
   "Writer": "Shawn Christensen",
   "Actors": "Taylor Lautner, Lily Collins, Alfred Molina",

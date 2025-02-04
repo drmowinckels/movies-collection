@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "27 Jun 2007",
   "Runtime": "128 min",
-  "Genre": "Action, Thriller",
+  "Genre": ["Action", "Thriller"],
   "Director": "Len Wiseman",
   "Writer": "John Carlin, Roderick Thorp, Mark Bomback",
   "Actors": "Bruce Willis, Justin Long, Timothy Olyphant",

@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "13 Nov 1992",
   "Runtime": "128 min",
-  "Genre": "Fantasy, Horror, Romance",
+  "Genre": ["Fantasy", "Horror", "Romance"],
   "Director": "Francis Ford Coppola",
   "Writer": "Bram Stoker, James V. Hart",
   "Actors": "Gary Oldman, Winona Ryder, Anthony Hopkins",

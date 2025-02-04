@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "11 Nov 2005",
   "Runtime": "90 min",
-  "Genre": "Animation, Action, Comedy",
+  "Genre": ["Animation", "Action", "Comedy"],
   "Director": "Jo Beom-jin, Zack Keller, Ed Skudder",
   "Writer": "Jo Beom-jin, Yeon-won Jeong, Zack Keller",
   "Actors": "Nick Ainsworth, Lim Chang-jung, Yang Jeong-hwa",

@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "16 Jul 1993",
   "Runtime": "96 min",
-  "Genre": "Comedy, Family, Fantasy",
+  "Genre": ["Comedy", "Family", "Fantasy"],
   "Director": "Kenny Ortega",
   "Writer": "David Kirschner, Mick Garris, Neil Cuthbert",
   "Actors": "Bette Midler, Sarah Jessica Parker, Kathy Najimy",

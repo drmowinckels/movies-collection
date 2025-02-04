@@ -4,7 +4,7 @@
   "Rated": "Not Rated",
   "Released": "24 Nov 2007",
   "Runtime": "101 min",
-  "Genre": "Action, Drama, Sci-Fi",
+  "Genre": ["Action", "Drama", "Sci-Fi"],
   "Director": "Félix Enríquez Alcalá",
   "Writer": "Ronald D. Moore, Michael Taylor, Glen A. Larson",
   "Actors": "Edward James Olmos, Mary McDonnell, Katee Sackhoff",

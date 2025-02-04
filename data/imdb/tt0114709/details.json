@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "22 Nov 1995",
   "Runtime": "81 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "John Lasseter",
   "Writer": "John Lasseter, Pete Docter, Andrew Stanton",
   "Actors": "Tom Hanks, Tim Allen, Don Rickles",

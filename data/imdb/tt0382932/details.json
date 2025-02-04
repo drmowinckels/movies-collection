@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "27 Jun 2007",
   "Runtime": "111 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Brad Bird, Jan Pinkava",
   "Writer": "Brad Bird, Jan Pinkava, Jim Capobianco",
   "Actors": "Brad Garrett, Lou Romano, Patton Oswalt",

@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "11 Feb 1994",
   "Runtime": "99 min",
-  "Genre": "Comedy, Drama, Family",
+  "Genre": ["Comedy", "Drama", "Family"],
   "Director": "Howard Zieff",
   "Writer": "Laurice Elehwany, Janet Kovalcik",
   "Actors": "Dan Aykroyd, Jamie Lee Curtis, Anna Chlumsky",

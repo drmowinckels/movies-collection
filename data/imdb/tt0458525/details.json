@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "01 May 2009",
   "Runtime": "107 min",
-  "Genre": "Action, Sci-Fi",
+  "Genre": ["Action", "Sci-Fi"],
   "Director": "Gavin Hood",
   "Writer": "David Benioff, Skip Woods",
   "Actors": "Hugh Jackman, Liev Schreiber, Ryan Reynolds",

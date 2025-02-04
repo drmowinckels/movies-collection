@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "13 Jan 2004",
   "Runtime": "90 min",
-  "Genre": "Comedy, Sport",
+  "Genre": ["Comedy", "Sport"],
   "Director": "Damon Santostefano",
   "Writer": "Claudia Grazioso (story), Claudia Grazioso (screenplay), Brian Gunn (screenplay), Mark Gunn (screenplay)",
   "Actors": "Anne Judson-Yager, Bree Turner, Kevin Cooney, Faune Chambers Watkins",

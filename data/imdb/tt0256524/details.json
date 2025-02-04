@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "24 Aug 2001",
   "Runtime": "103 min",
-  "Genre": "Comedy, Crime, Mystery",
+  "Genre": ["Comedy", "Crime", "Mystery"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen",
   "Actors": "Greg Stebner, Woody Allen, John Tormey",

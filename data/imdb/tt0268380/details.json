@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "27 Mar 2002",
   "Runtime": "81 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Chris Wedge, Carlos Saldanha",
   "Writer": "Michael J. Wilson, Michael Berg, Peter Ackerman",
   "Actors": "Denis Leary, John Leguizamo, Ray Romano",

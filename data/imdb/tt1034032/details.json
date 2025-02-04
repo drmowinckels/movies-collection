@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "04 Sep 2009",
   "Runtime": "95 min",
-  "Genre": "Action, Sci-Fi, Thriller",
+  "Genre": ["Action", "Sci-Fi", "Thriller"],
   "Director": "Mark Neveldine, Brian Taylor",
   "Writer": "Mark Neveldine, Brian Taylor",
   "Actors": "Gerard Butler, Michael C. Hall, Ludacris",

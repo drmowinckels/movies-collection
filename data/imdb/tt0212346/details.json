@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "22 Dec 2000",
   "Runtime": "109 min",
-  "Genre": "Action, Comedy, Crime",
+  "Genre": ["Action", "Comedy", "Crime"],
   "Director": "Donald Petrie",
   "Writer": "Marc Lawrence, Katie Ford, Caryn Lucas",
   "Actors": "Sandra Bullock, Michael Caine, Benjamin Bratt",

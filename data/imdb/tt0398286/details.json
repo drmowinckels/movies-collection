@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "24 Nov 2010",
   "Runtime": "100 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Nathan Greno, Byron Howard",
   "Writer": "Dan Fogelman, Jacob Grimm, Wilhelm Grimm",
   "Actors": "Mandy Moore, Zachary Levi, Donna Murphy",

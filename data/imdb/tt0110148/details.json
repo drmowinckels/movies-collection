@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "11 Nov 1994",
   "Runtime": "123 min",
-  "Genre": "Drama, Fantasy, Horror",
+  "Genre": ["Drama", "Fantasy", "Horror"],
   "Director": "Neil Jordan",
   "Writer": "Anne Rice",
   "Actors": "Brad Pitt, Tom Cruise, Antonio Banderas",

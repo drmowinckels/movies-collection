@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "19 Sep 1941",
   "Runtime": "124 min",
-  "Genre": "Animation, Family, Fantasy",
+  "Genre": ["Animation", "Family", "Fantasy"],
   "Director": "James Algar, Samuel Armstrong, Ford Beebe Jr.",
   "Writer": "Joe Grant, Dick Huemer, Lee Blair",
   "Actors": "Leopold Stokowski, Deems Taylor, The Philadelphia Orchestra",

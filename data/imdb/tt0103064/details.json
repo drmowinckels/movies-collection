@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "03 Jul 1991",
   "Runtime": "137 min",
-  "Genre": "Action, Adventure, Sci-Fi",
+  "Genre": ["Action", "Adventure", "Sci-Fi"],
   "Director": "James Cameron",
   "Writer": "James Cameron, William Wisher",
   "Actors": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
@@ -29,7 +29,7 @@
   ],
   "Metascore": "75",
   "imdbRating": "8.6",
-  "imdbVotes": "1,211,785",
+  "imdbVotes": "1,216,836",
   "imdbID": "tt0103064",
   "Type": "movie",
   "DVD": "N/A",
@@ -37,5 +37,5 @@
   "Production": "N/A",
   "Website": "N/A",
   "Response": "True",
-  "Source": "loftet_01"
+  "Source": "Loftet 02"
 }

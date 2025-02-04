@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "18 Nov 1994",
   "Runtime": "118 min",
-  "Genre": "Action, Adventure, Mystery",
+  "Genre": ["Action", "Adventure", "Mystery"],
   "Director": "David Carson",
   "Writer": "Gene Roddenberry, Rick Berman, Ronald D. Moore",
   "Actors": "Patrick Stewart, William Shatner, Malcolm McDowell",

@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "22 Feb 2002",
   "Runtime": "101 min",
-  "Genre": "Drama, Fantasy, Horror",
+  "Genre": ["Drama", "Fantasy", "Horror"],
   "Director": "Michael Rymer",
   "Writer": "Anne Rice, Scott Abbott, Michael Petroni",
   "Actors": "Aaliyah, Stuart Townsend, Marguerite Moreau",

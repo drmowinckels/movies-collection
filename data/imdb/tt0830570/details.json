@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "01 Nov 2008",
   "Runtime": "82 min",
-  "Genre": "Drama, Romance",
+  "Genre": ["Drama", "Romance"],
   "Director": "Shamim Sarif",
   "Writer": "Shamim Sarif, Kelly Moss",
   "Actors": "Lisa Ray, Sheetal Sheth, Antonia Frering",

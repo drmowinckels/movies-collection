@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "12 Jan 2007",
   "Runtime": "114 min",
-  "Genre": "Action, Drama, Romance",
+  "Genre": ["Action", "Drama", "Romance"],
   "Director": "Yimou Zhang",
   "Writer": "Zhihong Bian, Yu Cao, Nan Wu",
   "Actors": "Chow Yun-Fat, Gong Li, Jay Chou",

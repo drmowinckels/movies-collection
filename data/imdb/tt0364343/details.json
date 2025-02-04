@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "11 Nov 2004",
   "Runtime": "95 min",
-  "Genre": "Drama, Sci-Fi, Thriller",
+  "Genre": ["Drama", "Sci-Fi", "Thriller"],
   "Director": "Omar Naim",
   "Writer": "Omar Naim",
   "Actors": "Robin Williams, Jim Caviezel, Mira Sorvino",

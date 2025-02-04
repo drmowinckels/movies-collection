@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "18 Jun 1982",
   "Runtime": "127 min",
-  "Genre": "Comedy, Drama, Family",
+  "Genre": ["Comedy", "Drama", "Family"],
   "Director": "John Huston",
   "Writer": "Carol Sobieski, Thomas Meehan, Martin Charnin",
   "Actors": "Aileen Quinn, Albert Finney, Carol Burnett",

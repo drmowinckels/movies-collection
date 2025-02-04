@@ -4,7 +4,7 @@
   "Rated": "N/A",
   "Released": "22 Sep 2009",
   "Runtime": "14 min",
-  "Genre": "Short, Sci-Fi",
+  "Genre": ["Short", "Sci-Fi"],
   "Director": "Tim King",
   "Writer": "N/A",
   "Actors": "April Hebert, Leonard Nimoy, Vernon Ray Wilmer Jr.",

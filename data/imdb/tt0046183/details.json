@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "05 Feb 1953",
   "Runtime": "77 min",
-  "Genre": "Animation, Adventure, Family",
+  "Genre": ["Animation", "Adventure", "Family"],
   "Director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
   "Writer": "J.M. Barrie, Ted Sears, Erdman Penner",
   "Actors": "Bobby Driscoll, Kathryn Beaumont, Hans Conried",

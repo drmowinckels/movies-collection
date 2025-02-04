@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "23 Feb 1990",
   "Runtime": "90 min",
-  "Genre": "Action, Sci-Fi, Sport",
+  "Genre": ["Action", "Sci-Fi", "Sport"],
   "Director": "David Webb Peoples",
   "Writer": "David Webb Peoples",
   "Actors": "Rutger Hauer, Joan Chen, Delroy Lindo",

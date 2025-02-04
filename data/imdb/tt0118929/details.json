@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "27 Feb 1998",
   "Runtime": "100 min",
-  "Genre": "Fantasy, Mystery, Sci-Fi",
+  "Genre": ["Fantasy", "Mystery", "Sci-Fi"],
   "Director": "Alex Proyas",
   "Writer": "Alex Proyas, Lem Dobbs, David S. Goyer",
   "Actors": "Rufus Sewell, Kiefer Sutherland, Jennifer Connelly",

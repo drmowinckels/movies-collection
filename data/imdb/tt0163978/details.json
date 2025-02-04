@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "11 Feb 2000",
   "Runtime": "119 min",
-  "Genre": "Adventure, Drama, Romance",
+  "Genre": ["Adventure", "Drama", "Romance"],
   "Director": "Danny Boyle",
   "Writer": "John Hodge, Alex Garland",
   "Actors": "Leonardo DiCaprio, Tilda Swinton, Daniel York",

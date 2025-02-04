@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "20 Nov 2008",
   "Runtime": "98 min",
-  "Genre": "Horror, Musical, Sci-Fi",
+  "Genre": ["Horror", "Musical", "Sci-Fi"],
   "Director": "Darren Lynn Bousman",
   "Writer": "Darren Smith, Terrance Zdunich",
   "Actors": "Paul Sorvino, Anthony Head, Alexa PenaVega",

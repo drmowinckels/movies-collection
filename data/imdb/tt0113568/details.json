@@ -4,7 +4,7 @@
   "Rated": "TV-MA",
   "Released": "29 Mar 1996",
   "Runtime": "83 min",
-  "Genre": "Animation, Action, Crime",
+  "Genre": ["Animation", "Action", "Crime"],
   "Director": "Mamoru Oshii",
   "Writer": "Shirow Masamune, Kazunori Itô",
   "Actors": "Atsuko Tanaka, Iemasa Kayumi, Akio Ôtsuka",

@@ -4,7 +4,7 @@
   "Rated": "TV-PG",
   "Released": "02 Dec 2002",
   "Runtime": "877 min",
-  "Genre": "Drama, Mystery, Sci-Fi",
+  "Genre": ["Drama", "Mystery", "Sci-Fi"],
   "Director": "N/A",
   "Writer": "Leslie Bohem",
   "Actors": "Dakota Fanning, Matt Frewer, Emily Bergl",

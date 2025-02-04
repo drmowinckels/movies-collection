@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "09 Jul 2003",
   "Runtime": "143 min",
-  "Genre": "Action, Adventure, Fantasy",
+  "Genre": ["Action", "Adventure", "Fantasy"],
   "Director": "Gore Verbinski",
   "Writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
   "Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom",

@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "20 Dec 1985",
   "Runtime": "118 min",
-  "Genre": "Drama, Music, Musical",
+  "Genre": ["Drama", "Music", "Musical"],
   "Director": "Richard Attenborough",
   "Writer": "Arnold Schulman, Michael Bennett, James Kirkwood Jr.",
   "Actors": "Michael Douglas, Terrence Mann, Michael Blevins",

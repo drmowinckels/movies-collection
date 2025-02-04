@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "26 May 2011",
   "Runtime": "135 min",
-  "Genre": "Drama, Sci-Fi",
+  "Genre": ["Drama", "Sci-Fi"],
   "Director": "Lars von Trier",
   "Writer": "Lars von Trier",
   "Actors": "Kirsten Dunst, Charlotte Gainsbourg, Kiefer Sutherland",

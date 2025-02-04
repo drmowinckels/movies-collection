@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "17 Jan 1940",
   "Runtime": "238 min",
-  "Genre": "Drama, Romance, War",
+  "Genre": ["Drama", "Romance", "War"],
   "Director": "Victor Fleming, George Cukor, Sam Wood",
   "Writer": "Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett",
   "Actors": "Clark Gable, Vivien Leigh, Thomas Mitchell",

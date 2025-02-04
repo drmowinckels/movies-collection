@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "16 Nov 1990",
   "Runtime": "77 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Hendel Butoy, Mike Gabriel",
   "Writer": "Jim Cox, Karey Kirkpatrick, Byron Simpson",
   "Actors": "Bob Newhart, Eva Gabor, John Candy",

@@ -4,7 +4,7 @@
   "Rated": "Not Rated",
   "Released": "07 Jan 2006",
   "Runtime": "94 min",
-  "Genre": "Animation, Adventure, Drama",
+  "Genre": ["Animation", "Adventure", "Drama"],
   "Director": "Makoto Bessho, Kentarô Mizuno, Ken'ichi Shimizu",
   "Writer": "Umanosuke Iida, Nana Shiina, Naoko Kakimoto",
   "Actors": "Ryô Katsuji, Aoi Miyazaki, Yûko Kotegawa",

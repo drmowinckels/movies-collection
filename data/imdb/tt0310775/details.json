@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "29 Mar 2002",
   "Runtime": "129 min",
-  "Genre": "Crime, Drama, Thriller",
+  "Genre": ["Crime", "Drama", "Thriller"],
   "Director": "Park Chan-wook",
   "Writer": "Jong-yong Lee, Jae-sun Lee, Mu-yeong Lee",
   "Actors": "Song Kang-ho, Shin Ha-kyun, Bae Doona",

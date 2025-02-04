@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "21 Nov 2007",
   "Runtime": "107 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Kevin Lima",
   "Writer": "Bill Kelly",
   "Actors": "Amy Adams, Susan Sarandon, James Marsden",

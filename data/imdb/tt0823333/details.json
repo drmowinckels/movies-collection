@@ -4,7 +4,7 @@
   "Rated": "TV-14",
   "Released": "28 Jun 2006",
   "Runtime": "18S min",
-  "Genre": "Action, Drama, Fantasy",
+  "Genre": ["Action", "Drama", "Fantasy"],
   "Director": "N/A",
   "Writer": "David S. Goyer",
   "Actors": "Sticky Fingaz, Jill Wagner, Nelson Lee",

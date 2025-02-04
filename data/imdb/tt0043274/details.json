@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "28 Jul 1951",
   "Runtime": "75 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
   "Writer": "Lewis Carroll, Winston Hibler, Ted Sears",
   "Actors": "Kathryn Beaumont, Ed Wynn, Richard Haydn",

@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "22 Apr 1988",
   "Runtime": "95 min",
-  "Genre": "Comedy, Drama",
+  "Genre": ["Comedy", "Drama"],
   "Director": "Percy Adlon",
   "Writer": "Eleonore Adlon, Percy Adlon, Christopher Doherty",
   "Actors": "Marianne Sägebrecht, CCH Pounder, Jack Palance",

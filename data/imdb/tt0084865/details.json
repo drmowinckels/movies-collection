@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "19 Mar 1982",
   "Runtime": "134 min",
-  "Genre": "Comedy, Music, Romance",
+  "Genre": ["Comedy", "Music", "Romance"],
   "Director": "Blake Edwards",
   "Writer": "Blake Edwards, Hans Hoemburg, Reinhold Schünzel",
   "Actors": "Julie Andrews, James Garner, Robert Preston",

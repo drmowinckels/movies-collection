@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "22 Dec 2010",
   "Runtime": "110 min",
-  "Genre": "Drama, Western",
+  "Genre": ["Drama", "Western"],
   "Director": "Ethan Coen, Joel Coen",
   "Writer": "Joel Coen, Ethan Coen, Charles Portis",
   "Actors": "Jeff Bridges, Matt Damon, Hailee Steinfeld",

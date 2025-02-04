@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "25 Apr 1979",
   "Runtime": "96 min",
-  "Genre": "Comedy, Drama, Romance",
+  "Genre": ["Comedy", "Drama", "Romance"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen, Marshall Brickman",
   "Actors": "Woody Allen, Diane Keaton, Mariel Hemingway",

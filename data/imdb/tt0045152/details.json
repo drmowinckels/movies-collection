@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "10 Apr 1952",
   "Runtime": "103 min",
-  "Genre": "Comedy, Musical, Romance",
+  "Genre": ["Comedy", "Musical", "Romance"],
   "Director": "Stanley Donen, Gene Kelly",
   "Writer": "Betty Comden, Adolph Green",
   "Actors": "Gene Kelly, Donald O'Connor, Debbie Reynolds",

@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "25 Jan 2002",
   "Runtime": "108 min",
-  "Genre": "Animation, Adventure, Drama",
+  "Genre": ["Animation", "Adventure", "Drama"],
   "Director": "Rintarô",
   "Writer": "Osamu Tezuka, Katsuhiro Ôtomo, Fritz Lang",
   "Actors": "Toshio Furukawa, Scott Weinger, Yuka Imoto",

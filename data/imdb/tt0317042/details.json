@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "21 Jan 2005",
   "Runtime": "95 min",
-  "Genre": "Drama, Horror, Mystery",
+  "Genre": ["Drama", "Horror", "Mystery"],
   "Director": "Jeff Renfroe, Marteinn Thorsson",
   "Writer": "Jeff Renfroe, Marteinn Thorsson",
   "Actors": "Richard Rees, Jeremy Sisto, Udo Kier",

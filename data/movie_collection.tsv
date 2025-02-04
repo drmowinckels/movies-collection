@@ -1,16 +1,324 @@
-title	year	imdb_id	source
-Fantastic Four	2005	tt0120667	loftet_01
-Hellboy II: The Golden Army	2008	tt0411477	loftet_01
-Lies Inc.	2004	tt0459443	loftet_01
-Mad Max	1979	tt0079501	loftet_01
-Mad Max Beyond Thunderdome	1985	tt0089530	loftet_01
-Neverwhere	1996	tt0115288	loftet_01
-Night Watch	2004	tt0403358	loftet_01
-Star Trek	2009	tt0796366	loftet_01
-Terminator 2: Judgment Day	1991	tt0103064	loftet_01
-Terminator 3: Rise of the Machines	2003	tt0181852	loftet_01
-Terminator Salvation	2009	tt0438488	loftet_01
-The Road Warrior	1981	tt0082694	loftet_01
-The Spirit	2008	tt0831887	loftet_01
-The Terminator	1984	tt0088247	loftet_01
-Timeline	2003	tt0300556	loftet_01
+title	year	format	source	imdb_id
+2081	2009	NA	Loftet 07	tt1282015
+300	2006	DVD	Loftet 01	tt0416449
+A Boy and His Dog	1975	NA	Loftet 07	tt0072730
+A Bug's Life	1998	DVD	Loftet 04	tt0120623
+A Chorus Line	1985	DVD	Loftet 04	tt0088915
+A Fish Called Wanda	1988	NA	Loftet 07	tt0095159
+A Midsummer Night's Sex Comedy	1982	NA	Loftet 07	tt0084329
+A Scanner Darkly	2006	NA	Loftet 07	tt0405296
+A.I. Artificial Intelligence	2001	DVD	Loftet 02	tt0212720
+Abduction	2011	NA	Loftet 07	tt1600195
+After Sex	2007	NA	Loftet 07	tt0465375
+Aladdin	1992	DVD	Loftet 06	tt0103639
+Alice	1990	NA	Loftet 07	tt0099012
+Alice in Wonderland	1951	DVD	Loftet 06	tt0043274
+Annie	1982	DVD	Loftet 04	tt0083564
+Annie Get Your Gun	1950	DVD	Loftet 04	tt0042200
+Annie Hall	1977	NA	Loftet 07	tt0075686
+Another Earth	2011	NA	Loftet 07	tt1549572
+Another Woman	1988	NA	Loftet 07	tt0094663
+Asterix and the Vikings	2006	DVD	Loftet 01	tt0371552
+Asterix at the Olympic Games	2008	DVD	Loftet 01	tt0463872
+Atlantis: The Lost Empire	2001	DVD	Loftet 06	tt0230011
+Attack the Block	2011	NA	Loftet 07	tt1478964
+Australia	2008	NA	Loftet 07	tt0455824
+Avalon	2001	NA	Loftet 07	tt0267287
+Babylon 5: In the Beginning	1998		Loftet 02	tt0120711
+Babylon A.D.	2008	NA	Loftet 07	tt0364970
+Bagdad Cafe	1987	DVD	Loftet 05	tt0095801
+Bambi	1942	DVD	Loftet 06	tt0034492
+Bananas	1971	NA	Loftet 07	tt0066808
+Barbarella	1968	NA	Loftet 07	tt0062711
+Battlestar Galactica	2003	DVD	Loftet 02	tt0314979
+Battlestar Galactica	2003	Blu-ray	Loftet 02	tt0314979
+Battlestar Galactica: Razor	2007	Blu-ray	Loftet 02	tt0991178
+Beauty and the Beast	1991	DVD	Loftet 06	tt0101414
+Blade	1998	DVD	Loftet 01	tt0120611
+Blade Runner	1982	DVD	Loftet 02	tt0083658
+Blade Runner 2049	2017	Blu-ray	Loftet 02	tt1856101
+Blade: The Series	2006	DVD	Loftet 01	tt0823333
+Blazing Saddles	1974	NA	Loftet 07	tt0071230
+Blindness	2008	NA	Loftet 07	tt0861689
+Bram Stoker's Dracula	1992	DVD	Loftet 01	tt0103874
+Brave	2012	Blu-ray	Loftet 06	tt1217209
+Bring It On	2000	NA	Loftet 07	tt0204946
+Bring It On: Again	2004	NA	Loftet 07	tt0334965
+Bring It On: All or Nothing	2006	NA	Loftet 07	tt0490822
+Broadway Danny Rose	1984	NA	Loftet 07	tt0087003
+Brother Bear	2003	DVD	Loftet 06	tt0328880
+Cabaret	1972	DVD	Loftet 04	tt0068327
+Can't Hardly Wait	1998	NA	Loftet 07	tt0127723
+Captain America: The First Avenger	2011	Blu-ray	Loftet 01	tt0458339
+Casablanca	1942	DVD	Loftet 04	tt0034583
+Cherry 2000	1987	NA	Loftet 07	tt0092746
+Chicago	2002	DVD	Loftet 04	tt0299658
+Chicken Little	2005	DVD	Loftet 06	tt0371606
+Cinderella	1950	DVD	Loftet 06	tt0042332
+Circumstance	2011	NA	Loftet 07	tt1684628
+City of God	2002	DVD	Loftet 05	tt0317248
+Close Encounters of the Third Kind	1977	NA	Loftet 07	tt0075860
+Code 46	2003	NA	Loftet 07	tt0345061
+Contact	1997	DVD	Loftet 02	tt0118884
+Contagion	2011	NA	Loftet 07	tt1598778
+Countdown to Christmas	2002	DVD	Loftet 06	tt0406405
+Crash	1996	DVD	Loftet 01	tt0115964
+Crimes and Misdemeanors	1989	NA	Loftet 07	tt0097123
+Curse of the Golden Flower	2006	DVD	Loftet 05	tt0473444
+Cyborg	1989	NA	Loftet 07	tt0097138
+Dark City	1998	NA	Loftet 07	tt0118929
+Death Proof	2007	DVD	Loftet 01	tt1028528
+Death Race	2008	NA	Loftet 07	tt0452608
+Deconstructing Harry	1997	NA	Loftet 07	tt0118954
+DEFCON-4	1985	NA	Loftet 07	tt0087130
+Die Hard	1988	NA	Loftet 07	tt0095016
+Die Hard 2	1990	NA	Loftet 07	tt0099423
+Die Hard with a Vengeance	1995	NA	Loftet 07	tt0112864
+Doctor Zhivago	1965	DVD	Loftet 04	tt0059113
+Dracula: Dead and Loving It	1995	NA	Loftet 07	tt0112896
+Dumbo	1941	DVD	Loftet 06	tt0033563
+Enchanted	2007	DVD	Loftet 04	tt0461770
+Equilibrium	2002	NA	Loftet 07	tt0238380
+Eternal Sunshine of the Spotless Mind	2004	DVD	Loftet 05	tt0338013
+Eternal Sunshine of the Spotless Mind	2004	DVD	Loftet 05	tt0338013
+Even Dwarfs Started Small	1970	Blu-ray	Loftet 05	tt0065436
+Everything You Always Wanted to Know About Sex * But Were Afraid to Ask	1972	NA	Loftet 07	tt0068555
+eXistenZ	1999	NA	Loftet 07	tt0120907
+Fame	1980	DVD	Loftet 04	tt0080716
+Fantasia	1940	Blu-ray	Loftet 06	tt0032455
+Fantastic Four	2005	DVD	Loftet 01	tt0120667
+Fargo	1996	DVD	Loftet 01	tt0116282
+Fast Times at Ridgemont High	1982	NA	Loftet 07	tt0083929
+Ferris Bueller's Day Off	1986	NA	Loftet 07	tt0091042
+Fiddler on the Roof	1971	DVD	Loftet 04	tt0067093
+Fierce Creatures	1997	NA	Loftet 07	tt0119115
+Finding Nemo	2003	DVD	Loftet 06	tt0266543
+Finding Neverland	2004	DVD	Loftet 01	tt0308644
+Flash Gordon	1980	NA	Loftet 07	tt0080745
+Fortress	1992	NA	Loftet 07	tt0106950
+Free Jimmy	2006	DVD	Loftet 01	tt0298337
+Fried Green Tomatoes	1991	NA	Loftet 07	tt0101921
+Gamer	2009	NA	Loftet 07	tt1034032
+Genesis II	1973	NA	Loftet 07	tt0064366
+Ghost in the Shell	1995	NA	Loftet 07	tt0113568
+Ghost in the Shell 2: Innocence	2004	NA	Loftet 07	tt0347246
+Gone with the Wind	1939	DVD	Loftet 04	tt0031381
+Good Morning, Vietnam	1987	NA	Loftet 07	tt0093105
+Hairspray	2007	DVD	Loftet 04	tt0427327
+Hanna	2011	NA	Loftet 07	tt0993842
+Hannah and Her Sisters	1986	NA	Loftet 07	tt0091167
+Happy Feet	2006	DVD	Loftet 04	tt0366548
+Happy Feet	2006	NA	Loftet 07	tt0366548
+Hardware	1990	NA	Loftet 07	tt0099740
+Harold and Maude	1971	DVD	Loftet 01	tt0067185
+Hell Comes to Frogtown	1988	NA	Loftet 07	tt0093171
+Hellboy II: The Golden Army	2008	DVD	Loftet 01	tt0411477
+High Anxiety	1977	NA	Loftet 07	tt0076141
+Hocus Pocus	1993	NA	Loftet 07	tt0107120
+Hole in One	2009	NA	Loftet 07	tt1263800
+Hollywood Ending	2002	NA	Loftet 07	tt0278823
+Home Alone	1990	NA	Loftet 07	tt0099785
+Home Alone 2: Lost in New York	1992	NA	Loftet 07	tt0104431
+House of Angels	1992	DVD	Loftet 05	tt0105916
+House of Flying Daggers	2004	DVD	Loftet 05	tt0385004
+Husbands and Wives	1992	NA	Loftet 07	tt0104466
+I Can't Think Straight	2008	NA	Loftet 07	tt0830570
+Ice Age	2002	DVD	Loftet 04	tt0268380
+Idiocracy	2006	NA	Loftet 07	tt0387808
+Interiors	1978	NA	Loftet 07	tt0077742
+Interview with the Vampire	1994	DVD	Loftet 01	tt0110148
+Jurassic Park	1993	DVD	Loftet 05	tt0107290
+Kamikaze Girls	2004	NA	Loftet 07	tt0416220
+Killer's Kiss	1955	DVD	Loftet 05	tt0048254
+Kung Fu Panda	2008	NA	Loftet 07	tt0441773
+Lady and the Tramp	1955	DVD	Loftet 06	tt0048280
+Lady Vengeance	2005	DVD	Loftet 05	tt0451094
+Let Me In	2010	NA	Loftet 07	tt1228987
+Lilo & Stitch	2002	DVD	Loftet 06	tt0275847
+Limitless	2011	NA	Loftet 07	tt1219289
+Live Free or Die Hard	2007	NA	Loftet 07	tt0337978
+Logan's Run	1976	NA	Loftet 07	tt0074812
+Love and Death	1975	NA	Loftet 07	tt0073312
+Manhattan	1979	NA	Loftet 07	tt0079522
+Marie Antoinette	2006	DVD	Loftet 01	tt0422720
+Marie Antoinette	2006	NA	Loftet 07	tt0422720
+Marmaduke	2010	NA	Loftet 07	tt1392197
+Mary Poppins	1964	DVD	Loftet 04	tt0058331
+Matilda	1996	NA	Loftet 07	tt0117008
+Mean Girls	2004	NA	Loftet 07	tt0377092
+Meet the Robinsons	2007	DVD	Loftet 06	tt0396555
+Melancholia	2011	NA	Loftet 07	tt1527186
+Memoirs of a Geisha	2005	DVD	Loftet 05	tt0397535
+Mermaids	1990	NA	Loftet 07	tt0100140
+Metropolis	1927	NA	Loftet 07	tt0017136
+Metropolis	2001	NA	Loftet 07	tt0293416
+Miss Congeniality	2000	NA	Loftet 07	tt0212346
+Monsoon Wedding	2001	DVD	Loftet 05	tt0265343
+Monsters, Inc.	2001	DVD	Loftet 06	tt0198781
+Moon	2009	NA	Loftet 07	tt1182345
+Mulan	1998	DVD	Loftet 06	tt0120762
+My Big Fat Greek Wedding	2002	DVD	Loftet 05	tt0259446
+My Girl	1991	NA	Loftet 07	tt0102492
+My Girl 2	1994	NA	Loftet 07	tt0110613
+My Life as a Dog	1985	DVD	Loftet 05	tt0089606
+Natural City	2003	NA	Loftet 07	tt0378428
+No Escape	2015	NA	Loftet 07	tt1781922
+Oldboy	2003	DVD	Loftet 05	tt0364569
+Oliver & Company	1988	DVD	Loftet 06	tt0095776
+Oliver Twist	1999	DVD	Loftet 05	tt0222608
+On the Beach	1959	NA	Loftet 07	tt0053137
+One Hundred and One Dalmatians	1961	DVD	Loftet 06	tt0055254
+One Point O	2004	NA	Loftet 07	tt0317042
+Origin: Spirits of the Past	2006	NA	Loftet 07	tt0493247
+Paths of Glory	1957	DVD	Loftet 05	tt0050825
+Peter Pan	1953	DVD	Loftet 06	tt0046183
+Pinocchio	1940	DVD	Loftet 06	tt0032910
+Pirates of the Caribbean: The Curse of the Black Pearl	2003	DVD	Loftet 05	tt0325980
+Pocahontas	1995	DVD	Loftet 06	tt0114148
+Prayer of the Rollerboys	1990	NA	Loftet 07	tt0102703
+Queen of the Damned	2002	DVD	Loftet 01	tt0238546
+Radio Days	1987	NA	Loftet 07	tt0093818
+Ratatouille	2007	Blu-ray	Loftet 06	tt0382932
+Repo Men	2010	NA	Loftet 07	tt1053424
+Repo! The Genetic Opera	2008	NA	Loftet 07	tt0963194
+Revenge of the Nerds	1984	NA	Loftet 07	tt0088000
+Revolutionary Road	2008	NA	Loftet 07	tt0959337
+Rise of the Planet of the Apes	2011	NA	Loftet 07	tt1318514
+Robin Hood	1973	DVD	Loftet 06	tt0070608
+Robin Hood	2010	NA	Loftet 07	tt0955308
+RoboCop	1987	NA	Loftet 07	tt0093870
+RoboCop 2	1990	NA	Loftet 07	tt0100502
+RoboCop 3	1993	NA	Loftet 07	tt0107978
+Robots	2005	DVD	Loftet 04	tt0358082
+Rollerball	2002	NA	Loftet 07	tt0246894
+Romeo + Juliet	1996	DVD	Loftet 04	tt0117509
+Saturday Night Fever	1977	DVD	Loftet 04	tt0076666
+Secret Window	2004	NA	Loftet 07	tt0363988
+September	1987	NA	Loftet 07	tt0093940
+Serenity	2005	DVD	Loftet 02	tt0379786
+Shadows and Fog	1991	NA	Loftet 07	tt0105378
+Short Cuts	1993	DVD	Loftet 01	tt0108122
+Silent Movie	1976	NA	Loftet 07	tt0075222
+Silent Running	1972	NA	Loftet 07	tt0067756
+Singin' in the Rain	1952	DVD	Loftet 04	tt0045152
+Six-String Samurai	1998	NA	Loftet 07	tt0118736
+Sleeper	1973	NA	Loftet 07	tt0070707
+Sleeping Beauty	1959	DVD	Loftet 06	tt0053285
+Sleeping Beauty	2011	NA	Loftet 07	tt1588398
+Slumdog Millionaire	2008	DVD	Loftet 05	tt1010048
+Snow White and the Seven Dwarfs	1937	Blu-ray	Loftet 06	tt0029583
+Source Code	2011	NA	Loftet 07	tt0945513
+Soylent Green	1973	NA	Loftet 07	tt0070723
+Spaceballs	1987	NA	Loftet 07	tt0094012
+Splice	2009	NA	Loftet 07	tt1017460
+Star Trek	2009	DVD	Loftet 02	tt0796366
+Star Trek Evolutions	2009		Loftet 02	tt3255584
+Star Trek II: The Wrath of Khan	1982		Loftet 02	tt0084726
+Star Trek III: The Search for Spock	1984		Loftet 02	tt0088170
+Star Trek IV: The Voyage Home	1986		Loftet 02	tt0092007
+Star Trek V: The Final Frontier	1989		Loftet 02	tt0098382
+Star Trek VI: The Undiscovered Country	1991		Loftet 02	tt0102975
+Star Trek: First Contact	1996		Loftet 02	tt0117731
+Star Trek: Generations	1994		Loftet 02	tt0111280
+Star Trek: Insurrection	1998		Loftet 02	tt0120844
+Star Trek: Nemesis	2002		Loftet 02	tt0253754
+Star Trek: The Motion Picture	1979		Loftet 02	tt0079945
+Star Wars: Episode IV - A New Hope	1977	DVD	Loftet 02	tt0076759
+Star Wars: Episode V - The Empire Strikes Back	1980	DVD	Loftet 02	tt0080684
+Star Wars: Episode VI - Return of the Jedi	1983	DVD	Loftet 02	tt0086190
+Stardust Memories	1980	NA	Loftet 07	tt0081554
+Strange Days	1995	NA	Loftet 07	tt0114558
+Sucker Punch	2011	DVD	Loftet 01	tt0978764
+Super 8	2011	NA	Loftet 07	tt1650062
+Superbad	2007	NA	Loftet 07	tt0829482
+Superhero Movie	2008	NA	Loftet 07	tt0426592
+Sweeney Todd	2006	DVD	Loftet 04	tt0479760
+Sweet and Lowdown	1999	NA	Loftet 07	tt0158371
+Sympathy for Mr. Vengeance	2002	DVD	Loftet 05	tt0310775
+Taken	2002	DVD	Loftet 02	tt0289830
+Tangled	2010	Blu-ray	Loftet 06	tt0398286
+Tarzan	1999	DVD	Loftet 06	tt0120855
+Terminator 2: Judgment Day	1991	DVD	Loftet 02	tt0103064
+Terminator 3: Rise of the Machines	2003	DVD	Loftet 02	tt0181852
+Terminator Salvation	2009	DVD	Loftet 02	tt0438488
+The Abyss	1989	DVD	Loftet 02	tt0096754
+The Animatrix	2003	DVD	Loftet 02	tt0328832
+The Beach	2000	DVD	Loftet 04	tt0163978
+The Birdcage	1996	DVD	Loftet 04	tt0115685
+The Black Cauldron	1985	DVD	Loftet 06	tt0088814
+The Blood of Heroes	1989	NA	Loftet 07	tt0094764
+The Book of Eli	2010	NA	Loftet 07	tt1037705
+The Captain's Summit	2009		Loftet 02	tt1394315
+The Curse of the Jade Scorpion	2001	NA	Loftet 07	tt0256524
+The Devil Wears Prada	2006	DVD	Loftet 05	tt0458352
+The Final Cut	2004	NA	Loftet 07	tt0364343
+The Fox and the Hound	1981	DVD	Loftet 06	tt0082406
+The Girl Who Played with Fire	2009	NA	Loftet 07	tt1216487
+The Great Mouse Detective	1986	DVD	Loftet 06	tt0091149
+The Hunger	1983	DVD	Loftet 01	tt0085701
+The Incredibles	2004	DVD	Loftet 04	tt0317705
+The Island	2005	NA	Loftet 07	tt0399201
+The Jungle Book	1967	DVD	Loftet 06	tt0061852
+The Killing	1956	DVD	Loftet 05	tt0049406
+The Last Battle	1983	NA	Loftet 07	tt0085426
+The Life Aquatic with Steve Zissou	2004		Loftet 05	tt0362270
+The Lion King	1994	DVD	Loftet 06	tt0110357
+The Little Mermaid	1989	DVD	Loftet 06	tt0097757
+The Lost World: Jurassic Park	1997	DVD	Loftet 05	tt0119567
+The Man in the Iron Mask	1998	DVD	Loftet 04	tt0120744
+The Many Adventures of Winnie the Pooh	1977	DVD	Loftet 06	tt0076363
+The Matrix	1999	DVD	Loftet 02	tt0133093
+The Matrix Reloaded	2003	DVD	Loftet 02	tt0234215
+The Matrix Revolutions	2003	DVD	Loftet 02	tt0242653
+The Nightmare Before Christmas	1993	Blu-ray	Loftet 06	tt0107688
+The Omega Man	1971	NA	Loftet 07	tt0067525
+The Polar Express	2004	Blu-ray 3D	Loftet 04	tt0338348
+The Postman	1997	NA	Loftet 07	tt0119925
+The Producers	1967	NA	Loftet 07	tt0063462
+The Producers	2005	DVD	Loftet 04	tt0395251
+The Proposition	2005	DVD	Loftet 01	tt0421238
+The Purple Rose of Cairo	1985	NA	Loftet 07	tt0089853
+The Quiet Earth	1985	NA	Loftet 07	tt0089869
+The Red Shoes	1948	DVD	Loftet 04	tt0040725
+The Rescuers	1977	DVD	Loftet 06	tt0076618
+The Rescuers Down Under	1990	DVD	Loftet 06	tt0100477
+The Road	2009	NA	Loftet 07	tt0898367
+The Rocky Horror Picture Show	1975	DVD	Loftet 04	tt0073629
+The Running Man	1987	NA	Loftet 07	tt0093894
+The Secret Diaries of Miss Anne Lister	2010	NA	Loftet 07	tt1555126
+The Secret Life of Bees	2008	NA	Loftet 07	tt0416212
+The Sleeping Beauty	2010	NA	Loftet 07	tt1721683
+The Sound of Music	1965	DVD	Loftet 04	tt0059742
+The Spirit	2008	DVD	Loftet 01	tt0831887
+The Sword in the Stone	1963	DVD	Loftet 06	tt0057546
+The Terminator	1984	DVD	Loftet 02	tt0088247
+The Twelve Chairs	1970	NA	Loftet 07	tt0066495
+The Witches	1990	NA	Loftet 07	tt0100944
+The Wizard of Oz	1939	DVD	Loftet 04	tt0032138
+They Live	1988	NA	Loftet 07	tt0096256
+Three... Extremes	2004	DVD	Loftet 05	tt0420251
+Titan A.E.	2000	NA	Loftet 07	tt0120913
+To Be or Not to Be	1983	NA	Loftet 07	tt0086450
+Tomorrow, When the War Began	2010	NA	Loftet 07	tt1456941
+Toy Story	1995	DVD	Loftet 04	tt0114709
+Toy Story 2	1999	DVD	Loftet 04	tt0120363
+Transmorphers	2007	NA	Loftet 07	tt0960835
+Transmutators	2007	NA	Loftet 07	tt1047877
+Treasure Planet	2002	DVD	Loftet 06	tt0133240
+Tron	1982	NA	Loftet 07	tt0084827
+True Grit	2010	DVD	Loftet 01	tt1403865
+Underworld	2003	DVD	Loftet 01	tt0320691
+Underworld: Evolution	2006	DVD	Loftet 01	tt0401855
+Up	2009	Blu-ray	Loftet 04	tt1049413
+Up	2009		Loftet 04	tt1049413
+Valhalla Rising	2009	DVD	Loftet 01	tt0862467
+Victor/Victoria	1982	DVD	Loftet 04	tt0084865
+Videodrome	1983	NA	Loftet 07	tt0086541
+WALL·E	2008	DVD	Loftet 04	tt0910970
+West Side Story	1961	DVD	Loftet 04	tt0055614
+What Dreams May Come	1998	DVD	Loftet 05	tt0120889
+X-Men	2000	DVD	Loftet 01	tt0120903
+X-Men Origins: Wolverine	2009	DVD	Loftet 01	tt0458525
+X-Men: The Last Stand	2006	DVD	Loftet 01	tt0376994
+X2: X-Men United	2003	DVD	Loftet 01	tt0290334
+Zelig	1983	NA	Loftet 07	tt0086637

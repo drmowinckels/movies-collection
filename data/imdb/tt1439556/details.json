@@ -4,7 +4,7 @@
   "Rated": "N/A",
   "Released": "31 Jul 2009",
   "Runtime": "80 min",
-  "Genre": "Documentary, Adventure, Biography",
+  "Genre": ["Documentary", "Adventure", "Biography"],
   "Director": "Thomas Lien",
   "Writer": "N/A",
   "Actors": "Øyvind Aamot",

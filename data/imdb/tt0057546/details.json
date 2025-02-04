@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "21 Jun 1964",
   "Runtime": "79 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Wolfgang Reitherman, Clyde Geronimi, David Hand",
   "Writer": "Bill Peet, T.H. White",
   "Actors": "Rickie Sorensen, Sebastian Cabot, Karl Swenson",

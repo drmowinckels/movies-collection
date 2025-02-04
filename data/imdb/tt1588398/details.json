@@ -4,7 +4,7 @@
   "Rated": "TV-14",
   "Released": "02 Dec 2011",
   "Runtime": "101 min",
-  "Genre": "Drama, Mystery, Romance",
+  "Genre": ["Drama", "Mystery", "Romance"],
   "Director": "Julia Leigh",
   "Writer": "Julia Leigh",
   "Actors": "Emily Browning, Rachael Blake, Ewen Leslie",

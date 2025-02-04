@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "14 Sep 1990",
   "Runtime": "94 min",
-  "Genre": "Horror, Sci-Fi, Thriller",
+  "Genre": ["Horror", "Sci-Fi", "Thriller"],
   "Director": "Richard Stanley",
   "Writer": "Steve MacManus, Kevin O'Neill, Richard Stanley",
   "Actors": "Dylan McDermott, Stacey Travis, John Lynch",

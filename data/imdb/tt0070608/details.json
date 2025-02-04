@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "08 Nov 1973",
   "Runtime": "83 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Wolfgang Reitherman, David Hand",
   "Writer": "Larry Clemmons, Ken Anderson, Vance Gerry",
   "Actors": "Brian Bedford, Phil Harris, Roger Miller",

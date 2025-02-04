@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "01 Apr 1965",
   "Runtime": "172 min",
-  "Genre": "Biography, Drama, Family",
+  "Genre": ["Biography", "Drama", "Family"],
   "Director": "Robert Wise",
   "Writer": "Georg Hurdalek, Howard Lindsay, Russel Crouse",
   "Actors": "Julie Andrews, Christopher Plummer, Eleanor Parker",

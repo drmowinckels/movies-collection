@@ -4,7 +4,7 @@
   "Rated": "Not Rated",
   "Released": "30 Jan 2008",
   "Runtime": "116 min",
-  "Genre": "Adventure, Comedy, Family",
+  "Genre": ["Adventure", "Comedy", "Family"],
   "Director": "Frédéric Forestier, Thomas Langmann",
   "Writer": "René Goscinny, Albert Uderzo, Thomas Langmann",
   "Actors": "Gérard Depardieu, Clovis Cornillac, Benoît Poelvoorde",

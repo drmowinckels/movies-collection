@@ -4,7 +4,7 @@
   "Rated": "Not Rated",
   "Released": "23 Mar 1973",
   "Runtime": "74 min",
-  "Genre": "Drama, Sci-Fi, Thriller",
+  "Genre": ["Drama", "Sci-Fi", "Thriller"],
   "Director": "John Llewellyn Moxey",
   "Writer": "Gene Roddenberry",
   "Actors": "Alex Cord, Mariette Hartley, Ted Cassidy",

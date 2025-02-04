@@ -4,14 +4,14 @@
   "Rated": "R",
   "Released": "02 Jul 2003",
   "Runtime": "109 min",
-  "Genre": "Action, Sci-Fi",
+  "Genre": ["Action", "Sci-Fi"],
   "Director": "Jonathan Mostow",
   "Writer": "John Brancato, Michael Ferris, Tedi Sarafian",
   "Actors": "Arnold Schwarzenegger, Nick Stahl, Kristanna Loken",
-  "Plot": "John Connor must face a female Terminatrix with power over all the machines. But a new T-800 unit Terminator sent back through time will guide him through the coming battle.",
+  "Plot": "John Connor must face a female Terminatrix with power over all the machines. But a new Terminator unit a T-850 sent back through time will guide him through the coming battle.",
   "Language": "English",
-  "Country": "United States, Germany, United Kingdom",
-  "Awards": "3 wins & 24 nominations",
+  "Country": "United Kingdom, Germany, United States",
+  "Awards": "3 wins & 24 nominations total",
   "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_SX300.jpg",
   "Ratings": [
     {
@@ -29,7 +29,7 @@
   ],
   "Metascore": "66",
   "imdbRating": "6.3",
-  "imdbVotes": "424,110",
+  "imdbVotes": "425,584",
   "imdbID": "tt0181852",
   "Type": "movie",
   "DVD": "N/A",
@@ -37,5 +37,5 @@
   "Production": "N/A",
   "Website": "N/A",
   "Response": "True",
-  "Source": "loftet_01"
+  "Source": "Loftet 02"
 }

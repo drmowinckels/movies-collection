@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "24 Sep 2004",
   "Runtime": "100 min",
-  "Genre": "Animation, Drama, Mystery",
+  "Genre": ["Animation", "Drama", "Mystery"],
   "Director": "Mamoru Oshii, Naoko Kusumi, Mizuho Nishikubo",
   "Writer": "Shirow Masamune, Mamoru Oshii",
   "Actors": "Akio Ôtsuka, Atsuko Tanaka, Tamio Ôki",

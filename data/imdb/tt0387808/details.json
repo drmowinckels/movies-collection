@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "25 Jan 2007",
   "Runtime": "84 min",
-  "Genre": "Adventure, Comedy, Sci-Fi",
+  "Genre": ["Adventure", "Comedy", "Sci-Fi"],
   "Director": "Mike Judge",
   "Writer": "Mike Judge, Etan Cohen",
   "Actors": "Luke Wilson, Maya Rudolph, Dax Shepard",

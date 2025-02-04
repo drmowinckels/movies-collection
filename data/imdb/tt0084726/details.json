@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "04 Jun 1982",
   "Runtime": "113 min",
-  "Genre": "Action, Adventure, Sci-Fi",
+  "Genre": ["Action", "Adventure", "Sci-Fi"],
   "Director": "Nicholas Meyer",
   "Writer": "Gene Roddenberry, Jack B. Sowards, Harve Bennett",
   "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",

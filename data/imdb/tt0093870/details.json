@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "17 Jul 1987",
   "Runtime": "102 min",
-  "Genre": "Action, Crime, Sci-Fi",
+  "Genre": ["Action", "Crime", "Sci-Fi"],
   "Director": "Paul Verhoeven",
   "Writer": "Edward Neumeier, Michael Miner",
   "Actors": "Peter Weller, Nancy Allen, Dan O'Herlihy",

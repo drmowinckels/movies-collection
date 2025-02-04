@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "26 Aug 2015",
   "Runtime": "103 min",
-  "Genre": "Action, Thriller",
+  "Genre": ["Action", "Thriller"],
   "Director": "John Erick Dowdle",
   "Writer": "John Erick Dowdle, Drew Dowdle",
   "Actors": "Lake Bell, Pierce Brosnan, Owen Wilson",

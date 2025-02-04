@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "23 Jun 1976",
   "Runtime": "119 min",
-  "Genre": "Action, Adventure, Sci-Fi",
+  "Genre": ["Action", "Adventure", "Sci-Fi"],
   "Director": "Michael Anderson",
   "Writer": "David Zelag Goodman, William F. Nolan, George Clayton Johnson",
   "Actors": "Michael York, Jenny Agutter, Richard Jordan",

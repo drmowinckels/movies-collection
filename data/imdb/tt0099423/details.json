@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "03 Jul 1990",
   "Runtime": "124 min",
-  "Genre": "Action, Thriller",
+  "Genre": ["Action", "Thriller"],
   "Director": "Renny Harlin",
   "Writer": "Steven E. de Souza, Doug Richardson, Walter Wager",
   "Actors": "Bruce Willis, William Atherton, Bonnie Bedelia",

@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "18 Jun 1965",
   "Runtime": "139 min",
-  "Genre": "Comedy, Family, Fantasy",
+  "Genre": ["Comedy", "Family", "Fantasy"],
   "Director": "Robert Stevenson",
   "Writer": "Bill Walsh, Don DaGradi, P.L. Travers",
   "Actors": "Julie Andrews, Dick Van Dyke, David Tomlinson",

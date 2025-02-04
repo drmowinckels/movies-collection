@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "25 Dec 2005",
   "Runtime": "134 min",
-  "Genre": "Comedy, Crime, Musical",
+  "Genre": ["Comedy", "Crime", "Musical"],
   "Director": "Susan Stroman",
   "Writer": "Mel Brooks, Thomas Meehan",
   "Actors": "Nathan Lane, Matthew Broderick, Uma Thurman",

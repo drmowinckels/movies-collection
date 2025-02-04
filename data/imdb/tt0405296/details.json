@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "28 Jul 2006",
   "Runtime": "100 min",
-  "Genre": "Animation, Comedy, Crime",
+  "Genre": ["Animation", "Comedy", "Crime"],
   "Director": "Richard Linklater",
   "Writer": "Philip K. Dick, Richard Linklater",
   "Actors": "Keanu Reeves, Winona Ryder, Robert Downey Jr.",

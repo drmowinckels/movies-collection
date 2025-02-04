@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "25 Dec 1997",
   "Runtime": "177 min",
-  "Genre": "Action, Adventure, Drama",
+  "Genre": ["Action", "Adventure", "Drama"],
   "Director": "Kevin Costner",
   "Writer": "David Brin, Eric Roth, Brian Helgeland",
   "Actors": "Kevin Costner, Will Patton, Larenz Tate",

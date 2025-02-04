@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "24 Jan 2003",
   "Runtime": "113 min",
-  "Genre": "Comedy, Crime, Musical",
+  "Genre": ["Comedy", "Crime", "Musical"],
   "Director": "Rob Marshall",
   "Writer": "Bill Condon, Bob Fosse, Fred Ebb",
   "Actors": "Renée Zellweger, Catherine Zeta-Jones, Richard Gere",

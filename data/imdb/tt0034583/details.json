@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "23 Jan 1943",
   "Runtime": "102 min",
-  "Genre": "Drama, Romance, War",
+  "Genre": ["Drama", "Romance", "War"],
   "Director": "Michael Curtiz",
   "Writer": "Julius J. Epstein, Howard Koch, Murray Burnett",
   "Actors": "Humphrey Bogart, Ingrid Bergman, Paul Henreid",

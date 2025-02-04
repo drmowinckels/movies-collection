@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "20 Apr 1977",
   "Runtime": "93 min",
-  "Genre": "Comedy, Romance",
+  "Genre": ["Comedy", "Romance"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen, Marshall Brickman",
   "Actors": "Woody Allen, Diane Keaton, Tony Roberts",

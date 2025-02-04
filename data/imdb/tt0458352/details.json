@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "30 Jun 2006",
   "Runtime": "109 min",
-  "Genre": "Comedy, Drama",
+  "Genre": ["Comedy", "Drama"],
   "Director": "David Frankel",
   "Writer": "Aline Brosh McKenna, Lauren Weisberger",
   "Actors": "Anne Hathaway, Meryl Streep, Adrian Grenier",

@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "23 Jan 2009",
   "Runtime": "119 min",
-  "Genre": "Drama, Romance",
+  "Genre": ["Drama", "Romance"],
   "Director": "Sam Mendes",
   "Writer": "Justin Haythe, Richard Yates",
   "Actors": "Leonardo DiCaprio, Kate Winslet, Christopher Fitzgerald",

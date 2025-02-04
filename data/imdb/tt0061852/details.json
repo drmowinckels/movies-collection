@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "18 Oct 1967",
   "Runtime": "78 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Wolfgang Reitherman",
   "Writer": "Larry Clemmons, Ralph Wright, Ken Anderson",
   "Actors": "Phil Harris, Sebastian Cabot, Louis Prima",

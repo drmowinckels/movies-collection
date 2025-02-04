@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "08 May 2009",
   "Runtime": "127 min",
-  "Genre": "Action, Adventure, Sci-Fi",
+  "Genre": ["Action", "Adventure", "Sci-Fi"],
   "Director": "J.J. Abrams",
   "Writer": "Roberto Orci, Alex Kurtzman, Gene Roddenberry",
   "Actors": "Chris Pine, Zachary Quinto, Simon Pegg",
@@ -37,5 +37,5 @@
   "Production": "N/A",
   "Website": "N/A",
   "Response": "True",
-  "Source": "loftet_01"
+  "Source": "Loftet 02"
 }

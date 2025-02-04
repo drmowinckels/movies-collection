@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "21 May 2009",
   "Runtime": "115 min",
-  "Genre": "Action, Adventure, Sci-Fi",
+  "Genre": ["Action", "Adventure", "Sci-Fi"],
   "Director": "McG",
   "Writer": "John Brancato, Michael Ferris",
   "Actors": "Christian Bale, Sam Worthington, Anton Yelchin",
@@ -37,5 +37,5 @@
   "Production": "N/A",
   "Website": "N/A",
   "Response": "True",
-  "Source": "loftet_01"
+  "Source": "Loftet 02"
 }

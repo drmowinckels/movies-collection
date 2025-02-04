@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "10 Oct 1968",
   "Runtime": "98 min",
-  "Genre": "Action, Adventure, Fantasy",
+  "Genre": ["Action", "Adventure", "Fantasy"],
   "Director": "Roger Vadim",
   "Writer": "Jean-Claude Forest, Terry Southern, Roger Vadim",
   "Actors": "Jane Fonda, John Phillip Law, Anita Pallenberg",

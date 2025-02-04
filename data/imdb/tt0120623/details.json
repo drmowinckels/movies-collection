@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "25 Nov 1998",
   "Runtime": "95 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "John Lasseter, Andrew Stanton",
   "Writer": "John Lasseter, Andrew Stanton, Joe Ranft",
   "Actors": "Kevin Spacey, Dave Foley, Julia Louis-Dreyfus",

@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "23 Nov 2001",
   "Runtime": "92 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Pete Docter, David Silverman, Lee Unkrich",
   "Writer": "Pete Docter, Jill Culton, Jeff Pidgeon",
   "Actors": "Billy Crystal, John Goodman, Mary Gibbs",

@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "16 Jun 2000",
   "Runtime": "94 min",
-  "Genre": "Animation, Action, Adventure",
+  "Genre": ["Animation", "Action", "Adventure"],
   "Director": "Don Bluth, Gary Goldman",
   "Writer": "Hans Bauer, Randall McCormick, Ben Edlund",
   "Actors": "Matt Damon, Drew Barrymore, Bill Pullman",

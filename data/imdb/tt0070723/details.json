@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "09 May 1973",
   "Runtime": "97 min",
-  "Genre": "Crime, Mystery, Sci-Fi",
+  "Genre": ["Crime", "Mystery", "Sci-Fi"],
   "Director": "Richard Fleischer",
   "Writer": "Stanley R. Greenberg, Harry Harrison",
   "Actors": "Charlton Heston, Edward G. Robinson, Leigh Taylor-Young",

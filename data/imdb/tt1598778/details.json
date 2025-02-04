@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "09 Sep 2011",
   "Runtime": "106 min",
-  "Genre": "Drama, Thriller",
+  "Genre": ["Drama", "Thriller"],
   "Director": "Steven Soderbergh",
   "Writer": "Scott Z. Burns",
   "Actors": "Matt Damon, Kate Winslet, Jude Law",

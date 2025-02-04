@@ -4,7 +4,7 @@
   "Rated": "N/A",
   "Released": "N/A",
   "Runtime": "25 min",
-  "Genre": "Animation, Short, Family",
+  "Genre": ["Animation", "Short", "Family"],
   "Director": "N/A",
   "Writer": "N/A",
   "Actors": "Alison Cork, Ed Baines",

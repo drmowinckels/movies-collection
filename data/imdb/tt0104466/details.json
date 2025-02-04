@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "18 Sep 1992",
   "Runtime": "108 min",
-  "Genre": "Comedy, Drama, Romance",
+  "Genre": ["Comedy", "Drama", "Romance"],
   "Director": "Woody Allen",
   "Writer": "Woody Allen",
   "Actors": "Woody Allen, Mia Farrow, Sydney Pollack",

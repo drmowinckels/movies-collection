@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "16 May 1980",
   "Runtime": "134 min",
-  "Genre": "Drama, Music, Musical",
+  "Genre": ["Drama", "Music", "Musical"],
   "Director": "Alan Parker",
   "Writer": "Christopher Gore",
   "Actors": "Eddie Barth, Irene Cara, Lee Curreri",

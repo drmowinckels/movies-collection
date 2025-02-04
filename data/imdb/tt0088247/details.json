@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "26 Oct 1984",
   "Runtime": "107 min",
-  "Genre": "Action, Adventure, Sci-Fi",
+  "Genre": ["Action", "Adventure", "Sci-Fi"],
   "Director": "James Cameron",
   "Writer": "James Cameron, Gale Anne Hurd, William Wisher",
   "Actors": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",
@@ -37,5 +37,5 @@
   "Production": "N/A",
   "Website": "N/A",
   "Response": "True",
-  "Source": "loftet_01"
+  "Source": "Loftet 02"
 }

@@ -4,7 +4,7 @@
   "Rated": "G",
   "Released": "25 Jan 1961",
   "Runtime": "79 min",
-  "Genre": "Animation, Adventure, Comedy",
+  "Genre": ["Animation", "Adventure", "Comedy"],
   "Director": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
   "Writer": "Bill Peet, Dodie Smith",
   "Actors": "Rod Taylor, Betty Lou Gerson, J. Pat O'Malley",

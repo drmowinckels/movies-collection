@@ -4,7 +4,7 @@
   "Rated": "Approved",
   "Released": "06 Jun 1956",
   "Runtime": "84 min",
-  "Genre": "Crime, Drama, Film-Noir",
+  "Genre": ["Crime", "Drama", "Film-Noir"],
   "Director": "Stanley Kubrick",
   "Writer": "Stanley Kubrick, Jim Thompson, Lionel White",
   "Actors": "Sterling Hayden, Coleen Gray, Vince Edwards",

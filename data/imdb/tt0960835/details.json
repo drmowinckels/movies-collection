@@ -4,7 +4,7 @@
   "Rated": "PG-13",
   "Released": "26 Jun 2007",
   "Runtime": "86 min",
-  "Genre": "Action, Sci-Fi, Thriller",
+  "Genre": ["Action", "Sci-Fi", "Thriller"],
   "Director": "Leigh Scott",
   "Writer": "Leigh Scott",
   "Actors": "Matthew Wolf, Amy Weber, Shaley Scott, Eliza Swenson",

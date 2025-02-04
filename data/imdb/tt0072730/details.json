@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "14 Nov 1975",
   "Runtime": "91 min",
-  "Genre": "Comedy, Drama, Sci-Fi",
+  "Genre": ["Comedy", "Drama", "Sci-Fi"],
   "Director": "L.Q. Jones",
   "Writer": "L.Q. Jones, Harlan Ellison, Wayne Cruseturner",
   "Actors": "Don Johnson, Jason Robards, Susanne Benton",

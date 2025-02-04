@@ -4,7 +4,7 @@
   "Rated": "R",
   "Released": "31 Mar 1999",
   "Runtime": "136 min",
-  "Genre": "Action, Sci-Fi",
+  "Genre": ["Action", "Sci-Fi"],
   "Director": "Lana Wachowski, Lilly Wachowski",
   "Writer": "Lilly Wachowski, Lana Wachowski",
   "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",

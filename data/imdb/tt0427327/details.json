@@ -4,7 +4,7 @@
   "Rated": "PG",
   "Released": "20 Jul 2007",
   "Runtime": "117 min",
-  "Genre": "Comedy, Drama, Musical",
+  "Genre": ["Comedy", "Drama", "Musical"],
   "Director": "Adam Shankman",
   "Writer": "Leslie Dixon, John Waters, Mark O'Donnell",
   "Actors": "John Travolta, Queen Latifah, Nikki Blonsky",
