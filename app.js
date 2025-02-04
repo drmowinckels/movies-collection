@@ -7,7 +7,7 @@ async function fetchMovieDirectories() {
     .split("\n")
     .slice(1)
     .map(line => {
-      const [title, year, imdb_id, source] = line.split("\t");
+      const [title, year, format, source, imdb_id] = line.split("\t");
       return imdb_id;
     })
     .filter(imdb_id => imdb_id);
@@ -38,7 +38,7 @@ async function renderMovies() {
 
   for (const imdbId of imdbIds) {
     const details = await fetchMovieDetails(imdbId);
-    const genres = details.Genre ? details.Genre.split(", ") : ["Unknown"];
+    const genres = Array.isArray(details.Genre) ? details.Genre : ["Unknown"];
 
     // Store unique genres
     genres.forEach(genre => uniqueGenres.add(genre));
@@ -79,8 +79,14 @@ async function renderMovies() {
   allMoviesBtn.innerHTML = `<i class="fa-solid fa-film me-2"></i><span class="hide-on-collapse">All</span>`;
   genreList.appendChild(allMoviesBtn);
 
+  // Ensure uniqueGenres is an array
+  const uniqueGenresArray = Array.isArray(uniqueGenres) ? uniqueGenres : Array.from(uniqueGenres || []);
+
+  // Sort genres alphabetically, keeping "All" on top
+  const sortedGenres = [...uniqueGenresArray.filter(g => g !== "All").sort()];
+
   // Generate sidebar genre links
-  uniqueGenres.forEach(genre => {
+  sortedGenres.forEach(genre => {
     const genreA = document.createElement("a");
     genreA.setAttribute("data-genre", genre);
     genreA.classList.add("p-2", "sidebar-link", "text-decoration-none");
@@ -118,12 +124,15 @@ document.addEventListener("click", async (e) => {
 
     document.getElementById("modalTitle").textContent = details.Title;
     document.getElementById("modalPlot").textContent = details.Plot;
-    document.getElementById("modalGenre").textContent = details.Genre;
     document.getElementById("modalDirector").textContent = details.Director;
     document.getElementById("modalActors").textContent = details.Actors || "N/A";
     document.getElementById("modalYear").textContent = details.Year || "N/A";
     document.getElementById("modalRuntime").textContent = details.Runtime || "N/A";
     document.getElementById("modalSource").textContent = details.Source || "N/A";
+
+    document.getElementById("modalGenre").textContent = 
+  Array.isArray(details.Genre) ? details.Genre.join(", ") : details.Genre || "Unknown";
+
 
     document.getElementById("modalPoster").src = `${dataFolder}/${imdbId}/poster.jpg`;
     document.getElementById("modalPoster").onerror = () => {

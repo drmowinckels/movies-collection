@@ -13,7 +13,7 @@ movies$imdb_id <- apply(
 
 # Save the updated TSV file
 write.table(
-  movies,
+  subset(movies, !is.na(movies$imdb_id)),
   "data/movie_collection.tsv", 
   sep = "\t",
   row.names = FALSE,
