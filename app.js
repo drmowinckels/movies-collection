@@ -38,94 +38,127 @@ async function loadGenreIcons() {
  * @param {string} view "grid" or "list"
  */
 async function renderMovies(view = "grid") {
-  const imdbIds = await fetchMovieDirectories();
-  const genreIcons = await loadGenreIcons();
-  const sidebarSpinner = document.getElementById("sidebarSpinner");
-
-  const movieGrid = document.getElementById("movieGrid");
+  const movieGrid = document.getElementById("movie-grid");
   const genreList = document.getElementById("genre-nav");
+  const sidebarSpinner = document.getElementById("sidebar-spinner");
 
   movieGrid.innerHTML = ""; // Clear content
   genreList.innerHTML = ""; // Clear sidebar
 
+  showLoadingSkeleton(movieGrid); // Show skeleton loader
+
+  const imdbIds = await fetchMovieDirectories();
+  const genreIcons = await loadGenreIcons();
+
+  // Fetch all movie details in parallel
+  const movieDetailsList = await Promise.all(imdbIds.map(fetchMovieDetails));
+
   const allMovies = [];
   const uniqueGenres = new Set();
 
-  for (const imdbId of imdbIds) {
-    const details = await fetchMovieDetails(imdbId);
+  movieDetailsList.forEach((details, index) => {
     const genres = Array.isArray(details.Genre) ? details.Genre : ["Unknown"];
     genres.forEach(genre => uniqueGenres.add(genre));
 
-    const movieData = {
-      imdbId,
+    allMovies.push({
+      imdbId: imdbIds[index],
       title: details.Title,
       year: details.Year,
       genres: genres.join(", "),
-      poster: `${dataFolder}/${imdbId}/poster.jpg`,
+      poster: `${dataFolder}/${imdbIds[index]}/poster.jpg`,
       imdbRating: details.Ratings?.find(r => r.Source === "Internet Movie Database")?.Value || "N/A"
-    };
+    });
+  });
 
-    allMovies.push(movieData);
-  }
+  // Incrementally render movies
+  renderMoviesIncrementally(movieGrid, allMovies, view);
 
-  if (view === "grid") {
-    renderGridView(movieGrid, allMovies);
-  } else {
-    renderListView(movieGrid, allMovies);
-  }
-
+  // Render sidebar genres
   renderSidebar(genreList, uniqueGenres, genreIcons, allMovies);
+
   sidebarSpinner.style.display = "none"; // Hide spinner after loading
 }
 
 /**
- * Render movies in grid view
+ * Render movies incrementally in batches
  * @param {HTMLElement} container The container element
  * @param {Object[]} movies List of movie data
+ * @param {string} view "grid" or "list"
  */
-function renderGridView(container, movies) {
-  container.classList.remove("list-group", "list-group-flush");
-  container.classList.add("row", "g-4");
+function renderMoviesIncrementally(container, movies, view) {
+  let index = 0;
+  
+  function renderBatch() {
+    const batchSize = 10; // Render in batches of 10
+    const fragment = document.createDocumentFragment();
 
-  movies.forEach(movie => {
-    const movieElement = document.createElement("div");
-    movieElement.classList.add("col-xl-2", "col-lg-3", "col-md-4", "col-sm-6", "movie-card", "movie-item");
-    movieElement.innerHTML = `
-      <div class="card bg-dark text-white">
-        <img src="${movie.poster}" class="card-img-top" alt="${movie.title}" onerror="this.src='fallback.jpg';">
-        <div class="card-body">
-          <h5 class="card-title title">${movie.title}</h5>
-        </div>
-        <div class="card-footer text-muted">${movie.year}</div>
-      </div>`;
-    movieElement.addEventListener("click", () => showMovieDetails(movie));
-    movieElement.dataset.imdbId = movie.imdbId;
-    movieElement.dataset.genres = movie.genres;
-    container.appendChild(movieElement);
-  });
+    for (let i = 0; i < batchSize && index < movies.length; i++, index++) {
+      const movieElement = (view === "grid") ? createGridElement(movies[index]) : createListElement(movies[index]);
+      fragment.appendChild(movieElement);
+    }
+
+    container.appendChild(fragment);
+
+    if (index < movies.length) {
+      requestAnimationFrame(renderBatch);
+    }
+  }
+
+  renderBatch();
 }
 
 /**
- * Render movies in list view
+ * Show loading skeletons while fetching data
  * @param {HTMLElement} container The container element
- * @param {Object[]} movies List of movie data
+ * @param {number} count Number of skeletons to show
  */
-function renderListView(container, movies) {
-  container.classList.remove("row", "g-4");
-  container.classList.add("list-group", "list-group-flush");
+function showLoadingSkeleton(container, count = 10) {
+  container.innerHTML = "";
+  for (let i = 0; i < count; i++) {
+    const skeleton = document.createElement("div");
+    skeleton.classList.add("skeleton");
+    container.appendChild(skeleton);
+  }
+}
 
-  movies.forEach(movie => {
-    const list = document.createElement("div");
-    list.classList.add("list-group-item", "d-flex", "justify-content-between","list-group-item-dark", "align-items-center", "p-2", "movie-item")
-    list.innerHTML = `
-      <p class="title">${movie.title}</p>
-      <span class="badge bg-info text-black">${movie.year}</span>
-    `
-    list.addEventListener("click", () => showMovieDetails(movie));
-    list.dataset.imdbId = movie.imdbId;
-    list.dataset.genres = movie.genres;
-    container.appendChild(list);
-  });
+/**
+ * Create a grid view movie element
+ * @param {Object} movie Movie data
+ * @returns {HTMLElement} Movie element
+ */
+function createGridElement(movie) {
+  const movieElement = document.createElement("div");
+  movieElement.classList.add("col-xl-2", "col-lg-3", "col-md-4", "col-sm-6", "movie-card", "movie-item");
+  movieElement.innerHTML = `
+    <div class="card bg-dark text-white">
+      <img src="${movie.poster}" class="card-img-top" alt="${movie.title}" onerror="this.src='fallback.jpg';">
+      <div class="card-body">
+        <h5 class="card-title title">${movie.title}</h5>
+      </div>
+      <div class="card-footer text-muted">${movie.year}</div>
+    </div>`;
+  movieElement.addEventListener("click", () => showMovieDetails(movie));
+  movieElement.dataset.imdbId = movie.imdbId;
+  movieElement.dataset.genres = movie.genres;
+  return movieElement;
+}
+
+/**
+ * Create a list view movie element
+ * @param {Object} movie Movie data
+ * @returns {HTMLElement} Movie list item
+ */
+function createListElement(movie) {
+  const list = document.createElement("div");
+  list.classList.add("list-group-item", "list-group-item-dark", 
+    "d-flex", "justify-content-between", "align-items-center", "movie-item", "p-2", "border-0", "mt-0");
+  list.innerHTML = `
+    <span class="title">${movie.title}</span>
+    <span class="badge bg-info text-black">${movie.year}</span>`;
+  list.addEventListener("click", () => showMovieDetails(movie));
+  list.dataset.imdbId = movie.imdbId;
+  list.dataset.genres = movie.genres;
+  return list;
 }
 
 /**
@@ -136,7 +169,7 @@ function renderListView(container, movies) {
  * @param {Object[]} movies List of all movies
  */
 function renderSidebar(sidebar, genres, icons, movies) {
-  sidebar.innerHTML = ""; // Clear existing content
+  sidebar.innerHTML = "";
 
   // "All Movies" button
   sidebar.appendChild(createGenreButton("All", "fa-film", movies));
@@ -161,14 +194,23 @@ function createGenreButton(genre, iconClass) {
   button.innerHTML = `<i class="fa-solid ${iconClass} me-2"></i><span class="hide-on-collapse">${genre}</span>`;
   
   button.addEventListener("click", () => {
-    const movieItem = document.querySelectorAll(".movie-item");
-    movieItem.forEach(item => {
-      const movieGenre = item.dataset.genres?.split(", ") || [];
-      toggleVisibility(item, genre === "All" || movieGenre.includes(genre))
+    const movieItems = document.querySelectorAll(".movie-item");
+    movieItems.forEach(item => {
+      const movieGenres = item.dataset.genres?.split(", ") || [];
+      toggleVisibility(item, genre === "All" || movieGenres.includes(genre));
     });
   });
 
   return button;
+}
+
+/**
+ * Toggle the visibility of an element based on a predicate function.
+ * @param {HTMLElement} item The DOM element
+ * @param {boolean} predicate Whether to show or hide
+ */
+function toggleVisibility(item, predicate) {
+  item.classList.toggle("d-none", !predicate);
 }
 
 // Search filter
@@ -176,25 +218,11 @@ document.getElementById("searchInput").addEventListener("input", (e) => {
   const query = e.target.value.toLowerCase();
   const movieItem = document.querySelectorAll(".movie-item");
   movieItem.forEach(item => {
+    console.log(item);
     const title = item.querySelector(".title").textContent.toLowerCase();
     toggleVisibility(item, title.includes(query))
   });
 });
-
-/**
- * Toggles the visibility of an element based on a predicate function.
- *
- * @param {HTMLElement} item - The DOM element to show or hide.
- * @param {Function} predicate - A function that returns true if the item should be shown, false otherwise.
- */
-function toggleVisibility(item, predicate) {
-  if (predicate) {
-      item.classList.remove("d-none");
-  } else {
-      item.classList.add("d-none");
-  }
-}
-
 
 /**
  * Display movie details in a modal
@@ -204,15 +232,15 @@ async function showMovieDetails(movie) {
   const details = await fetchMovieDetails(movie.imdbId);
 
   // Remove any existing modal
-  const existingModal = document.getElementById("movieModal");
+  const existingModal = document.getElementById("movie-modal");
   if (existingModal) existingModal.remove();
 
   // Create modal container
   const modal = document.createElement("div");
-  modal.id = "movieModal";
+  modal.id = "movie-modal";
   modal.classList.add("modal", "fade");
   modal.tabIndex = -1;
-  modal.setAttribute("aria-labelledby", "movieModalLabel");
+  modal.setAttribute("aria-labelledby", "movie-modal-label");
   modal.setAttribute("aria-hidden", "true");
 
   // Set up modal content
@@ -220,7 +248,7 @@ async function showMovieDetails(movie) {
     <div class="modal-dialog modal-lg">
       <div class="modal-content bg-dark text-white">
         <div class="modal-header border-secondary">
-          <h5 class="modal-title" id="movieModalLabel">${details.Title}</h5>
+          <h5 class="modal-title" id="movie-modal-label">${details.Title}</h5>
           <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
