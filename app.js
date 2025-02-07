@@ -190,8 +190,13 @@ function renderSidebar(sidebar, genres, icons, movies) {
 function createGenreButton(genre, iconClass) {
   const button = document.createElement("a");
   button.classList.add("p-2", "sidebar-link", "text-decoration-none");
+  button.setAttribute("data-bs-toggle", "tooltip");
+  button.setAttribute("data-bs-placement", "top");
+  button.setAttribute("title", genre);
+  button.setAttribute("role", "button");
   button.dataset.genre = genre;
-  button.innerHTML = `<i class="fa-solid ${iconClass} me-2"></i><span class="hide-on-collapse">${genre}</span>`;
+  button.innerHTML = `<i class="fa-solid ${iconClass} me-2"></i>
+    <span class="hide-on-collapse">${genre}</span>`;
   
   button.addEventListener("click", () => {
     const movieItems = document.querySelectorAll(".movie-item");
@@ -289,16 +294,36 @@ async function showMovieDetails(movie) {
 
 // View initial values
 $("#viewToggle").bootstrapToggle({
-  on: '<i class="fa-solid fa-table-cells"> Grid</i>',  // Grid icon
-  off: '<i class="fa-solid fa-table-list"> List</i>'   // List icon
+  on: '<i class="fa-solid fa-table-cells toggle"></i>', 
+  off: '<i class="fa-solid fa-table-list toggle"></i>' 
 });
 
 // View toggle functionality
 $("#viewToggle").change(function () {
-  $(".toggle-on").html('<i class="fa-solid fa-table-cells"> Grid</i>');
-  $(".toggle-off").html('<i class="fa-solid fa-table-list"> List</i>');  
+  $(".toggle-on").html('<i class="fa-solid fa-table-cells toggle"></i>');
+  $(".toggle-off").html('<i class="fa-solid fa-table-list toggle"></i>');  
   renderMovies($(this).prop("checked") ? "grid" : "list");
 });
+
+function toggleSidebar() {
+  const sidebar = document.querySelector(".sidebar");
+  const searchInput = document.getElementById("searchInput");
+  const viewToggle = document.querySelector("toggle");
+  const genreContainer = document.getElementById("genre-nav");
+  const mainContent = document.querySelector(".main-content"); 
+
+  const isCollapsed = sidebar.classList.toggle("collapsed");
+  mainContent.classList.toggle("collapsed", isCollapsed);
+
+  // Hide/show search input and view toggle based on collapse state
+  searchInput.classList.toggle("invisible", isCollapsed);
+  viewToggle.classList.toggle("d-none", isCollapsed);
+
+  // Toggle two-column layout for genres when collapsed
+  genreContainer.classList.toggle("genre-container", isCollapsed);
+
+}
+
 
 // Initial render
 renderMovies();

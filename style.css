@@ -1,7 +1,3 @@
-:root {
-  --sidebar-width: 280px;
-  --sidebar-width-collapsed: 80px;
-}
 
 body {
   background-color: #000;
@@ -75,6 +71,11 @@ body {
 
 /* Sidebar */
 
+:root {
+  --sidebar-width: 280px;
+  --sidebar-width-collapsed: 100px;
+}
+
 .sidebar {
   width: var(--sidebar-width);
   height: 100vh;
@@ -84,6 +85,29 @@ body {
 
 .sidebar.collapsed {
   width: var(--sidebar-width-collapsed);
+}
+
+.main-content {
+  margin-left: var(--sidebar-width);
+  min-height: 100vh;
+  padding: 20px;
+  transition: all 0.3s ease;
+}
+
+.main-content.collapsed {
+  margin-left: var(--sidebar-width-collapsed);
+}
+
+/* When sidebar is collapsed, allow multi-column layout */
+.sidebar-collapsed .genre-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns */
+  gap: 8px;
+}
+
+/* Hide genre text in collapsed mode, keep icons */
+.sidebar-collapsed .sidebar-link span {
+  display: none;
 }
 
 #genre-nav{
@@ -98,6 +122,11 @@ body {
   white-space: nowrap;
 }
 
+.sidebar.collapsed .sidebar-link{
+  width: 24px;
+  text-align: center;
+}
+
 .sidebar-link:hover {
   color: #ffffff;
   background: rgba(255, 255, 255, 0.1);
@@ -109,16 +138,6 @@ body {
   background: rgba(255, 255, 255, 0.1);
 }
 
-.main-content {
-  margin-left: var(--sidebar-width);
-  min-height: 100vh;
-  padding: 20px;
-  transition: all 0.3s ease;
-}
-
-.collapsed~.main-content {
-  margin-left: var(--sidebar-width-collapsed);
-}
 
 .toggle-btn {
   position: absolute;
@@ -142,15 +161,15 @@ body {
 .collapsed .hide-on-collapse {
   opacity: 0;
   visibility: hidden;
+  display: none;
 }
 
-
-.collapsed .sidebar-link {
-  text-align: center;
-  margin: 4px 8px;
-}
-
-.collapsed .sidebar-link i {
-  margin: 0 !important;
+/* Ensure genres are in a vertical list by default */
+.genre-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-height: 80vh; /* Prevents excessive height overflow */
+  overflow-y: auto;
 }
 
