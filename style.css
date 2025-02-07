@@ -98,18 +98,6 @@ body {
   margin-left: var(--sidebar-width-collapsed);
 }
 
-/* When sidebar is collapsed, allow multi-column layout */
-.sidebar-collapsed .genre-container {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Two columns */
-  gap: 8px;
-}
-
-/* Hide genre text in collapsed mode, keep icons */
-.sidebar-collapsed .sidebar-link span {
-  display: none;
-}
-
 #genre-nav{
   overflow: hidden;
 }
