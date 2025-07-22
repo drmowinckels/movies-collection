@@ -1,0 +1,37 @@
+{
+  "Title": "Oliver Twist",
+  "Year": "2005",
+  "Rated": "PG-13",
+  "Released": "30 Sep 2005",
+  "Runtime": "130 min",
+  "Genre": ["Crime", "Drama"],
+  "Director": "Roman Polanski",
+  "Writer": "Charles Dickens, Ronald Harwood",
+  "Actors": "Barney Clark, Ben Kingsley, Jeremy Swift",
+  "Plot": "In the Nineteenth Century, orphan Oliver Twist is sent from the orphanage to a workhouse, where the children are mistreated and barely fed. He moves to the house of an undertaker, but after an unfair severe spank, he starts a seven day runaway to London. He arrives exhausted and starving, and is soon welcomed in a gang of pickpockets lead by the old crook Fagin. When he is mistakenly taken as a thief, the wealthy victim Mr. Brownlow brings Oliver to his home and shelters him. But Fagin and the dangerous Bill Sykes decide to kidnap Oliver to burglarize Mr. Brownlow's fancy house.",
+  "Language": "English",
+  "Country": "Czech Republic, United Kingdom, France, United States",
+  "Awards": "2 wins & 4 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDBiNjAxMjQtODZiNi00NDUxLWJlZTctMmUwODc2NTM2ZjQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "Metascore": "65",
+  "imdbRating": "6.8",
+  "imdbVotes": "34,661",
+  "imdbID": "tt0380599",
+  "Type": "movie",
+  "DVD": "19 Sep 2006",
+  "BoxOffice": "$2,080,321",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 05"
+}

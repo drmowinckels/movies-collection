@@ -1,0 +1,41 @@
+{
+  "Title": "Rollerball",
+  "Year": "1975",
+  "Rated": "R",
+  "Released": "25 Jun 1975",
+  "Runtime": "125 min",
+  "Genre": ["Action", "Sci-Fi", "Sport"],
+  "Director": "Norman Jewison",
+  "Writer": "William Harrison",
+  "Actors": "James Caan, John Houseman, Maud Adams",
+  "Plot": "In a futuristic society where corporations have replaced countries, the violent game of Rollerball is used to control the populace by demonstrating the futility of individuality. However, one player, Jonathan E., rises to the top, fights for his personal freedom, and threatens the corporate control.",
+  "Language": "English",
+  "Country": "United Kingdom, Canada, United States",
+  "Awards": "Won 1 BAFTA Award4 wins & 5 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjhiMTc1ZDMtMjY3NC00YzliLWFkNjYtYWRmYjI2YWRmMzgwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "Metascore": "56",
+  "imdbRating": "6.5",
+  "imdbVotes": "30,490",
+  "imdbID": "tt0073631",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 07"
+}

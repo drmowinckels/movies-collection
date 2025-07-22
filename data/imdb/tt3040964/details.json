@@ -1,0 +1,41 @@
+{
+  "Title": "The Jungle Book",
+  "Year": "2016",
+  "Rated": "PG",
+  "Released": "15 Apr 2016",
+  "Runtime": "106 min",
+  "Genre": ["Animation", "Action", "Adventure"],
+  "Director": "Jon Favreau",
+  "Writer": "Justin Marks, Rudyard Kipling",
+  "Actors": "Neel Sethi, Bill Murray, Ben Kingsley",
+  "Plot": "Living among the wolves in the jungle, young man cub Mowgli quickly learns to live life among his wolf pack and all the animals that inhabit the jungle, but when the villainous tiger Shere Khan threatens Mowgli's life, black panther Bagheera offers to take Mowgli to a nearby man village where he will be safe from the tiger's wrath. Along the way, Mowgli gets tangled up in a series of encounters with a sly snake named Kaa, a swimmingly ruthless gigantopithecus named King Louie and a lazy bear named Baloo, who quickly becomes his guide to the 'bear necessities' of life.",
+  "Language": "English",
+  "Country": "United Kingdom, United States, New Zealand, France, Canada, India",
+  "Awards": "Won 1 Oscar. 33 wins & 56 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "Metascore": "77",
+  "imdbRating": "7.3",
+  "imdbVotes": "297,031",
+  "imdbID": "tt3040964",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$364,001,123",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "Source": "Loftet 06"
+}

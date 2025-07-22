@@ -1,0 +1,30 @@
+{
+  "Title": "Battlestar Galactica",
+  "Year": "2004–2009",
+  "Rated": "TV-14",
+  "Released": "14 Jan 2005",
+  "Runtime": "44 min",
+  "Genre": ["Action", "Adventure", "Drama"],
+  "Director": "N/A",
+  "Writer": "Glen A. Larson, Ronald D. Moore",
+  "Actors": "Edward James Olmos, Mary McDonnell, Jamie Bamber",
+  "Plot": "The second war against the Cylons is over, and The Twelve Colonies have been destroyed. Now Commander Adama of the Battlestar Galatica and President Laura Roslin lead a ragtag fleet of refugees in a supposed search for the fabled lost thirteenth colony, Earth. However, the dangers they face are many, which compound an already difficult situation. In addition to the Cylons hunting and attacking the fleet in space and their infiltrator units carrying out sabotage--even as their former unwitting pawn, Gaius Baltar, helps in the hunt for them while hiding both his own guilt and the strange presence that haunts his every thought--the fleet also faces internal political conflict in which the rabble-rousing figure Tom Zarek is merely the loudest dissenting voice, not to mention recurring shortages of food, water, and even oxygen. In the midst of these trials, however, clues begin to appear to suggest that Adama's bluff about finding Earth might hold more truth than anyone could have guessed.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Won 3 Primetime Emmys. 43 wins & 114 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmMzYzdmNWMtM2ZmMi00Y2E2LWI5ZTMtYWJlNmJiMDgyYWRiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.7/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "8.7",
+  "imdbVotes": "180,582",
+  "imdbID": "tt0407362",
+  "Type": "series",
+  "totalSeasons": "4",
+  "Response": "True",
+  "Source": "Loftet 02"
+}
